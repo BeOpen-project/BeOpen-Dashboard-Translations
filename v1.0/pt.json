@@ -92,6 +92,7 @@
   "dataCategory3":"Harmonização Semântica de Dados",
   "dataCategory4":"Melhoria da qualidade dos dados",
   "dataCategory5":"Coleta de dados e acesso de segurança",
+  "openrefineDescription": "OpenRefine é uma poderosa ferramenta gratuita e de código aberto para trabalhar com dados confusos: limpá-los; transformá-los de um formato em outro; e estendê-los com serviços web e dados externos. Ele opera em linhas de dados que possuem células em colunas, semelhante à maneira como as tabelas de banco de dados relacionais operam, os projetos OpenRefine consistem em uma tabela, cujas linhas podem ser filtradas usando facetas que definem critérios (por exemplo, mostrando linhas onde uma determinada coluna não está vazia). as operações no OpenRefine são feitas em todas as linhas visíveis, por exemplo, a transformação de todas as células em todas as linhas em uma coluna ou a criação de uma nova coluna com base nos dados existentes. As ações executadas em um conjunto de dados são armazenadas no projeto e podem ser '. reproduzidas' em outros conjuntos de dados As fórmulas não são armazenadas em células, mas são usadas para transformar os dados. A transformação é feita apenas uma vez. As expressões de fórmula podem ser escritas em General Refine Expression Language (GREL), em Jython (ou seja, Python). em Clojure.",
 
   "userInfo": "Informações do Usuário",
   "Homepage": "Página Inicial",

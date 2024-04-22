@@ -92,6 +92,7 @@
 "dataCategory3": "Duomenų semantinis suderinimas",
 "dataCategory4": "Duomenų kokybės gerinimas",
 "dataCategory5": "Duomenų rinkimas ir prieiga prie saugos",
+"openrefineDescription": "OpenRefine yra galingas nemokamas atvirojo kodo įrankis, skirtas dirbti su netvarkingais duomenimis: juos išvalyti; transformuoti iš vieno formato į kitą ir išplėsti žiniatinklio paslaugomis bei išoriniais duomenimis. Jis veikia duomenų eilutėse, kuriose yra langelių stulpeliais, panašiai kaip veikia reliacinės duomenų bazės lentelės, kurias sudaro viena lentelė, kurios eilutes galima filtruoti naudojant kriterijus, kurie apibrėžia (pavyzdžiui, rodomos eilutės, kuriose nurodytas stulpelis nėra tuščias, kitaip nei skaičiuoklėse). „OpenRefine“ operacijos atliekamos visose matomose eilutėse, pavyzdžiui, visų langelių transformavimas visose vieno stulpelio eilutėse arba naujo stulpelio sukūrimas pagal esamus duomenis. Veiksmai, atlikti su duomenų rinkiniu, yra saugomi projekte ir gali būti „. Formulės nėra saugomos langeliuose, bet naudojamos duomenims transformuoti. Klojūroje",
 
 "userInfo": "Vartotojo Informacija",
 "Homepage": "Pradinis Puslapis",
