@@ -84,14 +84,14 @@
   "mqvDescription": "The Metadata Quality Assurance (MQA) methodology is defined by the data.europa.eu consortium with the aim of improving the accessibility of datasets published on EU open data portals. It specifies several indicators that help to improve the quality of the metadata harvested by the data.europa.eu portal. Mqa-scoring is a tool that calculates the score a metadata obtains according to the MQA indicators. The tool also verifies that the requirements specified by the MQA for each indicator are met.",
   "osmDescription": "OpenStreetMap (OSM) is a free, open geographic database updated and maintained by a community of volunteers via open collaboration. Contributors collect data from surveys, trace from aerial imagery and also import from other freely licensed geodata sources. OpenStreetMap is freely licensed under the Open Database License and as a result commonly used to make electronic maps, inform turn-by-turn navigation, assist in humanitarian aid and data visualisation. OpenStreetMap uses its own topology to store geographical features which can then be exported into other GIS file formats. The OpenStreetMap website itself is an online map, geodata search engine and editor. Provides information regarding POI, locations, streets, roads, and other relevant geographical locations, as well as, be used as a database to store newly created geographical open data. The tool is not accessible directly, but is integrated within the BeOpen dashboard, in particular through scripts developed and inserted into the Data-space section.",
   "keycloakDescription": "Keycloak is an open-source Identity and Access Manager. It allows to add authentication to applications and secure services with minimum effort. Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more. Keycloak is based on standard protocols and provides support for OpenID Connect, OAuth 2.0, and SAML. In the BeOpen framework, it is the tool that allows access and management of users. Keycloak will be also integrated with all the tools installed on the platform in order to guarantee a single access point to all the framework applications. The tool is directly accessible only by the platform administrator.",
-  "toolsDescription1":"The BeOpen framework, whose purpose is to support public administration in the management improvement and HVDs sharing in line with the pilots needs and the project requirements, offers a set of technical tools that can help in specific activities related to the life cycle of the open datasets.",
-  "toolsDescription2":"The BeOpen framework will specifically support the public administration in the processes that start from the collection of (raw) data to their final publication via API in machine readable formats, helping them in the implementation of the relevant national and European regulation and in particular the HVD implementing act",
-  "toolsDescription3":"The tools are accessible and described below, located in the of open datasets management phase which they mostly cover.",
-  "dataCategory1":"Data Access and Visualization",
-  "dataCategory2":"Data Publication",
-  "dataCategory3":"Data Semantic Harmonization",
-  "dataCategory4":"Data Quality Improvement",
-  "dataCategory5":"Data Collection and Security Access",
+  "toolsDescription1": "The BeOpen framework, whose purpose is to support public administration in the management improvement and HVDs sharing in line with the pilots needs and the project requirements, offers a set of technical tools that can help in specific activities related to the life cycle of the open datasets.",
+  "toolsDescription2": "The BeOpen framework will specifically support the public administration in the processes that start from the collection of (raw) data to their final publication via API in machine readable formats, helping them in the implementation of the relevant national and European regulation and in particular the HVD implementing act",
+  "toolsDescription3": "The tools are accessible and described below, located in the of open datasets management phase which they mostly cover.",
+  "dataCategory1": "Data Access and Visualization",
+  "dataCategory2": "Data Publication",
+  "dataCategory3": "Data Semantic Harmonization",
+  "dataCategory4": "Data Quality Improvement",
+  "dataCategory5": "Data Collection and Security Access",
   "openrefineDescription": "OpenRefine is a powerful free, open source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data. It operates on rows of data which have cells under columns, similar to the manner in which relational database tables operate. OpenRefine projects consist of one table, whose rows can be filtered using facets that define criteria (for example, showing rows where a given column is not empty). Unlike spreadsheets, most operations in OpenRefine are done on all visible rows, for example, the transformation of all cells in all rows under one column, or the creation of a new column based on existing data. Actions performed on a dataset are stored the project and can be 'replayed' on other datasets. Formulas are not stored in cells, but are used to transform the data. Transformation is done only once. Formula expressions can be written in General Refine Expression Language (GREL), in Jython (i.e., Python), and in Clojure.",
 
   "userInfo": "User Information",
@@ -101,5 +101,10 @@
   "Tools": "Tools",
   "Manuals": "Manuals",
   "Data-Space": "Data-Space",
-  "Settings": "Settings"
+  "Settings": "Settings",
+
+  "selectingObject_Success": "Object selected successfully!",
+  "addingObject_Success": "Object added successfully!",
+  "addingObject_ShapeFileError": "The zip file is not a Shape File!",
+  "deletingObject_Success": "Object deleted successfully!"
 }

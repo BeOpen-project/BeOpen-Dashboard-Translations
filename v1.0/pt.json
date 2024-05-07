@@ -87,11 +87,11 @@
   "toolsDescription1": "O framework BeOpen, cujo objetivo é apoiar a administração pública na melhoria da gestão e compartilhamento de HVDs de acordo com as necessidades dos pilotos e os requisitos do projeto, oferece um conjunto de ferramentas técnicas que podem auxiliar em atividades específicas relacionadas à vida ciclo dos conjuntos de dados abertos.",
   "toolsDescription2": "O framework BeOpen irá apoiar especificamente a administração pública nos processos que vão desde a recolha de dados (brutos) até à sua publicação final via API em formatos legíveis por máquina, ajudando-os na implementação da regulamentação nacional e europeia relevante e, em particular, o ato de execução HVD",
   "toolsDescription3": "As ferramentas são acessíveis e descritas abaixo, localizadas na fase de gerenciamento de conjuntos de dados abertos que elas cobrem principalmente.",
-  "dataCategory1":"Acesso e visualização de dados",
-  "dataCategory2":"Publicação de dados",
-  "dataCategory3":"Harmonização Semântica de Dados",
-  "dataCategory4":"Melhoria da qualidade dos dados",
-  "dataCategory5":"Coleta de dados e acesso de segurança",
+  "dataCategory1": "Acesso e visualização de dados",
+  "dataCategory2": "Publicação de dados",
+  "dataCategory3": "Harmonização Semântica de Dados",
+  "dataCategory4": "Melhoria da qualidade dos dados",
+  "dataCategory5": "Coleta de dados e acesso de segurança",
   "openrefineDescription": "OpenRefine é uma poderosa ferramenta gratuita e de código aberto para trabalhar com dados confusos: limpá-los; transformá-los de um formato em outro; e estendê-los com serviços web e dados externos. Ele opera em linhas de dados que possuem células em colunas, semelhante à maneira como as tabelas de banco de dados relacionais operam, os projetos OpenRefine consistem em uma tabela, cujas linhas podem ser filtradas usando facetas que definem critérios (por exemplo, mostrando linhas onde uma determinada coluna não está vazia). as operações no OpenRefine são feitas em todas as linhas visíveis, por exemplo, a transformação de todas as células em todas as linhas em uma coluna ou a criação de uma nova coluna com base nos dados existentes. As ações executadas em um conjunto de dados são armazenadas no projeto e podem ser '. reproduzidas' em outros conjuntos de dados As fórmulas não são armazenadas em células, mas são usadas para transformar os dados. A transformação é feita apenas uma vez. As expressões de fórmula podem ser escritas em General Refine Expression Language (GREL), em Jython (ou seja, Python). em Clojure.",
 
   "userInfo": "Informações do Usuário",
@@ -101,6 +101,10 @@
   "Tools": "Ferramentas",
   "Manuals": "Manuais",
   "Data-Space": "Espaço de Dados",
-  "Settings": "Configurações"
+  "Settings": "Configurações",
 
+  "selectingObject_Success": "Objeto selecionado com sucesso!",
+  "addingObject_Success": "Objeto adicionado com sucesso!",
+  "addingObject_ShapeFileError": "O arquivo zip não é um Shape File!",
+  "deletingObject_Success": "Objeto excluído com sucesso!"
 }

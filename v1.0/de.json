@@ -101,5 +101,10 @@
   "Tools": "Werkzeuge",
   "Manuals": "Handbücher",
   "Data-Space": "Datenraum",
-  "Settings": "Einstellungen"
+  "Settings": "Einstellungen",
+
+  "selectingObject_Success": "Objekt erfolgreich ausgewählt!",
+  "addingObject_Success": "Objekt erfolgreich hinzugefügt!",
+  "addingObject_ShapeFileError": "Die Zip-Datei ist keine Shape-Datei!",
+  "deletingObject_Success": "Objekt erfolgreich gelöscht!"
 }
