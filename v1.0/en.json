@@ -14,7 +14,7 @@
   "addToPrivateDataSpace": "Add Objects to Private Data Space",
   "addToPrivateDataSpaceLabel1": "Browse your data and select a file to see a preview",
   "addToPrivateDataSpaceLabel2": "You can add the uploaded object to your personal bucket using the button at the end of the page",
-  "canSelectFileTypeListLabel": "You can select a text file, an image, a JSON file, a PDF file, a Shape File (SHP) or a GeoJSON file",
+  "canSelectFileTypeListLabel": "You can select a text file, an image, a JSON file, a PDF file, a Zip file of a Shapefile (SHP) or a GeoJSON file. If the uploaded file is a Zip file but not a Shapefile, it will not be possible to preview it.",
   "selectFileToPreview": "Select a file to preview",
   "chooseFile": "Choose a File",
   "fileType": "File Type",

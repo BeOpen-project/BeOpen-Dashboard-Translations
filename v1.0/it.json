@@ -13,7 +13,7 @@
   "addToPrivateDataSpace": "Aggiungi Oggetti allo Spazio Dati Privato",
   "addToPrivateDataSpaceLabel1": "Sfoglia i tuoi dati e seleziona un file per vederne un'anteprima",
   "addToPrivateDataSpaceLabel2": "Puoi aggiungere l'oggetto caricato al tuo bucket personale utilizzando il pulsante alla fine della pagina",
-  "canSelectFileTypeListLabel": "Puoi selezionare un file di testo, un'immagine, un file JSON, un file PDF, un file Shape (SHP) o un file GeoJSON",
+  "canSelectFileTypeListLabel": "Puoi selezionare un file di testo, un'immagine, un file JSON, un file PDF, un file di tipo Zip di uno Shape File (SHP) o un file GeoJSON. Nel caso in cui il file caricato sia un Zip ma non uno Shape File, non sarà possibile visualizzarne l'anteprima.",
   "selectFileToPreview": "Seleziona un file per l'anteprima",
   "chooseFile": "Scegli un File",
   "fileType": "Tipo di File",

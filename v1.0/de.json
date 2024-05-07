@@ -14,7 +14,7 @@
   "addToPrivateDataSpace": "Objekte zum privaten Datenspeicher hinzufügen",
   "addToPrivateDataSpaceLabel1": "Durchsuchen Sie Ihre Daten und wählen Sie eine Datei aus, um eine Vorschau anzuzeigen",
   "addToPrivateDataSpaceLabel2": "Sie können das hochgeladene Objekt mithilfe der Schaltfläche am Ende der Seite Ihrem persönlichen Eimer hinzufügen",
-  "canSelectFileTypeListLabel": "Sie können eine Textdatei, ein Bild, eine JSON-Datei, eine PDF-Datei, eine Shape-Datei (SHP) oder eine GeoJSON-Datei auswählen",
+  "canSelectFileTypeListLabel": "Sie können eine Textdatei, ein Bild, eine JSON-Datei, eine PDF-Datei, eine Zip-Datei eines Shapefiles (SHP) oder eine GeoJSON-Datei. Falls die hochgeladene Datei eine Zip-Datei ist, aber kein Shapefile, kann keine Vorschau angezeigt werden.",
   "selectFileToPreview": "Wählen Sie eine Datei zur Vorschau aus",
   "chooseFile": "Datei auswählen",
   "fileType": "Dateityp",
