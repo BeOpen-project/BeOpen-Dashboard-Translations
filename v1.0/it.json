@@ -26,7 +26,7 @@
   "privateDataSpaceLabel2": "Questa è la lista degli elementi nel tuo bucket personale",
   "objectName": "Nome Oggetto",
   "path": "Percorso dell'oggetto",
-  "previewFile": "Anteprima File",
+  "previewFile": "Anteprima",
   "selectedFilePreview": "Anteprima file selezionato",
   "addToPilotSharedDataFolder": "Aggiungi questo elemento alla cartella dati condivisa del Pilota",
   "removeFromBucket": "Rimuovi questo elemento dal bucket",
