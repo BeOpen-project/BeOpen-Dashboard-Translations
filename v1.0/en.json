@@ -106,5 +106,6 @@
   "selectingObject_Success": "Object selected successfully!",
   "addingObject_Success": "Object added successfully!",
   "addingObject_ShapeFileError": "The zip file is not a Shape File!",
-  "deletingObject_Success": "Object deleted successfully!"
+  "deletingObject_Success": "Object deleted successfully!",
+  "queryModeSelect" : "Select the query mode: sqlQuery if you want to perform a SQL query, keyValue if you want to perform a key - value query, freeSearch if you want to perform a free search in all files"
 }
