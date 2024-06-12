@@ -107,6 +107,7 @@
   "addingObject_Success": "Objektas pridėtas sėkmingai!",
   "addingObject_ShapeFileError": "ZIP failas nėra Shape failas!",
   "deletingObject_Success": "Objektas pašalintas sėkmingai!",
-  "queryModeSelect" : "Pasirinkite užklausos režimą: sqlQuery jei norite atlikti SQL užklausą, keyValue jei norite atlikti rakto vertės užklausą, freeSearch jei norite atlikti nemokamą paiešką visuose failuose"
+  "queryModeSelect" : "Pasirinkite užklausos režimą: sqlQuery jei norite atlikti SQL užklausą, keyValue jei norite atlikti rakto vertės užklausą, freeSearch jei norite atlikti nemokamą paiešką visuose failuose",
+  "typeSelect" : "Pasirinkite objekto tipą, kurį norite filtruoti"
 
 }

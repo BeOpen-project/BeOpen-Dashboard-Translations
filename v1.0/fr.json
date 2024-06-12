@@ -107,6 +107,7 @@
   "addingObject_Success": "Objet ajouté avec succès !",
   "addingObject_ShapeFileError": "Le fichier zip n'est pas un fichier Shape !",
   "deletingObject_Success": "Objet supprimé avec succès !",
-  "queryModeSelect" : "Sélectionnez le mode de requête : sqlQuery si vous souhaitez effectuer une requête SQL, keyValue si vous souhaitez effectuer une requête clé - valeur, freeSearch si vous souhaitez effectuer une recherche libre dans tous les fichiers"
+  "queryModeSelect" : "Sélectionnez le mode de requête : sqlQuery si vous souhaitez effectuer une requête SQL, keyValue si vous souhaitez effectuer une requête clé - valeur, freeSearch si vous souhaitez effectuer une recherche libre dans tous les fichiers",
+  "typeSelect" : "Sélectionnez le type d'objet à filtrer"
 
 }
