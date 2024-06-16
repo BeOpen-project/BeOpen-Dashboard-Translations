@@ -108,6 +108,7 @@
   "addingObject_ShapeFileError": "The zip file is not a Shape File!",
   "deletingObject_Success": "Object deleted successfully!",
   "queryModeSelect" : "Select the query mode: sqlQuery if you want to perform a SQL query, keyValue if you want to perform a key - value query, freeSearch if you want to perform a free search in all files",
-  "typeSelect" : "Select the type of object to filter"
+  "typeSelect" : "Select the type of object to filter",
+  "queryEngine" : "The query engine"
 
 }
