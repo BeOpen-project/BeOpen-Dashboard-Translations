@@ -107,13 +107,8 @@
   "addingObject_Success": "Objet ajouté avec succès !",
   "addingObject_ShapeFileError": "Le fichier zip n'est pas un fichier Shape !",
   "deletingObject_Success": "Objet supprimé avec succès !",
-  "queryModeSelect" : "Sélectionnez le mode de requête : sqlQuery si vous souhaitez effectuer une requête SQL, keyValue si vous souhaitez effectuer une requête clé - valeur, freeSearch si vous souhaitez effectuer une recherche libre dans tous les fichiers",
+  "queryModeSelect" : "Effectuez des requêtes sur vos données (CSV, JSON ou GeoJSON) en sélectionnant le mode de requête:<br><br>- sélectionnez le mode <b>sqlQuery</b> si vous souhaitez effectuer une requête SQL libre<br><br>- sélectionnez <b>keyValue</b> si vous souhaitez effectuer une requête clé-valeur en spécifiant le nom de la requête avec l'attribut 'key' d'intérêt s'il s'agit d'un JSON ou le nom de la colonne d'intérêt s'il s'agit d'un CSV et dans 'value' la valeur que vous recherchez<br><br>- sélectionnez le mode <b>freeSearch</b> si vous souhaitez effectuer une recherche libre dans tous les fichiers, qui recherche la valeur insérée dans l'ensemble du fichier, sans besoin de filtrer sur une clé spécifique",
   "typeSelect" : "Sélectionnez le type d'objet à filtrer",
-  "queryEngine" : "Moteur de recherche",
-  "queryModeSelectTitle" : "Perform queries on your data (CSV, JSON or GeoJSON) by selecting the query mode: ",
-  "queryModeSelectSqlQuery" : "- select the 'sqlQuery' mode if you want to perform a free SQL query",
-  "queryModeSelectKeyValue" : "- select 'keyValue' if you want to perform a key - value query specifying the name of the query with 'key' attribute of interest if it is a JSON or the name of the column of interest if it is a CSV and in 'value' the value you are looking for",
-  "queryModeSelectFreeSearch" : "- select the 'freeSearch' mode if you want to perform a free search in all files, which searches for the value inserted in the entire file, without the need to filter on a specific key"
-
+  "queryEngine" : "Moteur de recherche"
 
 }

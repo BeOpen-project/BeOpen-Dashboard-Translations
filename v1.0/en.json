@@ -107,12 +107,7 @@
   "addingObject_Success": "Object added successfully!",
   "addingObject_ShapeFileError": "The zip file is not a Shape File!",
   "deletingObject_Success": "Object deleted successfully!",
-  "queryModeSelect" : "Select the query mode: sqlQuery if you want to perform a SQL query, keyValue if you want to perform a key - value query, freeSearch if you want to perform a free search in all files",
+  "queryModeSelect" : "Perform queries on your data (CSV, JSON or GeoJSON) by selecting the query mode:  <br><br>- select the <b>sqlQuery</b> mode if you want to perform a free SQL query <br><br>- select <b>keyValue</b> if you want to perform a key - value query specifying the name of the query with 'key' attribute of interest if it is a JSON or the name of the column of interest if it is a CSV and in 'value' the value you are looking for <br><br>- select the <b>freeSearch</b> mode if you want to perform a free search in all files, which searches for the value inserted in the entire file, without the need to filter on a specific key",
   "typeSelect" : "Select the type of object to filter",
-  "queryEngine" : "The query engine",
-  "queryModeSelectTitle" : "Perform queries on your data (CSV, JSON or GeoJSON) by selecting the query mode: ",
-  "queryModeSelectSqlQuery" : "- select the 'sqlQuery' mode if you want to perform a free SQL query",
-  "queryModeSelectKeyValue" : "- select 'keyValue' if you want to perform a key - value query specifying the name of the query with 'key' attribute of interest if it is a JSON or the name of the column of interest if it is a CSV and in 'value' the value you are looking for",
-  "queryModeSelectFreeSearch" : "- select the 'freeSearch' mode if you want to perform a free search in all files, which searches for the value inserted in the entire file, without the need to filter on a specific key"
-
+  "queryEngine" : "The query engine"
 }

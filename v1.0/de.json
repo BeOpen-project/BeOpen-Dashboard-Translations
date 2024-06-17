@@ -107,12 +107,7 @@
   "addingObject_Success": "Objekt erfolgreich hinzugefügt!",
   "addingObject_ShapeFileError": "Die Zip-Datei ist keine Shape-Datei!",
   "deletingObject_Success": "Objekt erfolgreich gelöscht!",
-  "queryModeSelect" : "Wählen Sie den Abfragemodus: sqlQuery, wenn Sie eine SQL-Abfrage durchführen möchten, keyValue, wenn Sie eine Schlüsselwertabfrage durchführen möchten, freeSearch, wenn Sie eine freie Suche in allen Dateien durchführen möchten",
+  "queryModeSelect" : "Führen Sie Abfragen zu Ihren Daten (CSV, JSON oder GeoJSON) durch, indem Sie den Abfragemodus auswählen:<br><br>- Wählen Sie den Modus <b>sqlQuery</b>, wenn Sie eine freie SQL-Abfrage durchführen möchten<br><br>- Wählen Sie <b>keyValue</b>, wenn Sie eine Schlüssel-Wert-Abfrage durchführen möchten, indem Sie den Namen der Abfrage mit dem 'key'-Attribut des Interesses angeben, wenn es sich um eine JSON-Datei handelt, oder den Namen der interessierenden Spalte, wenn es sich um eine CSV-Datei handelt, und in 'value' den Wert, den Sie suchen<br><br>- Wählen Sie den Modus <b>freeSearch</b>, wenn Sie eine freie Suche in allen Dateien durchführen möchten, die den eingegebenen Wert im gesamten Dateiinhalt durchsucht, ohne dass ein spezifischer Schlüssel gefiltert werden muss",
   "typeSelect" : "Wählen Sie den Typ des zu filternden Objekts aus",
-  "queryEngine" : "Suchmaschine",
-  "queryModeSelectTitle" : "Perform queries on your data (CSV, JSON or GeoJSON) by selecting the query mode: ",
-  "queryModeSelectSqlQuery" : "- select the 'sqlQuery' mode if you want to perform a free SQL query",
-  "queryModeSelectKeyValue" : "- select 'keyValue' if you want to perform a key - value query specifying the name of the query with 'key' attribute of interest if it is a JSON or the name of the column of interest if it is a CSV and in 'value' the value you are looking for",
-  "queryModeSelectFreeSearch" : "- select the 'freeSearch' mode if you want to perform a free search in all files, which searches for the value inserted in the entire file, without the need to filter on a specific key"
-
+  "queryEngine" : "Suchmaschine"
 }

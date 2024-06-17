@@ -107,7 +107,7 @@
   "addingObject_Success": "Objeto adicionado com sucesso!",
   "addingObject_ShapeFileError": "O arquivo zip não é um Shape File!",
   "deletingObject_Success": "Objeto excluído com sucesso!",
-  "queryModeSelect" : "Selecione o modo de consulta: sqlQuery se desejar realizar uma consulta SQL, keyValue se desejar realizar uma consulta chave - valor, freeSearch se desejar realizar uma pesquisa livre em todos os arquivos",
+  "queryModeSelect" : "Realize consultas em seus dados (CSV, JSON ou GeoJSON) selecionando o modo de consulta:<br><br>- selecione o modo <b>sqlQuery</b> se você quiser realizar uma consulta SQL livre<br><br>- selecione <b>keyValue</b> se você quiser realizar uma consulta chave-valor especificando o nome da consulta com o atributo 'key' de interesse se for um JSON ou o nome da coluna de interesse se for um CSV e em 'value' o valor que você está procurando<br><br>- selecione o modo <b>freeSearch</b> se você quiser realizar uma pesquisa livre em todos os arquivos, que procura o valor inserido em todo o arquivo, sem a necessidade de filtrar em uma chave específica",
   "typeSelect" : "Selecione o tipo de objeto a ser filtrado",
   "queryEngine" : "Motor de consulta"
 
