@@ -109,9 +109,9 @@
   "typeSelect" : "Seleziona il tipo di oggetto da filtrare",
   "queryEngine" : "Motore di Ricerca",
   "queryModeSelectTitle" : "Perform queries on your data (CSV, JSON or GeoJSON) by selecting the query mode: ",
-  "queryModeSelectSqlQuery" : "&#8226; select the 'sqlQuery' mode if you want to perform a free SQL query",
-  "queryModeSelectKeyValue" : "&#8226; select 'keyValue' if you want to perform a key - value query specifying the name of the query with 'key' attribute of interest if it is a JSON or the name of the column of interest if it is a CSV and in 'value' the value you are looking for",
-  "queryModeSelectFreeSearch" : "&#8226; select the 'freeSearch' mode if you want to perform a free search in all files, which searches for the value inserted in the entire file, without the need to filter on a specific key"
+  "queryModeSelectSqlQuery" : "- select the 'sqlQuery' mode if you want to perform a free SQL query",
+  "queryModeSelectKeyValue" : "- select 'keyValue' if you want to perform a key - value query specifying the name of the query with 'key' attribute of interest if it is a JSON or the name of the column of interest if it is a CSV and in 'value' the value you are looking for",
+  "queryModeSelectFreeSearch" : "- select the 'freeSearch' mode if you want to perform a free search in all files, which searches for the value inserted in the entire file, without the need to filter on a specific key"
 
 
 }
