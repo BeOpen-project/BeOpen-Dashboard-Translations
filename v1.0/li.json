@@ -103,13 +103,14 @@
   "Manuals": "Instrukcijos",
   "Data-Space": "Duomenų Sritis",
   "Settings": "Nustatymai",
+  "Release notes" : "Išleidimo pastabos",
 
   "selectingObject_Success": "Objektas pasirinktas sėkmingai!",
   "addingObject_Success": "Objektas pridėtas sėkmingai!",
   "addingObject_ShapeFileError": "ZIP failas nėra Shape failas!",
   "deletingObject_Success": "Objektas pašalintas sėkmingai!",
-  "queryModeSelect" : "Vykdykite užklausas apie savo duomenis (CSV, JSON arba GeoJSON) pasirinkdami užklausos režimą:<br><br>- pasirinkite <b>sqlQuery</b> režimą, jei norite vykdyti laisvą SQL užklausą<br><br>- pasirinkite <b>keyValue</b>, jei norite vykdyti raktas-vertė užklausą, nurodydami užklausos pavadinimą su dominančiu 'key' atributu, jei tai JSON, arba dominančios stulpelio pavadinimą, jei tai CSV, ir 'value' reikšmę, kurios ieškote<br><br>- pasirinkite <b>freeSearch</b> režimą, jei norite vykdyti laisvą paiešką visose bylose, kuri ieško įvestos reikšmės visame byloje, be būtinybės filtruoti pagal specifinį raktą",
-  "typeSelect" : "Pasirinkite objekto tipą, kurį norite filtruoti",
+  "queryModeSelect" : "Vykdykite užklausas apie savo duomenis (CSV, JSON arba GeoJSON) pasirinkdami užklausos režimą:<br><br>- pasirinkite <b>sqlQuery</b> režimą, jei norite vykdyti laisvą SQL užklausą<br><br>- pasirinkite <b>keyValue</b>, jei norite vykdyti raktas-vertė užklausą, nurodydami užklausos pavadinimą su dominančiu 'key' atributu, jei tai JSON, arba dominančios stulpelio pavadinimą, jei tai CSV, ir 'value' reikšmę, kurios ieškote<br><br>- pasirinkite <b>freeSearch</b> režimą, jei norite vykdyti laisvą paiešką visose bylose, kuri ieško įvestos reikšmės visame byloje, be būtinybės filtruoti pagal specifinį raktą.<br><br>sqlQuery funkcionalumas<br><br> CSV<br>    Stulpelio-vertės poros paieška<br>    Eilutės ištraukimas<br><br> JSON masyvas<br>    Rakto-vertės poros paieška bet kurioje objekto lygyje masyve (įskaitant įterptus masyvus)<br>    Vieno objekto ištraukimas iš pagrindinio masyvo arba iš įterptų masyvų<br><br> JSON objektas<br>    Rakto-vertės poros paieška (bet kuris lygis)<br>    Vieno objekto ištraukimas iš įterptų masyvų<br><br> KeyValue režimas<br><br> CSV<br>    Stulpelio-vertės poros paieška<br><br> JSON masyvas<br>    Rakto-vertės poros paieška pirmame lygyje kiekvieno objekto masyve<br><br> JSON objektas<br>    Rakto-vertės poros paieška (pirmas lygis)<br><br> Laisvas paieška<br><br> CSV<br>    Stulpelio arba vertės paieška<br><br> JSON masyvas<br>    Rakto arba vertės paieška bet kuriame lygyje kiekvieno objekto masyve (įskaitant įterptus masyvus)<br><br> JSON objektas<br>    Rakto arba vertės paieška (bet kuris lygis)",
+  "typeSelect" : "Pasirinkite objekto tipą, kurį norite filtruoti.",
   "queryEngine" : "Užklausų variklis"
 
 }

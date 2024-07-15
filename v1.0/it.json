@@ -101,12 +101,13 @@
   "Manuals": "Manuali",
   "Data-Space": "Data-Space",
   "Settings": "Impostazioni",
+  "Release notes" : "Note di rilascio",
 
   "selectingObject_Success": "Oggetto selezionato con successo!",
   "addingObject_Success": "Oggetto aggiunto con successo!",
   "addingObject_ShapeFileError": "Il file zip non è un file Shape!",
   "deletingObject_Success": "Oggetto eliminato con successo!",
-  "queryModeSelect" : "Esegui query sui tuoi dati (CSV, JSON o GeoJSON) selezionando la modalità di query:<br><br>- seleziona la modalità <b>sqlQuery</b> se desideri eseguire una query SQL libera<br><br>- seleziona <b>keyValue</b> se desideri eseguire una query chiave-valore specificando il nome della query con l'attributo 'key' di interesse se è un JSON o il nome della colonna di interesse se è un CSV e in 'value' il valore che stai cercando<br><br>- seleziona la modalità <b>freeSearch</b> se desideri eseguire una ricerca libera in tutti i file, che cerca il valore inserito in tutto il file, senza la necessità di filtrare su una chiave specifica",
+  "queryModeSelect" : "Esegui query sui tuoi dati (CSV, JSON o GeoJSON) selezionando la modalità di query:<br><br>- seleziona la modalità <b>sqlQuery</b> se desideri eseguire una query SQL libera<br><br>- seleziona <b>keyValue</b> se desideri eseguire una query chiave-valore specificando il nome della query con l'attributo 'key' di interesse se è un JSON o il nome della colonna di interesse se è un CSV e in 'value' il valore che stai cercando<br><br>- seleziona la modalità <b>freeSearch</b> se desideri eseguire una ricerca libera in tutti i file, che cerca il valore inserito in tutto il file, senza la necessità di filtrare su una chiave specifica.<br><br>Funzionalità attuali sqlQuery<br><br> CSV<br>    Ricerca corrispondenza colonna - valore<br>    Estrazione riga<br><br> JSON Array<br>    Ricerca coppia chiave - valore su qualsiasi livello di ogni oggetto dell'array (anche dentro array innestati)<br>    Estrazione singolo oggetto dall'array principale o da eventuali array innestati<br><br> Json Object<br>    Ricerca coppia chiave - valore (qualsiasi livello)<br>    Estrazione singolo oggetto da eventuali array innestati<br><br> Modalità keyValue<br><br> CSV<br>    Ricerca corrispondenza colonna - valore<br><br> JSON Array<br>    Ricerca coppia chiave - valore sul primo livello di ogni oggetto dell'array<br><br> Json Object<br>    Ricerca coppia chiave - valore (primo livello)<br><br> Free Search<br><br> CSV<br>    Ricerca colonna o valore<br><br> JSON Array<br>    Ricerca chiave o valore su qualsiasi livello di ogni oggetto dell'array (anche dentro array innestati)<br><br> Json Object<br>    Ricerca chiave o valore (qualsiasi livello)",
   "typeSelect" : "Seleziona il tipo di oggetto da filtrare",
   "queryEngine" : "Motore di Ricerca"
 

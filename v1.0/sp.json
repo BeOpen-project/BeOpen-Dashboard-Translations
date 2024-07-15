@@ -103,13 +103,14 @@
   "Manuals": "Manuales",
   "Data-Space": "Espacio de Datos",
   "Settings": "Configuración",
+  "Release notes" : "Notas de lanzamiento",
 
   "selectingObject_Success": "¡Objeto seleccionado con éxito!",
   "addingObject_Success": "¡Objeto añadido con éxito!",
   "addingObject_ShapeFileError": "¡El archivo zip no es un archivo Shape!",
   "deletingObject_Success": "¡Objeto eliminado con éxito!",
-  "queryModeSelect" : "Realiza consultas en tus datos (CSV, JSON o GeoJSON) seleccionando el modo de consulta:<br><br>- selecciona el modo <b>sqlQuery</b> si deseas realizar una consulta SQL libre<br><br>- selecciona <b>keyValue</b> si deseas realizar una consulta clave-valor especificando el nombre de la consulta con el atributo 'key' de interés si es un JSON o el nombre de la columna de interés si es un CSV y en 'value' el valor que estás buscando<br><br>- selecciona el modo <b>freeSearch</b> si deseas realizar una búsqueda libre en todos los archivos, que busca el valor insertado en todo el archivo, sin necesidad de filtrar en una clave específica",
-  "typeSelect" : "Seleccione el tipo de objeto a filtrar",
+  "queryModeSelect" : "Realiza consultas en tus datos (CSV, JSON o GeoJSON) seleccionando el modo de consulta:<br><br>- selecciona el modo <b>sqlQuery</b> si deseas realizar una consulta SQL libre<br><br>- selecciona <b>keyValue</b> si deseas realizar una consulta clave-valor especificando el nombre de la consulta con el atributo 'key' de interés si es un JSON o el nombre de la columna de interés si es un CSV y en 'value' el valor que estás buscando<br><br>- selecciona el modo <b>freeSearch</b> si deseas realizar una búsqueda libre en todos los archivos, que busca el valor insertado en todo el archivo, sin necesidad de filtrar en una clave específica.<br><br>Funcionalidades actuales de sqlQuery<br><br> CSV<br>    Búsqueda de coincidencia columna - valor<br>    Extracción de fila<br><br> JSON Array<br>    Búsqueda de par clave - valor en cualquier nivel de cada objeto del array (incluidos los arrays anidados)<br>    Extracción de un objeto único del array principal o de arrays anidados<br><br> JSON Object<br>    Búsqueda de par clave - valor (cualquier nivel)<br>    Extracción de un objeto único de arrays anidados<br><br> Modo keyValue<br><br> CSV<br>    Búsqueda de coincidencia columna - valor<br><br> JSON Array<br>    Búsqueda de par clave - valor en el primer nivel de cada objeto del array<br><br> JSON Object<br>    Búsqueda de par clave - valor (primer nivel)<br><br> Búsqueda libre<br><br> CSV<br>    Búsqueda de columna o valor<br><br> JSON Array<br>    Búsqueda de clave o valor en cualquier nivel de cada objeto del array (incluidos los arrays anidados)<br><br> JSON Object<br>    Búsqueda de clave o valor (cualquier nivel)",
+  "typeSelect" : "Seleccione el tipo de objeto a filtrar.",
   "queryEngine" : "Motor de consultas"
 
 
