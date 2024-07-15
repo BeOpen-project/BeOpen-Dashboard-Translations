@@ -10,6 +10,7 @@
   "delete": "Delete",
   "close": "Close",
   "edit": "Edit",
+  "confirm": "Confirm",
 
   "addToPrivateDataSpace": "Add files to your data space",
   "addToPrivateDataSpaceLabel1": "Browse your data from your personal folder in the MinIO bucket and select a file to preview it.",

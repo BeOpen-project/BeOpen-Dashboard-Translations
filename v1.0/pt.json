@@ -10,6 +10,7 @@
   "delete": "Excluir",
   "close": "Fechar",
   "edit": "Editar",
+  "confirm": "Confirmar",
 
   "addToPrivateDataSpace": "Adicionar Objetos ao Espaço de Dados Privado",
   "addToPrivateDataSpaceLabel1": "Navegue pelos seus dados e selecione um arquivo para ver uma prévia",
