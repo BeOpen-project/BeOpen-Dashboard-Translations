@@ -130,7 +130,7 @@
   "step1Desc" : "Your dataset belongs to one of the following Categories.",
   "step1Label" : "Choose a Category",
   "step1Link" : "More details about Categories can be found",
-  "LinkQui" : "there",
+  "linkQui" : "there",
   "step2Desc" : "Your dataset belongs to one of the following Sub-Categories.",
   "step2Label" : "Choose a Sub-Category",
   "step2Link" : "More details about Sub-Categories can be found",  
