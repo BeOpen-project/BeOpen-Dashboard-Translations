@@ -11,9 +11,6 @@
   "close": "Close",
   "edit": "Edit",
   "confirm": "Confirm",
-  "prev": "Prev",
-  "next": "Next",
-  "tryAgain": "Try again",
 
   "addToPrivateDataSpace": "Add files to your data space",
   "addToPrivateDataSpaceLabel1": "Browse your data from your personal folder in the MinIO bucket and select a file to preview it.",
@@ -158,5 +155,10 @@
   "step10Desc" : "The Dataset must be Developed in consultation with relevant stakeholders including public authorities, businesses, and academics.",
   "step10Label" : "Have you consulted with your stakeholders?",
   "step10Link" : "More details about Stakeholders can be found",
-  "complete" : "Wizard completed!"
+  "prev": "Prev",
+  "next": "Next",  
+  "tryAgain": "Try again",
+  "complete" : "Wizard completed!",
+  "score": "Score",
+  "tableTitle": "Titolo tabella"  
 }
