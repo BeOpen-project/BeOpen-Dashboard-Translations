@@ -134,7 +134,7 @@
   "step9Light" : "Metadata & Doc",
   "step10" : "Dataset Evaluated by Stakeholders",
   "step10Light" : "Stakeholders evaluation",
-  "step1Desc" : "Your dataset belongs to one of the following High Value Datasets Categories",
+  "step1Desc" : "Your dataset belongs to one of the following <u>High Value Datasets</u> Categories",
   "step1Label" : "Choose a Category",
   "step1Link" : "More details about Categories can be found",
   "linkQui" : "there",
