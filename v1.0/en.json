@@ -173,5 +173,18 @@
   "complete" : "Wizard completed!",
   "score": "HVD Impact Assessment",
   "scoreDesc": "The progress bar below increases based on the increase in the score assigned to your Dataset. The score is a percentage value that indicates the level of compatibility of the Dataset you selected with respect to the HVD EU Implementing Regulation.",  
-  "tableTitle": "Dataset's parameters"  
+  "tableTitle": "Dataset's parameters",
+  "tablecol1": "Your dataset belongs to the Category",
+  "tablecol2": "Your dataset belongs to the Sub-Category",
+  "tablecol3": "The Format of your dataset is",
+  "tablecol4": "Is your dataset Licensed",
+  "tablecol5": "The license of your dataset is",
+  "tablecol6": "Evaluation free access",
+  "tablecol7": "Evaluation Bulk Download",
+  "tablecol8": "Evaluation API access",
+  "tablecol9": "Comprehensive metadata and documentation available",
+  "tablecol10": "Have you consulted with your stakeholderse",
+  "selectEntry": "Select an entry",
+  "yes": "yes",
+  "no": "no"
 }
