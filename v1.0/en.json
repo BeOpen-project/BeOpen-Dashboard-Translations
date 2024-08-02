@@ -187,5 +187,7 @@
   "selectEntry": "Select an entry",
   "yes": "yes",
   "no": "no",
-  "tooltipSemaforo": "It turns green as soon as the Dataset satisfies all the following Mandatory criteria: it is in a machine-readable format, openly available for free, accessible through APIs, developed in consultation with relevant stakeholders and it supports bulk download. The following are instead Nice-to-have criteria: It has an open data license and a comprehensive metadata and documentation is available"
+  "tooltipSemaforo": "It turns green as soon as the Dataset satisfies all the following Mandatory criteria: it is in a machine-readable format, openly available for free, accessible through APIs, developed in consultation with relevant stakeholders and it supports bulk download. The following are instead Nice-to-have criteria: It has an open data license and a comprehensive metadata and documentation is available",
+  "descSemaforo": "Dataset compliance with EU regulation",
+  "datasetOk": "HVD compliance achieved!"
 }
