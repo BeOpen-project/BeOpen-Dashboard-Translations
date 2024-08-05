@@ -2,7 +2,7 @@
   "fileVersion": {
     "version": "1.0"
   },
-  
+
   "adminPage": "Página de Administração",
   "registredUsers": "Utilizadores Registados",
   "registrationDateLabel": "Data de Registo: ",
@@ -12,7 +12,6 @@
   "edit": "Editar",
   "confirm": "Confirmar",
 
-  
   "addToPrivateDataSpace": "Adicionar Objetos ao Espaço de Dados Privado",
   "addToPrivateDataSpaceLabel1": "Navegue pelos seus dados e selecione um ficheiro para ver uma pré-visualização",
   "addToPrivateDataSpaceLabel2": "Pode adicionar o objeto carregado ao seu bucket pessoal usando o botão no final da página",
@@ -46,15 +45,15 @@
   "publicDataSpaceLabel1": "Navegue pelos dados da pasta de dados partilhados públicos e selecione um ficheiro para aceder à sua pré-visualização",
   "publicDataSpaceLabel2": "Esta é a lista de itens no bucket público",
   "downloadFromPublicDataFolder": "Descarregar este item da pasta de dados partilhados públicos",
-  
+
   "homepageBeopenLabel": "O objetivo do BeOpen é apoiar administrações públicas a nível local, regional e nacional no aumento da disponibilidade e usabilidade das informações do setor público (conjuntos de dados de alto valor). Isto facilitará que organizações e entidades públicas reutilizem dados públicos abertos em toda a UE para o desenvolvimento de produtos e serviços de informação.",
   "homepageOpenDataLabel": "O BeOpen visa fornecer um quadro aberto para impulsionar os conjuntos de dados de alto valor da UE provenientes do setor público. O BeOpen pretende oferecer uma ferramenta económica e fácil de usar para a gestão de conjuntos de dados de alto valor adaptada à Administração Pública; para validar e avaliar as melhorias, acessibilidade e reutilização dos conjuntos de dados de alto valor através da execução de serviços piloto e aplicações de IA em toda a UE; para fornecer um quadro técnico para melhorar a interoperabilidade técnica dos dados, a semântica e a qualidade dos conjuntos de dados do setor público; para disponibilizar conjuntos de dados públicos abertos em formato legível por máquina através de API descobertas pelo Portal de Dados Europeu e portais nacionais de dados abertos e para fornecer diretrizes e recomendações que abordem a interoperabilidade jurídica no contexto da disseminação e reutilização de dados abertos públicos. <br> BeOpen permitirá o desenvolvimento de novos serviços digitais e de IA, facilitando o acesso e a utilização de conjuntos de dados de alto valor do setor público da UE. <br> <br> Espera-se que o quadro do projeto BeOpen aumente a disponibilidade e usabilidade dos dados abertos fornecidos pelo setor público. Oito pilotos abordarão desafios relacionados com a mobilidade urbana, segurança pública, meio ambiente e desastres naturais em várias regiões da UE.",
-  
+
   "manuals": "Manuais",
   "manualsLabel": "Consulte os manuais e documentação para cada ferramenta do framework",
   "manualsDescription": "Tanto o manual do utilizador como a documentação para o uso correto das API REST expostas pelas ferramentas são fornecidos",
   "search": "Pesquisar",
-  
+
   "mqvTitle": "Validador de Qualidade de Metadados",
   "mqvLabel1": "Selecione um Catálogo ou um Conjunto de Dados fazendo o upload como ficheiro RDF ou inserindo o URL que o identifica e obtenha a pontuação ou métricas de avaliação relacionadas a ele, de acordo com o",
   "mqvLabel2": "padrão DCAT-AP",
@@ -70,11 +69,11 @@
   "out_of": "de",
   "datasetMetrics": "Métricas do Conjunto de Dados",
   "catalogueScore": "Pontuação do Catálogo",
-  
+
   "registration": "Registo",
   "registrationLabel": "Digite as suas informações para se registar na plataforma BeOpen",
   "registrationButton": "Registar Utilizador",
-  
+
   "toolLabel": "Ferramentas",
   "toolDescription": "Aceda e navegue pelas ferramentas atualmente disponíveis no framework BeOpen",
   "nifiDescription": "Um sistema fácil de usar, poderoso e fiável para processar e distribuir dados. O NiFi automatiza a cibersegurança, a observabilidade, os fluxos de eventos e as canalizações de dados de IA generativa e distribuição para milhares de empresas em todo o mundo, em todos os setores. O NiFi foi construído para automatizar o fluxo de dados entre sistemas. Enquanto o termo fluxo de dados é usado em uma variedade de contextos, usamos aqui para significar o fluxo automatizado e gerido de informações entre sistemas. O Nifi também fornece uma interface de utilizador baseada em navegador que permite uma experiência perfeita para design, controlo, feedback e monitorização. A possibilidade de visualizar esses fluxos e expressá-los visualmente pode ajudar a reduzir a complexidade e identificar áreas que precisam ser simplificadas.",
@@ -95,7 +94,7 @@
   "dataCategory4": "Melhoria da qualidade dos dados",
   "dataCategory5": "Recolha de dados e acesso de segurança",
   "openrefineDescription": "OpenRefine é uma poderosa ferramenta gratuita e de código aberto para trabalhar com dados confusos: limpá-los; transformá-los de um formato em outro; e estendê-los com serviços web e dados externos. Ele opera em linhas de dados que possuem células em colunas, semelhante à maneira como as tabelas de bases de dados relacionais operam, os projetos OpenRefine consistem numa tabela, cujas linhas podem ser filtradas usando facetas que definem critérios (por exemplo, mostrando linhas onde uma determinada coluna não está vazia). as operações no OpenRefine são feitas em todas as linhas visíveis, por exemplo, a transformação de todas as células em todas as linhas numa coluna ou a criação de uma nova coluna com base nos dados existentes. As ações executadas em um conjunto de dados são armazenadas no projeto e podem ser '. reproduzidas' em outros conjuntos de dados As fórmulas não são armazenadas em células, mas são usadas para transformar os dados. A transformação é feita apenas uma vez. As expressões de fórmula podem ser escritas em General Refine Expression Language (GREL), em Jython (ou seja, Python). em Clojure.",
-  
+
   "userInfo": "Informações do Utilizador",
   "Homepage": "Página Inicial",
   "My Account": "Minha Conta",
@@ -104,13 +103,63 @@
   "Manuals": "Manuais",
   "Data-Space": "Espaço de Dados",
   "Settings": "Configurações",
-  "Release notes" : "Notas de lançamento",
-  
+  "Release notes": "Notas de lançamento",
+
   "selectingObject_Success": "Objeto selecionado com sucesso!",
   "addingObject_Success": "Objeto adicionado com sucesso!",
   "addingObject_ShapeFileError": "O ficheiro zip não é um Shape File!",
   "deletingObject_Success": "Objeto eliminado com sucesso!",
   "queryModeSelect": "Realize consultas nos seus dados (CSV, JSON ou GeoJSON) selecionando o modo de consulta:<br><br>- selecione o modo <b>sqlQuery</b> se quiser realizar uma consulta SQL livre<br><br>- selecione <b>keyValue</b> se quiser realizar uma consulta chave-valor especificando o nome da consulta com o atributo 'key' de interesse se for um JSON ou o nome da coluna de interesse se for um CSV e em 'value' o valor que está a procurar<br><br>- selecione o modo <b>freeSearch</b> se quiser realizar uma pesquisa livre em todos os ficheiros, que procura o valor inserido em todo o ficheiro, sem a necessidade de filtrar por uma chave específica.<br><br>Funcionalidades atuais de sqlQuery<br><br> CSV<br>    Pesquisa de correspondência coluna - valor<br>    Extração de linha<br><br> JSON Array<br>    Pesquisa de par chave - valor em qualquer nível de cada objeto da matriz (incluindo arrays aninhados)<br>    Extração de um único objeto da matriz principal ou de arrays aninhados<br><br> JSON Object<br>    Pesquisa de par chave - valor (qualquer nível)<br>    Extração de um único objeto de arrays aninhados<br><br> Modo keyValue<br><br> CSV<br>    Pesquisa de correspondência coluna - valor<br><br> JSON Array<br>    Pesquisa de par chave - valor no primeiro nível de cada objeto da matriz<br><br> JSON Object<br>    Pesquisa de par chave - valor (primeiro nível)<br><br> Busca livre<br><br> CSV<br>    Pesquisa de coluna ou valor<br><br> JSON Array<br>    Pesquisa de chave ou valor em qualquer nível de cada objeto da matriz (incluindo arrays aninhados)<br><br> JSON Object<br>    Pesquisa de chave ou valor (qualquer nível)",
   "typeSelect": "Selecione o tipo de objeto a ser filtrado.",
-  "queryEngine": "Motor de consulta"
+  "queryEngine": "Motor de consulta",
+
+  "stepper": "Guia passo a passo",
+  "step1": "Categoria HVD",
+  "step1Light": "Categoria HVD",
+  "step2": "Subcategoria HVD",
+  "step2Light": "Subcategoria HVD",
+  "step3": "Formato de dados",
+  "step3Light": "Formato",
+  "step4": "Licença de dados",
+  "step4Light": "Licença",
+  "step5": "Tipo de licença do conjunto de dados",
+  "step5Light": "Tipo de licença",
+  "step6": "Conjunto de dados livremente acessível",
+  "step6Light": "Acesso livre",
+  "step7": "Download em massa do conjunto de dados",
+  "step7Light": "Download em massa",
+  "step8": "Interface de Programação de Aplicações (API) do conjunto de dados",
+  "step8Light": "API",
+  "step9": "Metadados e documentação do conjunto de dados",
+  "step9Light": "Documentação",
+  "step10": "Conjunto de dados avaliado pelas partes interessadas",
+  "step10Light": "Partes interessadas",
+
+  "dataSetOk": "Parabéns, o seu conjunto de dados já é compatível com o Regulamento de Implementação HVD da UE!",
+  "dataSetKo": "O seu conjunto de dados não é compatível com o Regulamento de Implementação HVD da UE. Por favor, reveja os passos marcados a vermelho",
+  "prev": "Anterior",
+  "next": "Próximo",
+  "tryAgain": "Tentar novamente",
+  "complete": "Assistente concluído!",
+  "score": "Avaliação de Impacto HVD",
+  "scoreDesc": "A barra de progresso abaixo aumenta com base no aumento da pontuação atribuída ao seu conjunto de dados. A pontuação é um valor percentual que indica o nível de compatibilidade do conjunto de dados que selecionou em relação ao Regulamento de Implementação HVD da UE.",
+  "tableTitle": "Parâmetros do conjunto de dados",
+  "tablecol1": "O seu conjunto de dados pertence à Categoria",
+  "tablecol2": "O seu conjunto de dados pertence à Subcategoria",
+  "tablecol3": "O formato do seu conjunto de dados é",
+  "tablecol4": "O seu conjunto de dados está licenciado",
+  "tablecol5": "A licença do seu conjunto de dados é",
+  "tablecol6": "Avaliação de acesso livre",
+  "tablecol7": "Avaliação de Download em Massa",
+  "tablecol8": "Avaliação de acesso API",
+  "tablecol9": "Metadados abrangentes e documentação disponível",
+  "tablecol10": "Consultou as suas partes interessadas",
+  "selectEntry": "Selecione uma entrada",
+  "yes": "sim",
+  "no": "não",
+  "tooltipSemaforo": "Fica verde assim que o conjunto de dados satisfaz todos os seguintes critérios obrigatórios: está num formato legível por máquina, disponível gratuitamente, acessível através de APIs, desenvolvido em consulta com as partes interessadas relevantes e suporta download em massa. Os seguintes são critérios adicionais: Tem uma licença de dados abertos e está disponível uma documentação e metadados abrangentes",
+  "descSemaforo": "Conformidade do conjunto de dados com a regulamentação da UE",
+  "datasetOk": "Conformidade HVD alcançada!",
+  "saveDataset": "Guardar alterações",
+  "deleteDataset": "Eliminar este conjunto de dados"
 }
