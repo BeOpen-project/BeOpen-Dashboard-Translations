@@ -166,7 +166,7 @@
   "step10Label": "Ar yra išsamūs metaduomenys ir dokumentacija?",
   "step10Link": "Daugiau informacijos apie API galite rasti",
   "dataSetOk": "Sveikiname, jūsų duomenų rinkinys jau atitinka ES įgyvendinimo reglamentą dėl aukštos vertės duomenų rinkinių!",
-  "dataSetKo": "Jūsų duomenų rinkinys neatitinka ES įgyvendinimo reglamento dėl aukštos vertės duomenų rinkinių. Prašome peržiūrėti žingsnius, pažymėtus raudonai",
+  "dataSetKo": "Toliau pateiktas grafinis komponentas parodys duomenų rinkinio suderinamumą su ES HVD reglamentu. Norėdami gauti maksimalų balą, peržiūrėkite raudonai pažymėtas ištraukas",
   "prev": "Atgal",
   "next": "Kitas",
   "tryAgain": "Bandyti dar kartą",

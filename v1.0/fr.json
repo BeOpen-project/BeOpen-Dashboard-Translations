@@ -166,7 +166,7 @@
   "step10Label": "Des métadonnées et une documentation complètes sont-elles disponibles ?",
   "step10Link": "Plus de détails sur l'API peuvent être trouvés",
   "dataSetOk": "Félicitations, votre jeu de données est déjà compatible avec le règlement d'exécution HVD de l'UE !",
-  "dataSetKo": "Votre jeu de données n'est pas compatible avec le règlement d'exécution HVD de l'UE. Veuillez revoir les étapes marquées en rouge",
+  "dataSetKo": "Le composant graphique ci-dessous vous montrera la compatibilité de votre ensemble de données avec le règlement HVD de l'UE. Pour obtenir le score maximum, consultez les passages marqués en rouge",
   "prev": "Précédent",
   "next": "Suivant",
   "tryAgain": "Réessayer",

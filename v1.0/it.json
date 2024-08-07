@@ -164,7 +164,7 @@
   "step10Label": "Sono disponibili metadati e documentazione completi?",
   "step10Link": "Maggiori dettagli sull'API possono essere trovati",
   "dataSetOk": "Congratulazioni, il tuo dataset è già compatibile con il Regolamento di Implementazione UE HVD!",
-  "dataSetKo": "Il tuo dataset non è compatibile con il Regolamento di Implementazione UE HVD. Per favore, rivedi i passaggi contrassegnati in rosso",
+  "dataSetKo": "Il componente grafico in basso ti mostrerà la compatibilità del tuo dataset con il Regolamento UE HVD. Per avere il punteggio massimo rivedi i passaggi contrassegnati in rosso",
   "prev": "Indietro",
   "next": "Avanti",
   "tryAgain": "Riprova",

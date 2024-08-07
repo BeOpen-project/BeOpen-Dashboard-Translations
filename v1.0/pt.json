@@ -166,7 +166,7 @@
   "step10Label": "Metadados e documentação abrangentes estão disponíveis?",
   "step10Link": "Mais detalhes sobre API podem ser encontrados",
   "dataSetOk": "Parabéns, o seu Conjunto de Dados já é compatível com o Regulamento de Implementação da UE sobre HVD!",
-  "dataSetKo": "O seu Conjunto de Dados não é compatível com o Regulamento de Implementação da UE sobre HVD. Por favor, reveja os passos marcados em vermelho",
+  "dataSetKo": "O componente gráfico abaixo mostrará a compatibilidade do seu conjunto de dados com o Regulamento HVD da UE. Para obter a pontuação máxima, reveja as passagens assinaladas a vermelho",
   "prev": "Anterior",
   "next": "Próximo",
   "tryAgain": "Tente novamente",
