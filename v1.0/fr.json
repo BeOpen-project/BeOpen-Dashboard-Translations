@@ -191,5 +191,6 @@
   "descSemaforo": "Conformité du jeu de données avec la réglementation de l'UE",
   "datasetOk": "Conformité HVD atteinte !",
   "saveDataset": "Enregistrer les modifications",
-  "deleteDataset": "Supprimer ce jeu de données"
+  "deleteDataset": "Supprimer ce jeu de données",
+  "satisfyRequirementTools": "Outils BeOpen qui peuvent être utilisés pour satisfaire l'exigence spécifique :"
 }

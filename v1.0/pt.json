@@ -191,5 +191,6 @@
   "descSemaforo": "Conformidade do conjunto de dados com a regulamentação da UE",
   "datasetOk": "Conformidade com HVD alcançada!",
   "saveDataset": "Salvar alterações",
-  "deleteDataset": "Excluir este Conjunto de Dados"
+  "deleteDataset": "Excluir este Conjunto de Dados",
+  "satisfyRequirementTools": "Ferramentas BeOpen que podem ser usadas para satisfazer o requisito específico:"
 }

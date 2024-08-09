@@ -158,7 +158,7 @@
   "step8Label": "Il tuo dataset è con licenza?",
   "step8Link": "Maggiori dettagli sulle licenze possono essere trovati",
   "step9Desc": "La Direttiva stabilisce quali licenze usare per rendere disponibili dataset di alto valore per il riutilizzo.",
-  "step9Label": "Come è con licenza il tuo dataset?",
+  "step9Label": "Che tipo di  licenza ha il tuo dataset?",
   "step9Link": "Maggiori dettagli sulle licenze possono essere trovati",
   "step10Desc": "La Direttiva richiede che i dati abbiano disponibili metadati e documentazione completi.",
   "step10Label": "Sono disponibili metadati e documentazione completi?",
@@ -189,5 +189,7 @@
   "descSemaforo": "Conformità del dataset con la regolamentazione UE",
   "datasetOk": "Conformità HVD raggiunta!",
   "saveDataset": "Salva le modifiche",
-  "deleteDataset": "Elimina questo dataset"
+  "deleteDataset": "Elimina questo dataset",
+  "satisfyRequirementTools": "Strumenti BeOpen che possono essere utilizzati per soddisfare l'esigenza specifica:"
+
 }

@@ -190,5 +190,6 @@
   "descSemaforo": "Συμμόρφωση dataset με τη νομοθεσία της ΕΕ",
   "datasetOk": "Επιτεύχθηκε Συμμόρφωση HVD!",
   "saveDataset": "Αποθήκευση αλλαγών",
-  "deleteDataset": "Διαγραφή αυτού του dataset"
+  "deleteDataset": "Διαγραφή αυτού του dataset",
+  "satisfyRequirementTools": "Εργαλεία BeOpen που μπορούν να χρησιμοποιηθούν για την ικανοποίηση της συγκεκριμένης απαίτησης:"
 }

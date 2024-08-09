@@ -191,5 +191,6 @@
   "descSemaforo": "Duomenų rinkinio atitiktis ES reglamentui",
   "datasetOk": "Pasiekta HVD atitiktis!",
   "saveDataset": "Išsaugoti pakeitimus",
-  "deleteDataset": "Ištrinti šį duomenų rinkinį"
+  "deleteDataset": "Ištrinti šį duomenų rinkinį",
+  "satisfyRequirementTools": "„BeOpen“ įrankiai, kurie gali būti naudojami specifiniam reikalavimui patenkinti:"
 }

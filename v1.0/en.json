@@ -191,5 +191,6 @@
   "descSemaforo": "Dataset compliance with EU regulation",
   "datasetOk": "HVD compliance achieved!",
   "saveDataset": "Save changes",
-  "deleteDataset": "Delete this Dataset"
+  "deleteDataset": "Delete this Dataset",
+  "satisfyRequirementTools": "BeOpen tools that can be used to satisfy the specific requirement:"
 }
