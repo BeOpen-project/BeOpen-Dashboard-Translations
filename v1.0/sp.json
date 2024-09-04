@@ -192,5 +192,7 @@
   "datasetOk": "¡Cumplimiento con HVD logrado!",
   "saveDataset": "Guardar cambios",
   "deleteDataset": "Eliminar este Conjunto de Datos",
-  "satisfyRequirementTools": "Herramientas BeOpen que se pueden usar para satisfacer el requisito específico:"
+  "satisfyRequirementTools": "Herramientas BeOpen que se pueden usar para satisfacer el requisito específico:",
+  "datasetTitle": "Conjuntos de datos para mejorar",
+  "datasetLabel": "Esta herramienta gráfica le permite monitorizar el progreso de sus conjuntos de datos para mejorar, de modo que se conviertan en Conjuntos de Datos de Alto Valor en cumplimiento con la Directiva Europea al respecto. Agregue fácilmente un nuevo conjunto de datos a su lista y comience a trabajar en él. Puede continuar trabajando en su conjunto de datos en cualquier momento, ya que el progreso actual se guarda."
 }

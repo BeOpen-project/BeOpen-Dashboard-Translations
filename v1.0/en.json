@@ -192,5 +192,7 @@
   "datasetOk": "HVD compliance achieved!",
   "saveDataset": "Save changes",
   "deleteDataset": "Delete this Dataset",
-  "satisfyRequirementTools": "BeOpen tools that can be used to satisfy the specific requirement:"
+  "satisfyRequirementTools": "BeOpen tools that can be used to satisfy the specific requirement:",
+  "datasetTitle": "Datasets to improve",
+  "datasetLabel": "This graphical tool allows you to monitor the progress of your datasets to improve, so that they become High Value Datasets in compliance with the European Directive on the matter. Easily add a new dataset to your list and start working on it. You can continue working on your dataset at any time as the current progress is saved."
 }

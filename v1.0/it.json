@@ -190,6 +190,7 @@
   "datasetOk": "Conformità HVD raggiunta!",
   "saveDataset": "Salva le modifiche",
   "deleteDataset": "Elimina questo dataset",
-  "satisfyRequirementTools": "Strumenti BeOpen che possono essere utilizzati per soddisfare l'esigenza specifica:"
-
+  "satisfyRequirementTools": "Strumenti BeOpen che possono essere utilizzati per soddisfare l'esigenza specifica:",
+  "datasetTitle": "Dataset da migliorare",
+  "datasetLabel": "Questo strumento grafico ti consente di monitorare i progressi dei tuoi dataset da migliorare, affinché diventino Dataset di Alto Valore in conformità con la Direttiva Europea in materia. Aggiungi facilmente un nuovo dataset alla tua lista e inizia a lavorarci. Puoi continuare a lavorare sul tuo dataset in qualsiasi momento poiché i progressi attuali vengono salvati."
 }
