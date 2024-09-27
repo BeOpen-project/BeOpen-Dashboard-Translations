@@ -105,6 +105,7 @@
   "Settings": "Einstellungen",
   "Release notes": "Release-opmerkingen",
   "HVD Impact Assessment": "HVD-Impact-Bewertung", 
+  "toolUsed": "Verwendetes Werkzeug",
 
   "selectingObject_Success": "Objekt erfolgreich ausgewählt!",
   "addingObject_Success": "Objekt erfolgreich hinzugefügt!",
