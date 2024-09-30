@@ -202,5 +202,6 @@
   "datasetDescription": "Περιγραφή",
   "datasetCompletedSteps": "Ολοκληρωμένα βήματα",
   "datasetVersion": "Έκδοση",
-  "datasetAction": "Ενέργειες"
+  "datasetAction": "Ενέργειες",
+  "saveDatasetVersion": "Αποθήκευσε την τρέχουσα έκδοση"
 }

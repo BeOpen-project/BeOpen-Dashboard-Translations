@@ -202,5 +202,6 @@
   "datasetDescription": "Beschreibung",
   "datasetCompletedSteps": "Abgeschlossene Schritte",
   "datasetVersion": "Version",
-  "datasetAction": "Aktionen"
+  "datasetAction": "Aktionen",
+  "saveDatasetVersion": "Speichere die aktuelle Version"
 }

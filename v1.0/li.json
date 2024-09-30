@@ -203,5 +203,6 @@
   "datasetDescription": "Aprašymas",
   "datasetCompletedSteps": "Baigti veiksmai",
   "datasetVersion": "Versija",
-  "datasetAction": "Veiksmai"
+  "datasetAction": "Veiksmai",
+  "saveDatasetVersion": "Išsaugoti dabartinę versiją"
 }
