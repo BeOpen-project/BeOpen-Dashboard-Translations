@@ -196,5 +196,12 @@
   "deleteDataset": "Supprimer ce jeu de données",
   "satisfyRequirementTools": "Outils BeOpen qui peuvent être utilisés pour satisfaire l'exigence spécifique :",
   "datasetTitle": "Ensembles de données à améliorer",
-  "datasetLabel": "Cet outil graphique vous permet de suivre les progrès de vos ensembles de données à améliorer, afin qu'ils deviennent des ensembles de données à haute valeur en conformité avec la directive européenne sur le sujet. Ajoutez facilement un nouvel ensemble de données à votre liste et commencez à travailler dessus. Vous pouvez continuer à travailler sur votre ensemble de données à tout moment, car les progrès actuels sont enregistrés."
+  "datasetLabel": "Cet outil graphique vous permet de suivre les progrès de vos ensembles de données à améliorer, afin qu'ils deviennent des ensembles de données à haute valeur en conformité avec la directive européenne sur le sujet. Ajoutez facilement un nouvel ensemble de données à votre liste et commencez à travailler dessus. Vous pouvez continuer à travailler sur votre ensemble de données à tout moment, car les progrès actuels sont enregistrés.",
+
+  "addDataset": "Ajouter un nouveau jeu de données",
+  "datasetName": "Nom du jeu de données",
+  "datasetDescription": "Description",
+  "datasetCompletedSteps": "Étapes terminées",
+  "datasetVersion": "Version",
+  "datasetAction": "Actions"
 }

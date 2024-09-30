@@ -196,5 +196,12 @@
   "deleteDataset": "Ištrinti šį duomenų rinkinį",
   "satisfyRequirementTools": "„BeOpen“ įrankiai, kurie gali būti naudojami specifiniam reikalavimui patenkinti:",
   "datasetTitle": "Patobulinti duomenų rinkiniai",
-  "datasetLabel": "Šis grafinis įrankis leidžia stebėti jūsų patobulintinų duomenų rinkinių pažangą, kad jie taptų didelės vertės duomenų rinkiniais, atitinkančiais Europos direktyvą šiuo klausimu. Paprastai pridėkite naują duomenų rinkinį į savo sąrašą ir pradėkite dirbti su juo. Galite bet kada tęsti darbą su savo duomenų rinkiniu, nes dabartinė pažanga yra išsaugoma."
+  "datasetLabel": "Šis grafinis įrankis leidžia stebėti jūsų patobulintinų duomenų rinkinių pažangą, kad jie taptų didelės vertės duomenų rinkiniais, atitinkančiais Europos direktyvą šiuo klausimu. Paprastai pridėkite naują duomenų rinkinį į savo sąrašą ir pradėkite dirbti su juo. Galite bet kada tęsti darbą su savo duomenų rinkiniu, nes dabartinė pažanga yra išsaugoma.",
+
+  "addDataset": "Pridėti naują duomenų rinkinį",
+  "datasetName": "Duomenų rinkinio pavadinimas",
+  "datasetDescription": "Aprašymas",
+  "datasetCompletedSteps": "Baigti veiksmai",
+  "datasetVersion": "Versija",
+  "datasetAction": "Veiksmai"
 }

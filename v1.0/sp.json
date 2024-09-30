@@ -104,7 +104,7 @@
   "Data-Space": "Espacio de Datos",
   "Settings": "Configuración",
   "Release notes": "Notas de lanzamiento",
-  "HVD Impact Assessment": "Avaliação de Impacto HVD", 
+  "HVD Impact Assessment": "Avaliação de Impacto HVD",
   "toolUsed": "Herramienta utilizada",
 
   "selectingObject_Success": "¡Objeto seleccionado con éxito!",
@@ -196,5 +196,12 @@
   "deleteDataset": "Eliminar este Conjunto de Datos",
   "satisfyRequirementTools": "Herramientas BeOpen que se pueden usar para satisfacer el requisito específico:",
   "datasetTitle": "Conjuntos de datos para mejorar",
-  "datasetLabel": "Esta herramienta gráfica le permite monitorizar el progreso de sus conjuntos de datos para mejorar, de modo que se conviertan en Conjuntos de Datos de Alto Valor en cumplimiento con la Directiva Europea al respecto. Agregue fácilmente un nuevo conjunto de datos a su lista y comience a trabajar en él. Puede continuar trabajando en su conjunto de datos en cualquier momento, ya que el progreso actual se guarda."
+  "datasetLabel": "Esta herramienta gráfica le permite monitorizar el progreso de sus conjuntos de datos para mejorar, de modo que se conviertan en Conjuntos de Datos de Alto Valor en cumplimiento con la Directiva Europea al respecto. Agregue fácilmente un nuevo conjunto de datos a su lista y comience a trabajar en él. Puede continuar trabajando en su conjunto de datos en cualquier momento, ya que el progreso actual se guarda.",
+
+  "addDataset": "Agregar nuevo conjunto de datos",
+  "datasetName": "Nombre del conjunto de datos",
+  "datasetDescription": "Descripción",
+  "datasetCompletedSteps": "Pasos completados",
+  "datasetVersion": "Versión",
+  "datasetAction": "Acciones"
 }

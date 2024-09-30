@@ -104,7 +104,7 @@
   "Data-Space": "Datenraum",
   "Settings": "Einstellungen",
   "Release notes": "Release-opmerkingen",
-  "HVD Impact Assessment": "HVD-Impact-Bewertung", 
+  "HVD Impact Assessment": "HVD-Impact-Bewertung",
   "toolUsed": "Verwendetes Werkzeug",
 
   "selectingObject_Success": "Objekt erfolgreich ausgewählt!",
@@ -195,5 +195,12 @@
   "deleteDataset": "Dieses Dataset löschen",
   "satisfyRequirementTools": "BeOpen-Tools, die zur Erfüllung der spezifischen Anforderung verwendet werden können:",
   "datasetTitle": "Datensätze zur Verbesserung",
-  "datasetLabel": "Dieses grafische Tool ermöglicht es Ihnen, den Fortschritt Ihrer zu verbessernden Datensätze zu überwachen, damit sie zu Datensätzen mit hohem Wert werden, die mit der europäischen Richtlinie in dieser Angelegenheit übereinstimmen. Fügen Sie Ihrer Liste einfach einen neuen Datensatz hinzu und beginnen Sie damit zu arbeiten. Sie können jederzeit an Ihrem Datensatz weiterarbeiten, da der aktuelle Fortschritt gespeichert wird."
+  "datasetLabel": "Dieses grafische Tool ermöglicht es Ihnen, den Fortschritt Ihrer zu verbessernden Datensätze zu überwachen, damit sie zu Datensätzen mit hohem Wert werden, die mit der europäischen Richtlinie in dieser Angelegenheit übereinstimmen. Fügen Sie Ihrer Liste einfach einen neuen Datensatz hinzu und beginnen Sie damit zu arbeiten. Sie können jederzeit an Ihrem Datensatz weiterarbeiten, da der aktuelle Fortschritt gespeichert wird.",
+
+  "addDataset": "Neuen Datensatz hinzufügen",
+  "datasetName": "Datensatzname",
+  "datasetDescription": "Beschreibung",
+  "datasetCompletedSteps": "Abgeschlossene Schritte",
+  "datasetVersion": "Version",
+  "datasetAction": "Aktionen"
 }
