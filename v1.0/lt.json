@@ -206,6 +206,7 @@
   "datasetAction": "Veiksmai",
   "saveDatasetVersion": "Išsaugoti dabartinę versiją",
 
+  "datasetDocumentLink": "Dokumento nuoroda",
   "modifyDatasetDescDialog": "Nustatykite arba pakeiskite dabartinės duomenų rinkinio versijos aprašymą",
   "modifyDatasetDescConfirm": "Išsaugoti naują aprašymą",
   "modifyDatasetLinkDialog": "Nustatykite arba pakeiskite dabartinės duomenų rinkinio versijos dokumentacijos nuorodą",

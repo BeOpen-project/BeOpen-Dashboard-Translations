@@ -205,6 +205,7 @@
   "datasetAction": "Aktionen",
   "saveDatasetVersion": "Speichere die aktuelle Version",
 
+  "datasetDocumentLink": "Dokumentenlink",
   "modifyDatasetDescDialog": "Legen Sie die Beschreibung der aktuellen Version des Datensatzes fest oder ändern Sie sie",
   "modifyDatasetDescConfirm": "Neue Beschreibung speichern",
   "modifyDatasetLinkDialog": "Legen Sie den Link zur Dokumentation der aktuellen Version des Datensatzes fest oder ändern Sie ihn",

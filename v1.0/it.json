@@ -204,6 +204,7 @@
   "datasetAction": "Azioni",
   "saveDatasetVersion": "Salva la versione attuale",
 
+  "datasetDocumentLink": "Link del documento",
   "modifyDatasetDescDialog": "Imposta o modifica la descrizione della versione corrente del dataset",
   "modifyDatasetDescConfirm": "Salva nuova descrizione",
   "modifyDatasetLinkDialog": "Imposta o modifica il link alla documentazione della versione corrente del dataset",
