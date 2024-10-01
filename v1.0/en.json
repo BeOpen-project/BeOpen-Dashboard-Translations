@@ -204,6 +204,11 @@
   "datasetCompletedSteps": "Steps completed",
   "datasetVersion": "Version",
   "datasetAction": "Actions",
-  "saveDatasetVersion": "Save the actual version"
+  "saveDatasetVersion": "Save the actual version",
 
+  "modifyDatasetDescDialog": "Set or modify the description of the current version of Dataset",
+  "modifyDatasetDescConfirm": "Save new description",
+  "modifyDatasetLinkDialog": "Set or modify the link to the documentation of the current version of Dataset",
+  "modifyDatasetLinkConfirm": "Save new link to the documentation",
+  "navigateToDocumentLink": "Navigate to the documentation"
 }

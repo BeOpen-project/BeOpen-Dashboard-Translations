@@ -204,5 +204,11 @@
   "datasetCompletedSteps": "Baigti veiksmai",
   "datasetVersion": "Versija",
   "datasetAction": "Veiksmai",
-  "saveDatasetVersion": "Išsaugoti dabartinę versiją"
+  "saveDatasetVersion": "Išsaugoti dabartinę versiją",
+
+  "modifyDatasetDescDialog": "Nustatykite arba pakeiskite dabartinės duomenų rinkinio versijos aprašymą",
+  "modifyDatasetDescConfirm": "Išsaugoti naują aprašymą",
+  "modifyDatasetLinkDialog": "Nustatykite arba pakeiskite dabartinės duomenų rinkinio versijos dokumentacijos nuorodą",
+  "modifyDatasetLinkConfirm": "Išsaugoti naują dokumentacijos nuorodą",
+  "navigateToDocumentLink": "Eiti į dokumentaciją"
 }

@@ -204,5 +204,11 @@
   "datasetCompletedSteps": "Étapes terminées",
   "datasetVersion": "Version",
   "datasetAction": "Actions",
-  "saveDatasetVersion": "Enregistrer la version actuelle"
+  "saveDatasetVersion": "Enregistrer la version actuelle",
+
+  "modifyDatasetDescDialog": "Définir ou modifier la description de la version actuelle du jeu de données",
+  "modifyDatasetDescConfirm": "Enregistrer la nouvelle description",
+  "modifyDatasetLinkDialog": "Définir ou modifier le lien vers la documentation de la version actuelle du jeu de données",
+  "modifyDatasetLinkConfirm": "Enregistrer le nouveau lien vers la documentation",
+  "navigateToDocumentLink": "Accéder à la documentation"
 }

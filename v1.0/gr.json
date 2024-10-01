@@ -203,5 +203,11 @@
   "datasetCompletedSteps": "Ολοκληρωμένα βήματα",
   "datasetVersion": "Έκδοση",
   "datasetAction": "Ενέργειες",
-  "saveDatasetVersion": "Αποθήκευσε την τρέχουσα έκδοση"
+  "saveDatasetVersion": "Αποθήκευσε την τρέχουσα έκδοση",
+
+  "modifyDatasetDescDialog": "Ορίστε ή τροποποιήστε την περιγραφή της τρέχουσας έκδοσης του συνόλου δεδομένων",
+  "modifyDatasetDescConfirm": "Αποθήκευση νέας περιγραφής",
+  "modifyDatasetLinkDialog": "Ορίστε ή τροποποιήστε τον σύνδεσμο προς την τεκμηρίωση της τρέχουσας έκδοσης του συνόλου δεδομένων",
+  "modifyDatasetLinkConfirm": "Αποθήκευση νέου συνδέσμου προς την τεκμηρίωση",
+  "navigateToDocumentLink": "Μεταβείτε στην τεκμηρίωση"
 }
