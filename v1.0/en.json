@@ -223,5 +223,6 @@
   "deleteConfirmDialogLabel": "You are about to permanently delete the data related to your evaluations on the Dataset.",
   "deleteConfirmButton": "Confirm Deletion",
   "deleteConfirmButtonAbort": "Cancel",
-  "tableCol3Description": "List of Tools Used by Category"
+  "tableCol3Description": "List of Tools Used by Category",
+  "datasetCompliantValue": "HVD compliant"
 }
