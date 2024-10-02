@@ -197,7 +197,7 @@
   "satisfyRequirementTools": "BeOpen tools that can be used to satisfy the specific requirement:",
   "datasetTitle": "Datasets to improve",
   "datasetLabel": "This graphical tool allows you to monitor the progress of your datasets to improve, so that they become High Value Datasets in compliance with the European Directive on the matter. Easily add a new dataset to your list and start working on it. You can continue working on your dataset at any time as the current progress is saved.",
-  
+
   "addDataset": "Add new Dataset",
   "datasetName": "Dataset Name",
   "datasetDescription": "Description",
@@ -209,7 +209,7 @@
   "datasetDocumentLink": "Document Link",
   "modifyDatasetDescDialog": "Set or modify the description of the current version of Dataset",
   "modifyDatasetDescConfirm": "Save new description",
-  "modifyDatasetLinkDialog": "Set or modify the link to the documentation of the current version of Dataset",
+  "modifyDatasetLinkDialog": "Set or modify the details of the documentation of the current version of the dataset",
   "modifyDatasetLinkConfirm": "Save new link to the documentation",
   "navigateToDocumentLink": "Navigate to the documentation",
 
@@ -220,7 +220,8 @@
   "addDatasetDocumentLinkLabel": "Document Link (optional)",
   "addDatasetButtonLabel": "Confirm creation",
   "deleteConfirmTitleLabel": "Warning!",
-  "deleteConfirmDialogLabel": "You are about to permanently delete the data related to your assessments on the Dataset.",
+  "deleteConfirmDialogLabel": "You are about to permanently delete the data related to your evaluations on the Dataset.",
   "deleteConfirmButton": "Confirm Deletion",
-  "deleteConfirmButtonAbort": "Cancel"
+  "deleteConfirmButtonAbort": "Cancel",
+  "tableCol3Description": "List of Tools Used by Category"
 }

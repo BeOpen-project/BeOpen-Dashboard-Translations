@@ -209,18 +209,19 @@
   "datasetDocumentLink": "Lien du document",
   "modifyDatasetDescDialog": "Définir ou modifier la description de la version actuelle du jeu de données",
   "modifyDatasetDescConfirm": "Enregistrer la nouvelle description",
-  "modifyDatasetLinkDialog": "Définir ou modifier le lien vers la documentation de la version actuelle du jeu de données",
+  "modifyDatasetLinkDialog": "Définir ou modifier les détails de la documentation de la version actuelle du jeu de données",
   "modifyDatasetLinkConfirm": "Enregistrer le nouveau lien vers la documentation",
   "navigateToDocumentLink": "Accéder à la documentation",
 
   "addDatasetTitleLabel": "Ajouter un nouveau Dataset",
-  "addDatasetTextLabel": "Entrez les informations du dataset que vous souhaitez améliorer, elles peuvent être modifiées plus tard.",
+  "addDatasetTextLabel": "Entrez les informations du dataset que vous souhaitez améliorer, elles pourront être modifiées par la suite.",
   "addDatasetNameLabel": "Nom du Dataset",
   "addDatasetDescriptionLabel": "Description",
-  "addDatasetDocumentLinkLabel": "Lien vers le document (facultatif)",
+  "addDatasetDocumentLinkLabel": "Lien vers le Document (facultatif)",
   "addDatasetButtonLabel": "Confirmer la création",
   "deleteConfirmTitleLabel": "Attention !",
-  "deleteConfirmDialogLabel": "Vous êtes sur le point de supprimer définitivement les données relatives à vos évaluations du Dataset.",
+  "deleteConfirmDialogLabel": "Vous êtes sur le point de supprimer définitivement les données relatives à vos évaluations sur le Dataset.",
   "deleteConfirmButton": "Confirmer la suppression",
-  "deleteConfirmButtonAbort": "Annuler"
+  "deleteConfirmButtonAbort": "Annuler",
+  "tableCol3Description": "Liste des outils utilisés par catégorie"
 }

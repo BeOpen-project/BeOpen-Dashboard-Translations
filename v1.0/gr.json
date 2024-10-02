@@ -208,18 +208,19 @@
   "datasetDocumentLink": "Σύνδεσμος εγγράφου",
   "modifyDatasetDescDialog": "Ορίστε ή τροποποιήστε την περιγραφή της τρέχουσας έκδοσης του συνόλου δεδομένων",
   "modifyDatasetDescConfirm": "Αποθήκευση νέας περιγραφής",
-  "modifyDatasetLinkDialog": "Ορίστε ή τροποποιήστε τον σύνδεσμο προς την τεκμηρίωση της τρέχουσας έκδοσης του συνόλου δεδομένων",
+  "modifyDatasetLinkDialog": "Ρύθμιση ή τροποποίηση των λεπτομερειών της τεκμηρίωσης της τρέχουσας έκδοσης του συνόλου δεδομένων",
   "modifyDatasetLinkConfirm": "Αποθήκευση νέου συνδέσμου προς την τεκμηρίωση",
   "navigateToDocumentLink": "Μεταβείτε στην τεκμηρίωση",
 
-  "addDatasetTitleLabel": "Προσθέστε ένα νέο Σύνολο Δεδομένων",
-  "addDatasetTextLabel": "Εισαγάγετε τις πληροφορίες του συνόλου δεδομένων που θέλετε να βελτιώσετε, μπορούν να τροποποιηθούν αργότερα.",
-  "addDatasetNameLabel": "Όνομα Συνόλου Δεδομένων",
+  "addDatasetTitleLabel": "Προσθέστε ένα νέο Dataset",
+  "addDatasetTextLabel": "Εισάγετε τις πληροφορίες του dataset που θέλετε να βελτιώσετε, αυτές μπορούν να τροποποιηθούν αργότερα.",
+  "addDatasetNameLabel": "Όνομα Dataset",
   "addDatasetDescriptionLabel": "Περιγραφή",
-  "addDatasetDocumentLinkLabel": "Σύνδεσμος Εγγράφου (προαιρετικό)",
+  "addDatasetDocumentLinkLabel": "Σύνδεσμος προς το Έγγραφο (προαιρετικό)",
   "addDatasetButtonLabel": "Επιβεβαίωση δημιουργίας",
   "deleteConfirmTitleLabel": "Προσοχή!",
-  "deleteConfirmDialogLabel": "Πρόκειται να διαγράψετε οριστικά τα δεδομένα που σχετίζονται με τις αξιολογήσεις σας στο Σύνολο Δεδομένων.",
-  "deleteConfirmButton": "Επιβεβαίωση Διαγραφής",
-  "deleteConfirmButtonAbort": "Ακύρωση"
+  "deleteConfirmDialogLabel": "Πρόκειται να διαγράψετε οριστικά τα δεδομένα που σχετίζονται με τις αξιολογήσεις σας για το Dataset.",
+  "deleteConfirmButton": "Επιβεβαίωση διαγραφής",
+  "deleteConfirmButtonAbort": "Ακύρωση",
+  "tableCol3Description": "Κατάλογος εργαλείων ανά κατηγορία"
 }

@@ -208,7 +208,7 @@
   "datasetDocumentLink": "Dokumentenlink",
   "modifyDatasetDescDialog": "Legen Sie die Beschreibung der aktuellen Version des Datensatzes fest oder ändern Sie sie",
   "modifyDatasetDescConfirm": "Neue Beschreibung speichern",
-  "modifyDatasetLinkDialog": "Legen Sie den Link zur Dokumentation der aktuellen Version des Datensatzes fest oder ändern Sie ihn",
+  "modifyDatasetLinkDialog": "Setze oder ändere die Details der Dokumentation der aktuellen Version des Datensatzes",
   "modifyDatasetLinkConfirm": "Neuen Link zur Dokumentation speichern",
   "navigateToDocumentLink": "Zur Dokumentation navigieren",
 
@@ -219,7 +219,8 @@
   "addDatasetDocumentLinkLabel": "Link zum Dokument (optional)",
   "addDatasetButtonLabel": "Erstellung bestätigen",
   "deleteConfirmTitleLabel": "Achtung!",
-  "deleteConfirmDialogLabel": "Sie sind dabei, die Daten Ihrer Bewertungen für das Dataset endgültig zu löschen.",
+  "deleteConfirmDialogLabel": "Sie sind dabei, die Daten zu Ihren Bewertungen des Datasets endgültig zu löschen.",
   "deleteConfirmButton": "Löschung bestätigen",
-  "deleteConfirmButtonAbort": "Abbrechen"
+  "deleteConfirmButtonAbort": "Abbrechen",
+  "tableCol3Description": "Liste der verwendeten Werkzeuge nach Kategorie"
 }

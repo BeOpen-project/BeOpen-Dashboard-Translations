@@ -209,18 +209,19 @@
   "datasetDocumentLink": "Enlace del documento",
   "modifyDatasetDescDialog": "Establecer o modificar la descripción de la versión actual del conjunto de datos",
   "modifyDatasetDescConfirm": "Guardar nueva descripción",
-  "modifyDatasetLinkDialog": "Establecer o modificar el enlace a la documentación de la versión actual del conjunto de datos",
+  "modifyDatasetLinkDialog": "Establecer o modificar los detalles de la documentación de la versión actual del conjunto de datos",
   "modifyDatasetLinkConfirm": "Guardar nuevo enlace a la documentación",
   "navigateToDocumentLink": "Navegar a la documentación",
 
   "addDatasetTitleLabel": "Agregar un nuevo Conjunto de Datos",
-  "addDatasetTextLabel": "Ingrese la información del conjunto de datos que desea mejorar, podrá ser modificada más adelante.",
+  "addDatasetTextLabel": "Introduce la información del conjunto de datos que deseas mejorar, se podrá modificar más tarde.",
   "addDatasetNameLabel": "Nombre del Conjunto de Datos",
   "addDatasetDescriptionLabel": "Descripción",
   "addDatasetDocumentLinkLabel": "Enlace al Documento (opcional)",
   "addDatasetButtonLabel": "Confirmar creación",
   "deleteConfirmTitleLabel": "¡Atención!",
-  "deleteConfirmDialogLabel": "Está a punto de eliminar permanentemente los datos relacionados con sus evaluaciones en el Conjunto de Datos.",
+  "deleteConfirmDialogLabel": "Estás a punto de eliminar permanentemente los datos relacionados con tus evaluaciones sobre el Conjunto de Datos.",
   "deleteConfirmButton": "Confirmar Eliminación",
-  "deleteConfirmButtonAbort": "Cancelar"
+  "deleteConfirmButtonAbort": "Cancelar",
+  "tableCol3Description": "Lista de Herramientas Usadas por Categoría"
 }

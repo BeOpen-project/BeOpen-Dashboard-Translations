@@ -207,7 +207,7 @@
   "datasetDocumentLink": "Link del documento",
   "modifyDatasetDescDialog": "Imposta o modifica la descrizione della versione corrente del dataset",
   "modifyDatasetDescConfirm": "Salva nuova descrizione",
-  "modifyDatasetLinkDialog": "Imposta o modifica il link alla documentazione della versione corrente del dataset",
+  "modifyDatasetLinkDialog": "Imposta o modifica i dettagli della documentazione della versione corrente del dataset",
   "modifyDatasetLinkConfirm": "Salva nuovo link alla documentazione",
   "navigateToDocumentLink": "Vai alla documentazione",
 
@@ -220,6 +220,7 @@
   "deleteConfirmTitleLabel": "Attenzione!",
   "deleteConfirmDialogLabel": "Stai per eliminare definitivamente i dati relativi alle tue valutazioni effettuate sul Dataset",
   "deleteConfirmButton": "Conferma Eliminazione",
-  "deleteConfirmButtonAbort": "Annulla"
+  "deleteConfirmButtonAbort": "Annulla",
+  "tableCol3Description": "Elenco Strumenti Usati per Categoria"
 
 }
