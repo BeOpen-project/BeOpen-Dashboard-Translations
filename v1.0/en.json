@@ -211,5 +211,16 @@
   "modifyDatasetDescConfirm": "Save new description",
   "modifyDatasetLinkDialog": "Set or modify the link to the documentation of the current version of Dataset",
   "modifyDatasetLinkConfirm": "Save new link to the documentation",
-  "navigateToDocumentLink": "Navigate to the documentation"
+  "navigateToDocumentLink": "Navigate to the documentation",
+
+  "addDatasetTitleLabel": "Add a new Dataset",
+  "addDatasetTextLabel": "Enter the information of the dataset you want to improve, it can be modified later.",
+  "addDatasetNameLabel": "Dataset Name",
+  "addDatasetDescriptionLabel": "Description",
+  "addDatasetDocumentLinkLabel": "Document Link (optional)",
+  "addDatasetButtonLabel": "Confirm creation",
+  "deleteConfirmTitleLabel": "Warning!",
+  "deleteConfirmDialogLabel": "You are about to permanently delete the data related to your assessments on the Dataset.",
+  "deleteConfirmButton": "Confirm Deletion",
+  "deleteConfirmButtonAbort": "Cancel"
 }

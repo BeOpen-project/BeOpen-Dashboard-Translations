@@ -211,5 +211,16 @@
   "modifyDatasetDescConfirm": "Enregistrer la nouvelle description",
   "modifyDatasetLinkDialog": "Définir ou modifier le lien vers la documentation de la version actuelle du jeu de données",
   "modifyDatasetLinkConfirm": "Enregistrer le nouveau lien vers la documentation",
-  "navigateToDocumentLink": "Accéder à la documentation"
+  "navigateToDocumentLink": "Accéder à la documentation",
+
+  "addDatasetTitleLabel": "Ajouter un nouveau Dataset",
+  "addDatasetTextLabel": "Entrez les informations du dataset que vous souhaitez améliorer, elles peuvent être modifiées plus tard.",
+  "addDatasetNameLabel": "Nom du Dataset",
+  "addDatasetDescriptionLabel": "Description",
+  "addDatasetDocumentLinkLabel": "Lien vers le document (facultatif)",
+  "addDatasetButtonLabel": "Confirmer la création",
+  "deleteConfirmTitleLabel": "Attention !",
+  "deleteConfirmDialogLabel": "Vous êtes sur le point de supprimer définitivement les données relatives à vos évaluations du Dataset.",
+  "deleteConfirmButton": "Confirmer la suppression",
+  "deleteConfirmButtonAbort": "Annuler"
 }

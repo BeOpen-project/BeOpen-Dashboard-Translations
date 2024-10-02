@@ -211,5 +211,16 @@
   "modifyDatasetDescConfirm": "Išsaugoti naują aprašymą",
   "modifyDatasetLinkDialog": "Nustatykite arba pakeiskite dabartinės duomenų rinkinio versijos dokumentacijos nuorodą",
   "modifyDatasetLinkConfirm": "Išsaugoti naują dokumentacijos nuorodą",
-  "navigateToDocumentLink": "Eiti į dokumentaciją"
+  "navigateToDocumentLink": "Eiti į dokumentaciją",
+
+  "addDatasetTitleLabel": "Pridėkite naują duomenų rinkinį",
+  "addDatasetTextLabel": "Įveskite duomenų rinkinio informaciją, kurią norite patobulinti. Ji gali būti pakeista vėliau.",
+  "addDatasetNameLabel": "Duomenų rinkinio pavadinimas",
+  "addDatasetDescriptionLabel": "Aprašymas",
+  "addDatasetDocumentLinkLabel": "Dokumento nuoroda (pasirinktinai)",
+  "addDatasetButtonLabel": "Patvirtinti kūrimą",
+  "deleteConfirmTitleLabel": "Dėmesio!",
+  "deleteConfirmDialogLabel": "Jūs ketinate visam laikui ištrinti duomenis, susijusius su jūsų duomenų rinkinio vertinimais.",
+  "deleteConfirmButton": "Patvirtinti ištrynimą",
+  "deleteConfirmButtonAbort": "Atšaukti"
 }

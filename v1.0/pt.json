@@ -211,5 +211,16 @@
   "modifyDatasetDescConfirm": "Salvar nova descrição",
   "modifyDatasetLinkDialog": "Definir ou modificar o link para a documentação da versão atual do conjunto de dados",
   "modifyDatasetLinkConfirm": "Salvar novo link para a documentação",
-  "navigateToDocumentLink": "Navegar para a documentação"
+  "navigateToDocumentLink": "Navegar para a documentação",
+
+  "addDatasetTitleLabel": "Adicionar um novo Conjunto de Dados",
+  "addDatasetTextLabel": "Insira as informações do conjunto de dados que deseja melhorar, elas poderão ser modificadas posteriormente.",
+  "addDatasetNameLabel": "Nome do Conjunto de Dados",
+  "addDatasetDescriptionLabel": "Descrição",
+  "addDatasetDocumentLinkLabel": "Link para o Documento (opcional)",
+  "addDatasetButtonLabel": "Confirmar criação",
+  "deleteConfirmTitleLabel": "Atenção!",
+  "deleteConfirmDialogLabel": "Você está prestes a excluir permanentemente os dados relacionados às suas avaliações do Conjunto de Dados.",
+  "deleteConfirmButton": "Confirmar Exclusão",
+  "deleteConfirmButtonAbort": "Cancelar"
 }

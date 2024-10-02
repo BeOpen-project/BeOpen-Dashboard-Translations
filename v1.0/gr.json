@@ -210,5 +210,16 @@
   "modifyDatasetDescConfirm": "Αποθήκευση νέας περιγραφής",
   "modifyDatasetLinkDialog": "Ορίστε ή τροποποιήστε τον σύνδεσμο προς την τεκμηρίωση της τρέχουσας έκδοσης του συνόλου δεδομένων",
   "modifyDatasetLinkConfirm": "Αποθήκευση νέου συνδέσμου προς την τεκμηρίωση",
-  "navigateToDocumentLink": "Μεταβείτε στην τεκμηρίωση"
+  "navigateToDocumentLink": "Μεταβείτε στην τεκμηρίωση",
+
+  "addDatasetTitleLabel": "Προσθέστε ένα νέο Σύνολο Δεδομένων",
+  "addDatasetTextLabel": "Εισαγάγετε τις πληροφορίες του συνόλου δεδομένων που θέλετε να βελτιώσετε, μπορούν να τροποποιηθούν αργότερα.",
+  "addDatasetNameLabel": "Όνομα Συνόλου Δεδομένων",
+  "addDatasetDescriptionLabel": "Περιγραφή",
+  "addDatasetDocumentLinkLabel": "Σύνδεσμος Εγγράφου (προαιρετικό)",
+  "addDatasetButtonLabel": "Επιβεβαίωση δημιουργίας",
+  "deleteConfirmTitleLabel": "Προσοχή!",
+  "deleteConfirmDialogLabel": "Πρόκειται να διαγράψετε οριστικά τα δεδομένα που σχετίζονται με τις αξιολογήσεις σας στο Σύνολο Δεδομένων.",
+  "deleteConfirmButton": "Επιβεβαίωση Διαγραφής",
+  "deleteConfirmButtonAbort": "Ακύρωση"
 }

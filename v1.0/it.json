@@ -209,5 +209,17 @@
   "modifyDatasetDescConfirm": "Salva nuova descrizione",
   "modifyDatasetLinkDialog": "Imposta o modifica il link alla documentazione della versione corrente del dataset",
   "modifyDatasetLinkConfirm": "Salva nuovo link alla documentazione",
-  "navigateToDocumentLink": "Vai alla documentazione"
+  "navigateToDocumentLink": "Vai alla documentazione",
+
+  "addDatasetTitleLabel": "Aggiungi un nuovo Dataset",
+  "addDatasetTextLabel": "Inserisci le informazioni del dataset che vuoi migliorare, potranno essere modificate in seguito.",
+  "addDatasetNameLabel": "Nome del Dataset",
+  "addDatasetDescriptionLabel": "Descrizione",
+  "addDatasetDocumentLinkLabel": "Link al Documento (opzionale)",
+  "addDatasetButtonLabel": "Conferma creazione",
+  "deleteConfirmTitleLabel": "Attenzione!",
+  "deleteConfirmDialogLabel": "Stai per eliminare definitivamente i dati relativi alle tue valutazioni effettuate sul Dataset",
+  "deleteConfirmButton": "Conferma Eliminazione",
+  "deleteConfirmButtonAbort": "Annulla"
+
 }
