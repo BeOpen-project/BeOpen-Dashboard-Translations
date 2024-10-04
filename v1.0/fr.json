@@ -223,5 +223,9 @@
   "deleteConfirmDialogLabel": "Vous êtes sur le point de supprimer définitivement les données relatives à vos évaluations sur le Dataset.",
   "deleteConfirmButton": "Confirmer la suppression",
   "deleteConfirmButtonAbort": "Annuler",
-  "tableCol3Description": "Liste des outils utilisés par catégorie"
+  "tableCol3Description": "Liste des outils utilisés par catégorie",
+
+  "savingConfirmDialogLabel": "Vous êtes sur le point de quitter la page de modification sans enregistrer les dernières modifications. Voulez-vous enregistrer maintenant ?",
+  "savingConfirmButton": "Enregistrer et Quitter",
+  "savingConfirmButtonAbort": "Quitter sans Enregistrer"
 }

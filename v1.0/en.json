@@ -224,5 +224,9 @@
   "deleteConfirmButton": "Confirm Deletion",
   "deleteConfirmButtonAbort": "Cancel",
   "tableCol3Description": "List of Tools Used by Category",
-  "datasetCompliantValue": "HVD compliant"
+  "datasetCompliantValue": "HVD compliant",
+
+  "savingConfirmDialogLabel": "You are about to leave the editing page without saving the latest changes. Do you want to save now?",
+  "savingConfirmButton": "Save and Exit",
+  "savingConfirmButtonAbort": "Exit without Saving"
 }

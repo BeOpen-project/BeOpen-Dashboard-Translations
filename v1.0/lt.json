@@ -223,5 +223,8 @@
   "deleteConfirmDialogLabel": "Jūs ketinate visam laikui ištrinti duomenis, susijusius su jūsų vertinimais apie duomenų rinkinį.",
   "deleteConfirmButton": "Patvirtinti ištrynimą",
   "deleteConfirmButtonAbort": "Atšaukti",
-  "tableCol3Description": "Įrankių sąrašas pagal kategoriją"
+  "tableCol3Description": "Įrankių sąrašas pagal kategoriją",
+  "savingConfirmDialogLabel": "Jūs ketinate išeiti iš redagavimo puslapio neišsaugoję naujausių pakeitimų. Ar norite išsaugoti dabar?",
+  "savingConfirmButton": "Išsaugoti ir Išeiti",
+  "savingConfirmButtonAbort": "Išeiti be Išsaugojimo"
 }

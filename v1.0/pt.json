@@ -223,5 +223,8 @@
   "deleteConfirmDialogLabel": "Você está prestes a excluir permanentemente os dados relacionados às suas avaliações no Conjunto de Dados.",
   "deleteConfirmButton": "Confirmar Exclusão",
   "deleteConfirmButtonAbort": "Cancelar",
-  "tableCol3Description": "Lista de Ferramentas Usadas por Categoria"
+  "tableCol3Description": "Lista de Ferramentas Usadas por Categoria",
+  "savingConfirmDialogLabel": "Você está prestes a sair da página de edição sem salvar as últimas alterações. Deseja salvar agora?",
+  "savingConfirmButton": "Salvar e Sair",
+  "savingConfirmButtonAbort": "Sair sem Salvar"
 }

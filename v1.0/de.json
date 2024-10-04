@@ -222,5 +222,9 @@
   "deleteConfirmDialogLabel": "Sie sind dabei, die Daten zu Ihren Bewertungen des Datasets endgültig zu löschen.",
   "deleteConfirmButton": "Löschung bestätigen",
   "deleteConfirmButtonAbort": "Abbrechen",
-  "tableCol3Description": "Liste der verwendeten Werkzeuge nach Kategorie"
+  "tableCol3Description": "Liste der verwendeten Werkzeuge nach Kategorie",
+  
+  "savingConfirmDialogLabel": "Du bist dabei, die Bearbeitungsseite zu verlassen, ohne die letzten Änderungen zu speichern. Möchtest du jetzt speichern?",
+  "savingConfirmButton": "Speichern und Beenden",
+  "savingConfirmButtonAbort": "Beenden ohne zu speichern"
 }

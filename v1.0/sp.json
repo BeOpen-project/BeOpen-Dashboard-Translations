@@ -223,5 +223,9 @@
   "deleteConfirmDialogLabel": "Estás a punto de eliminar permanentemente los datos relacionados con tus evaluaciones sobre el Conjunto de Datos.",
   "deleteConfirmButton": "Confirmar Eliminación",
   "deleteConfirmButtonAbort": "Cancelar",
-  "tableCol3Description": "Lista de Herramientas Usadas por Categoría"
+  "tableCol3Description": "Lista de Herramientas Usadas por Categoría",
+
+  "savingConfirmDialogLabel": "Estás a punto de salir de la página de edición sin guardar los últimos cambios. ¿Quieres guardar ahora?",
+  "savingConfirmButton": "Guardar y Salir",
+  "savingConfirmButtonAbort": "Salir sin Guardar"
 }

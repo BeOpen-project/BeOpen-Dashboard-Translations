@@ -221,6 +221,10 @@
   "deleteConfirmDialogLabel": "Stai per eliminare definitivamente i dati relativi alle tue valutazioni effettuate sul Dataset",
   "deleteConfirmButton": "Conferma Eliminazione",
   "deleteConfirmButtonAbort": "Annulla",
-  "tableCol3Description": "Elenco Strumenti Usati per Categoria"
+  "tableCol3Description": "Elenco Strumenti Usati per Categoria",
+
+  "savingConfirmDialogLabel": "Stai per lasciare la pagina di modifica senza salvare le ultime modifiche, vuoi effettuare il salvataggio ora?",
+  "savingConfirmButton": "Salva ed Esci",
+  "savingConfirmButtonAbort": "Esci senza Salvare"
 
 }

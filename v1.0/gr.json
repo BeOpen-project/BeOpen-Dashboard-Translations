@@ -222,5 +222,9 @@
   "deleteConfirmDialogLabel": "Πρόκειται να διαγράψετε οριστικά τα δεδομένα που σχετίζονται με τις αξιολογήσεις σας για το Dataset.",
   "deleteConfirmButton": "Επιβεβαίωση διαγραφής",
   "deleteConfirmButtonAbort": "Ακύρωση",
-  "tableCol3Description": "Κατάλογος εργαλείων ανά κατηγορία"
+  "tableCol3Description": "Κατάλογος εργαλείων ανά κατηγορία",
+
+  "savingConfirmDialogLabel": "Πρόκειται να αποχωρήσετε από τη σελίδα επεξεργασίας χωρίς να αποθηκεύσετε τις τελευταίες αλλαγές. Θέλετε να αποθηκεύσετε τώρα;",
+  "savingConfirmButton": "Αποθήκευση και Έξοδος",
+  "savingConfirmButtonAbort": "Έξοδος χωρίς Αποθήκευση"
 }
