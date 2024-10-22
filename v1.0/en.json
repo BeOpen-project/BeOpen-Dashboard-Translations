@@ -16,7 +16,7 @@
   "addToPrivateDataSpaceLabel1": "Browse your data from your personal folder in the MinIO bucket and select a file to preview it.",
   "addToPrivateDataSpaceLabel2": "The entire list of your files belonging to your personal folder is shown below.",
   "canSelectFileTypeListLabel": "You can select a text file, an image, a JSON file, a PDF file, a Zip file of a Shapefile (SHP) or a GeoJSON file. If the uploaded file is a Zip file but not a Shapefile, it will not be possible to preview it.",
-  "selectFileToPreview": "Select a file to preview",
+  "selectFileToPreview": "Select the file to analyze",
   "chooseFile": "Choose a File",
   "fileType": "File Type",
   "fileName": "File Name",

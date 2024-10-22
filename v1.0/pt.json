@@ -16,7 +16,7 @@
   "addToPrivateDataSpaceLabel1": "Navegue pelos seus dados e selecione um ficheiro para ver uma pré-visualização",
   "addToPrivateDataSpaceLabel2": "Pode adicionar o objeto carregado ao seu bucket pessoal usando o botão no final da página",
   "canSelectFileTypeListLabel": "Pode selecionar um ficheiro de texto, uma imagem, um ficheiro JSON, um ficheiro PDF, um ficheiro Zip de um Shapefile (SHP) ou um ficheiro GeoJSON. Se o ficheiro carregado for um Zip, mas não um Shapefile, não será possível visualizar a sua pré-visualização.",
-  "selectFileToPreview": "Selecionar um ficheiro para pré-visualização",
+  "selectFileToPreview": "Selecione o arquivo para analisar",
   "chooseFile": "Escolher um Ficheiro",
   "fileType": "Tipo de Ficheiro",
   "fileName": "Nome do Ficheiro",

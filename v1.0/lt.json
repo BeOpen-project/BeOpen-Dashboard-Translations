@@ -16,7 +16,7 @@
   "addToPrivateDataSpaceLabel1": "Naršykite savo duomenis ir pasirinkite failą, kad pamatytumėte peržiūrą",
   "addToPrivateDataSpaceLabel2": "Galite pridėti įkeltą objektą prie savo asmeninio segmento naudodami mygtuką puslapio pabaigoje",
   "canSelectFileTypeListLabel": "Galite pasirinkti tekstinį failą, vaizdą, JSON failą, PDF failą, ZIP failas, kuriame yra Shape failas (SHP) arba GeoJSON failas. Jei įkeltas failas yra ZIP, bet ne Shape failas, jo peržiūrėti nebus galima.",
-  "selectFileToPreview": "Pasirinkite failą peržiūrai",
+  "selectFileToPreview": "Pasirinkite failą analizei",
   "chooseFile": "Pasirinkite Failą",
   "fileType": "Failo Tipas",
   "fileName": "Failo Pavadinimas",
