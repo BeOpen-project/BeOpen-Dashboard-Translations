@@ -59,6 +59,10 @@
   "mqvLabel2": "DCAT-AP-Standard",
   "mqvLabel3": "um sicherzustellen, dass der Katalog oder das Dataset für die Einreichung im",
   "mqvLabel4": "Europäischen Datenportal - ",
+  "mqvLabel5_1": "Der Algorithmus folgt der",
+  "mqvLabel5_2": "Methodik",
+  "mqvLabel5_3": "des europäischen Datenportals.",
+  "mqvLabel5_4": "Falls es sich um einen bereits in Idra föderierten Katalog handelt, kann die RDF-Datei des Katalogs direkt vom Idra-Dashboard heruntergeladen werden, indem man das Menü Administration aufruft, dann zur Seite Kataloge verwalten geht und für den gewünschten Katalog auf die Schaltfläche Dump herunterladen klickt, die die Datei herunterlädt.",
   "submitWFile": "Mit Datei übermitteln",
   "send": "Senden",
   "submitWURL": "Mit URL übermitteln",
@@ -220,11 +224,14 @@
   "addDatasetButtonLabel": "Erstellung bestätigen",
   "deleteConfirmTitleLabel": "Achtung!",
   "deleteDatasetConfirmDialogLabel": "Sie sind dabei, die Daten zu Ihren Bewertungen des Datasets endgültig zu löschen.",
-  "deleteObjectConfirmDialogLabel": "You are about to permanently delete the object in this repository. Are you sure?",
+  "deleteObjectConfirmDialogLabel": "Sie sind dabei, das Objekt in diesem Repository dauerhaft zu löschen. Sind Sie sicher?",
+  "period": "Zeitraum",
+  "dateField": "Datumsfeld",
+  
   "deleteConfirmButton": "Löschung bestätigen",
   "deleteConfirmButtonAbort": "Abbrechen",
   "tableCol3Description": "Liste der verwendeten Werkzeuge nach Kategorie",
-  
+
   "savingConfirmDialogLabel": "Du bist dabei, die Bearbeitungsseite zu verlassen, ohne die letzten Änderungen zu speichern. Möchtest du jetzt speichern?",
   "savingConfirmButton": "Speichern und Beenden",
   "savingConfirmButtonAbort": "Beenden ohne zu speichern"

@@ -57,6 +57,10 @@
   "mqvLabel2": "standard DCAT-AP",
   "mqvLabel3": "per assicurare che il Catalogo o Dataset sia valido per la sua sottomissione nel",
   "mqvLabel4": "Portale Europeo dei Dati -",
+  "mqvLabel5_1": "L'algoritmo segue la",
+  "mqvLabel5_2": "metodologia",
+  "mqvLabel5_3": "definita dal portale europeo dei dati.",
+  "mqvLabel5_4": "Se si tratta di un Catalogo già federato in Idra, è possibile scaricare il file RDF del Catalogo direttamente dal dashboard di Idra accedendo al menu Amministrazione, poi alla pagina Gestisci Cataloghi, e per il Catalogo desiderato premere il pulsante Scarica Dump, che scaricherà il file.",
   "submitWFile": "Invia con file",
   "send": "Invia",
   "submitWURL": "Invia con URL",
@@ -219,7 +223,10 @@
   "addDatasetButtonLabel": "Conferma creazione",
   "deleteConfirmTitleLabel": "Attenzione!",
   "deleteDatasetConfirmDialogLabel": "Stai per eliminare definitivamente i dati relativi alle tue valutazioni effettuate sul Dataset",
-  "deleteObjectConfirmDialogLabel": "Stai per eliminare definitivamente l'oggetto in questo repository. Confermi?",
+  "deleteObjectConfirmDialogLabel": "Stai per eliminare definitivamente l'oggetto in questo repository. Sei sicuro?",
+  "period": "Periodo",
+  "dateField": "Campo data",
+
   "deleteConfirmButton": "Conferma Eliminazione",
   "deleteConfirmButtonAbort": "Annulla",
   "tableCol3Description": "Elenco Strumenti Usati per Categoria",
@@ -227,5 +234,4 @@
   "savingConfirmDialogLabel": "Stai per lasciare la pagina di modifica senza salvare le ultime modifiche, vuoi effettuare il salvataggio ora?",
   "savingConfirmButton": "Salva ed Esci",
   "savingConfirmButtonAbort": "Esci senza Salvare"
-
 }
