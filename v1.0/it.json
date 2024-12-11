@@ -247,5 +247,12 @@
 
   "savingConfirmDialogLabel": "Stai per lasciare la pagina di modifica senza salvare le ultime modifiche, vuoi effettuare il salvataggio ora?",
   "savingConfirmButton": "Salva ed Esci",
-  "savingConfirmButtonAbort": "Esci senza Salvare"
+  "savingConfirmButtonAbort": "Esci senza Salvare",
+
+  "dataModelTitle": "Modello di Dati",
+  "dataModelTitleDescription1": "Oltre a utilizzare un formato leggibile dalle macchine, all'applicazione di una licenza ai set di dati, è necessario migliorare l'interoperabilità per incoraggiare il riutilizzo. Per raggiungere questo obiettivo, è necessario essere conformi agli <b>standard internazionali</b> o adottare <b>strutture di dati comuni</b>. Un esempio valido potrebbe essere l'adozione dello standard ETSI NGSI-LD supportato dai FIWARE Orion Context Brokers per la descrizione dei set di dati attraverso specifici metadati e che a sua volta promuove l'interoperabilità tra i set di dati. Inoltre, l'adozione di strutture di dati comuni è un punto cruciale per promuovere l'interoperabilità, ad esempio gli Smart Data Models",
+  "dataModelTitleDescription2": "È possibile applicare un modello di dati comune e allo stesso tempo aggiungere dati al FIWARE Orion Context Broker utilizzando lo strumento Data Model Mapper proposto da BeOpen, o altri strumenti con lo stesso scopo.",
+  "dataModelTitleDescription3": "Lo strumento Data Model Mapper consente di mappare i dati dal modello di dati comune al modello di dati del FIWARE Orion Context Broker. È possibile utilizzare il FIWARE Orion Context Broker per memorizzare i dati e recuperarli utilizzando lo standard NGSI-LD.",
+  "dataModelMapperTitle": "Data Model Mapper",
+  "anotherEquivalentTool": "Un altro strumento equivalente"
 }

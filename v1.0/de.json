@@ -249,5 +249,12 @@
 
   "savingConfirmDialogLabel": "Du bist dabei, die Bearbeitungsseite zu verlassen, ohne die letzten Änderungen zu speichern. Möchtest du jetzt speichern?",
   "savingConfirmButton": "Speichern und Beenden",
-  "savingConfirmButtonAbort": "Beenden ohne zu speichern"
+  "savingConfirmButtonAbort": "Beenden ohne zu speichern",
+
+  "dataModelTitle": "Datenmodell",
+  "dataModelTitleDescription1": "Zusätzlich zur Verwendung eines maschinenlesbaren Formats, zur Anwendung einer Lizenz auf Datensätze, muss die Interoperabilität verbessert werden, um die Wiederverwendung zu fördern. Um dies zu erreichen, muss die Einhaltung von <b>internationalen Standards</b> gewährleistet oder <b>gemeinsame Datenstrukturen</b> übernommen werden. Ein gültiges Beispiel könnte die Übernahme des ETSI-NGSI-LD-Standards sein, der von den FIWARE-Orion-Kontextbrokern unterstützt wird, um Datensätze durch spezifische Metadaten zu beschreiben, und der wiederum die Interoperabilität zwischen Datensätzen fördert. Darüber hinaus ist die Übernahme gemeinsamer Datenstrukturen ein entscheidender Punkt zur Förderung der Interoperabilität, zum Beispiel der Smart Data Models",
+  "dataModelTitleDescription2": "Es ist möglich, ein gemeinsames Datenmodell anzuwenden und gleichzeitig Daten in den FIWARE Orion Context Broker hinzuzufügen, indem das von BeOpen vorgeschlagene Data Model Mapper Tool oder andere Tools mit demselben Zweck verwendet werden.",
+  "dataModelTitleDescription3": "Das Data Model Mapper Tool ermöglicht es, die Daten aus dem gemeinsamen Datenmodell auf das Datenmodell des FIWARE Orion Context Broker zu mappen. Es ist möglich, den FIWARE Orion Context Broker zu verwenden, um die Daten zu speichern und sie mit dem NGSI-LD-Standard abzurufen.",
+  "dataModelMapperTitle": "Data Model Mapper",
+  "anotherEquivalentTool": "Ein weiteres gleichwertiges Tool"
 }
