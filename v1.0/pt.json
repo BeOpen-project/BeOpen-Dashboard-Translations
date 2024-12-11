@@ -251,9 +251,10 @@
   "savingConfirmButtonAbort": "Sair sem Salvar",
 
   "dataModelTitle": "Modelo de Dados",
-  "dataModelTitleDescription1": "Além de usar um formato legível por máquina, de aplicar uma licença aos conjuntos de dados, a interoperabilidade deve ser melhorada para incentivar a reutilização. Para alcançar isso, é necessário estar em conformidade com os <b>padrões internacionais</b> ou adotar <b>estruturas de dados comuns</b>. Um exemplo válido pode ser a adoção do padrão ETSI NGSI-LD suportado pelos FIWARE Orion Context Brokers para a descrição de conjuntos de dados através de metadados específicos, o que, por sua vez, promove a interoperabilidade entre conjuntos de dados. Além disso, a adoção de estruturas de dados comuns é um ponto crucial para promover a interoperabilidade, por exemplo, os Smart Data Models",
-  "dataModelTitleDescription2": "É possível aplicar um modelo de dados comum e, ao mesmo tempo, adicionar dados ao FIWARE Orion Context Broker usando a ferramenta Data Model Mapper proposta pela BeOpen, ou outras ferramentas com o mesmo propósito.",
-  "dataModelTitleDescription3": "A ferramenta Data Model Mapper permite mapear os dados do modelo de dados comum para o modelo de dados do FIWARE Orion Context Broker. É possível usar o FIWARE Orion Context Broker para armazenar os dados e recuperá-los usando o padrão NGSI-LD.",
+  "dataModelTitleDescription1": "Além de usar um formato legível por máquina e aplicar uma licença aos conjuntos de dados, é necessário melhorar a interoperabilidade para incentivar a reutilização. Para alcançar isso, é necessário estar em conformidade com os <b>padrões internacionais</b> ou adotar <b>estruturas de dados comuns</b>. Um exemplo válido pode ser a adoção do padrão ETSI NGSI-LD, suportado pelos FIWARE Orion Context Brokers para a descrição de conjuntos de dados através de metadados específicos, o que, por sua vez, promove a interoperabilidade entre conjuntos de dados.",
+  "dataModelTitleDescription2": "Além disso, a adoção de estruturas de dados comuns é um ponto crucial para promover a interoperabilidade, por exemplo, os Smart Data Models",
+  "dataModelTitleDescription3": "É possível aplicar um modelo de dados comum e, ao mesmo tempo, adicionar dados ao FIWARE Orion Context Broker usando a ferramenta Data Model Mapper proposta pela BeOpen, ou outras ferramentas com o mesmo propósito.",
+  "dataModelTitleDescription4": "A ferramenta Data Model Mapper permite mapear os dados do modelo de dados comum para o modelo de dados do FIWARE Orion Context Broker. É possível usar o FIWARE Orion Context Broker para armazenar os dados e recuperá-los usando o padrão NGSI-LD.",
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Outra ferramenta equivalente"
 }

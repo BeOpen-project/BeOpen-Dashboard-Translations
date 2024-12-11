@@ -251,9 +251,10 @@
   "savingConfirmButtonAbort": "Išeiti be Išsaugojimo",
 
   "dataModelTitle": "Duomenų Modelis",
-  "dataModelTitleDescription1": "Be mašininiu būdu nuskaitomo formato naudojimo, taikant licenciją duomenų rinkiniams, būtina pagerinti sąveikumą, siekiant paskatinti pakartotinį naudojimą. Norint tai pasiekti, būtina laikytis <b>tarptautinių standartų</b> arba priimti <b>bendras duomenų struktūras</b>. Tinkamas pavyzdys galėtų būti ETSI NGSI-LD standarto, kurį palaiko FIWARE Orion Context Brokers, priėmimas duomenų rinkinių aprašymui naudojant specifinius metaduomenis, kuris savo ruožtu skatina duomenų rinkinių sąveikumą. Be to, bendrų duomenų struktūrų priėmimas yra svarbus žingsnis siekiant skatinti sąveikumą, pavyzdžiui, Smart Data Models",
-  "dataModelTitleDescription2": "Galima taikyti bendrą duomenų modelį ir tuo pačiu metu pridėti duomenų į FIWARE Orion Context Broker, naudojant BeOpen siūlomą Data Model Mapper įrankį arba kitus įrankius su tuo pačiu tikslu.",
-  "dataModelTitleDescription3": "Data Model Mapper įrankis leidžia susieti duomenis iš bendro duomenų modelio su FIWARE Orion Context Broker duomenų modeliu. Galima naudoti FIWARE Orion Context Broker saugoti duomenims ir juos gauti naudojant NGSI-LD standartą.",
+  "dataModelTitleDescription1": "Be naudojimo mašinai skaitomu formatu ir licencijos taikymo duomenų rinkiniams, būtina pagerinti sąveikumą, siekiant paskatinti pakartotinį naudojimą. Norint tai pasiekti, būtina laikytis <b>tarptautinių standartų</b> arba priimti <b>bendras duomenų struktūras</b>. Tinkamas pavyzdys galėtų būti ETSI NGSI-LD standarto, kurį palaiko FIWARE Orion Context Brokers, priėmimas duomenų rinkinių aprašymui per specifinius metaduomenis, kuris savo ruožtu skatina sąveikumą tarp duomenų rinkinių.",
+  "dataModelTitleDescription2": "Be to, bendrų duomenų struktūrų priėmimas yra esminis punktas skatinant sąveikumą, pavyzdžiui, Smart Data Models",
+  "dataModelTitleDescription3": "Galima taikyti bendrą duomenų modelį ir tuo pačiu metu pridėti duomenų į FIWARE Orion Context Broker, naudojant BeOpen siūlomą Data Model Mapper įrankį arba kitus įrankius su tuo pačiu tikslu.",
+  "dataModelTitleDescription4": "Data Model Mapper įrankis leidžia susieti duomenis iš bendro duomenų modelio su FIWARE Orion Context Broker duomenų modeliu. Galima naudoti FIWARE Orion Context Broker saugoti duomenims ir juos gauti naudojant NGSI-LD standartą.",
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Kitas lygiavertis įrankis"
 }
