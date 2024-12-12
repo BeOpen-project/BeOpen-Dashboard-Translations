@@ -190,6 +190,7 @@
   "step9Label": "How Is your dataset Licensed?",
   "step9Link": "More details about licenses can be found",
   "step10Desc": "The Directive requires that data must have a comprehensive metadata and documentation available.",
+  "step10Desc_1": "Dataset metadata is understood to be all that set of information aimed at describing the dataset and making the user understand the content of the data (such as the data last modification date, the publisher etc.). <br>APIs through which Datasets can be accessed, on the other hand, are either already documented in themselves if they use a common, standard interface such as even the APIs provided by common Open data portals (CKAN portal, DKAN portals, etc.) or they are considering that the BeOpen Catalog will be federated in Idra which provides a rich documentation for its APIs, same for the Context broker if it has been adopted.",
   "step10Label": "Is comprehensive metadata and documentation available?",
   "step10Link": "More details about API can be found",
   "dataSetOk": "Congratulations, your Dataset is already compatible with the HVD EU Implementing Regulation!",
