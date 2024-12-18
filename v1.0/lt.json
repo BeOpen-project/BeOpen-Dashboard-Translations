@@ -264,5 +264,7 @@
   "dataModelTitleDescription3": "Galima taikyti bendrą duomenų modelį ir tuo pačiu metu pridėti duomenų į FIWARE Orion Context Broker, naudojant BeOpen siūlomą Data Model Mapper įrankį arba kitus įrankius su tuo pačiu tikslu.",
   "dataModelTitleDescription4": "Data Model Mapper įrankis leidžia susieti duomenis iš bendro duomenų modelio su FIWARE Orion Context Broker duomenų modeliu. Galima naudoti FIWARE Orion Context Broker saugoti duomenims ir juos gauti naudojant NGSI-LD standartą.",
   "dataModelMapperTitle": "Data Model Mapper",
-  "anotherEquivalentTool": "Kitas lygiavertis įrankis"
+  "anotherEquivalentTool": "Kitas lygiavertis įrankis",
+
+  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Reikšmė gali būti loginė, HTTP atsakymų kodų sąrašas su santykiniu pasikartojimo procentu arba teisingų metrikų procentas"
 }

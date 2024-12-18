@@ -266,5 +266,7 @@
   "dataModelTitleDescription3": "It is possible to apply a common data model and at the same time add data to the FIWARE Orion Context Broker using the Data Model Mapper tool proposed by BeOpen, or other tools that have the same purpose.",
   "dataModelTitleDescription4": "The Data Model Mapper tool allows you to map the data from the common data model to the data model of the FIWARE Orion Context Broker. It is possible to use the FIWARE Orion Context Broker to store the data and to retrieve it using the NGSI-LD standard.",
   "dataModelMapperTitle": "Data Model Mapper",
-  "anotherEquivalentTool": "Another equivalent tool"
+  "anotherEquivalentTool": "Another equivalent tool",
+
+  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "The value can be a boolean, a list of http answer codes with relative percentage of occurrence, or the percentage of correct metrics"
 }
