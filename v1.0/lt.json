@@ -266,5 +266,13 @@
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Kitas lygiavertis įrankis",
 
-  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Reikšmė gali būti loginė, HTTP atsakymų kodų sąrašas su santykiniu pasikartojimo procentu arba teisingų metrikų procentas"
+  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Reikšmė gali būti loginė, HTTP atsakymų kodų sąrašas su santykiniu pasikartojimo procentu arba teisingų metrikų procentas",
+
+  "evm_title": "Atikos pilotas: Natūralių katastrofų skydas piliečiams ir aplinkai",
+  "evm_description_1": "Atikos regionas susiduria su dideliu iššūkiu gerinant miškų gaisrų valdymą, aptikimą ir reagavimo mechanizmus dėl didėjančio šių gaisrų dažnio, intensyvumo ir poveikio. Klimato kaita dar labiau apsunkina šią problemą, sudarydama palankias sąlygas gaisrų užsidegimui ir plitimui. Gaisrų artumas miesto teritorijoms kelia pavojų žmonių gyvybei ir infrastruktūrai, o ekosistemų ir turto sunaikinimas sukelia didelę aplinkos ir ekonominę žalą. Šie veiksniai pabrėžia skubų poreikį geresniam gaisrų aptikimui ir išteklių paskirstymui.",
+  "evm_description_2": "Atikos skaitmeninė paslauga siekia spręsti šiuos iššūkius taikydama veiksmingesnį <b>miškų gaisrų aptikimą<b>, reagavimą ir valdymą. Paslauga identifikuoja <b>miškų gaisrų įvykius<b> naudodama <b>geolokalizuotus socialinių tinklų įrašus<b> ir <b>palydovinius duomenis<b>, kad aptiktų neįprastus modelius. Šie modeliai apima gaisrų veiklos sankaupas, pvz., intensyvų įrašų srautą, kuriuose minimas dūmas, ugnis ar ekstremalūs įvykiai, taip pat anomalijas aplinkos parametruose, pvz., padidėjusį NO₂ lygį dėl biomasės degimo. Aptikus šiuos rodiklius, paslauga <b>suteikia avarinėms tarnyboms galimybę efektyviau reaguoti į gaisrus<b> ir palaiko gamtinių katastrofų valdymą. Skaitmeninė paslauga suteiks naudingos informacijos gelbėtojams, pagerindama situacijos suvokimą ir veiklos efektyvumą.",
+  "evm_label_sources": "Visi šaltiniai",
+  "evm_label_platform_x": "Socialinis tinklas X",
+  "evm_label_satellite": "Copernicus palydovinės nuotraukos",
+  "evm_label_apply_filters": "Taikyti filtrus"
 }

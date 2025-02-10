@@ -267,5 +267,13 @@
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Ein weiteres gleichwertiges Tool",
 
-  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Der Wert kann ein Boolescher Wert sein, eine Liste von HTTP-Antwortcodes mit relativer Auftretenshäufigkeit oder der Prozentsatz korrekter Metriken"
+  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Der Wert kann ein Boolescher Wert sein, eine Liste von HTTP-Antwortcodes mit relativer Auftretenshäufigkeit oder der Prozentsatz korrekter Metriken",
+
+  "evm_title": "Pilot Attika: Natürlicher Katastrophenschutz für Bürger und Umwelt",
+  "evm_description_1": "Die Region Attika steht vor der großen Herausforderung, das Management, die Erkennung und die Reaktionsmechanismen bei Waldbränden zu verbessern, da die Häufigkeit, Intensität und Auswirkungen von Waldbränden zunehmen. Der Klimawandel verschärft dieses Problem, indem er günstige Bedingungen für die Entzündung und Ausbreitung von Bränden schafft. Die Nähe der Brände zu städtischen Gebieten bedroht Menschenleben und Infrastruktur, während die Zerstörung von Ökosystemen und Eigentum erhebliche Umwelt- und Wirtschaftsschäden verursacht. Diese Faktoren unterstreichen die dringende Notwendigkeit besserer Erkennungsmethoden und effizienter Ressourcenzuweisung.",
+  "evm_description_2": "Der Digitale Dienst Attika zielt darauf ab, diese Herausforderungen durch eine effektivere <b>Erkennung<b>, Reaktion und Verwaltung von Waldbränden zu bewältigen. Der Dienst identifiziert <b>Waldbrandereignisse<b> durch die Nutzung von <b>geolokalisierten Social-Media-Beiträgen<b> und <b>Satellitendaten<b>, um ungewöhnliche Muster zu erkennen. Diese Muster umfassen Cluster von feuerbezogenen Aktivitäten, wie dichte Beiträge, die Rauch, Feuer oder Notfälle erwähnen, sowie Anomalien in Umweltparametern, wie erhöhte NO₂-Werte durch Biomasseverbrennung. Durch die Erkennung dieser Indikatoren <b>ermöglicht der Dienst den Notfallteams eine effektivere Reaktion auf Brände<b> und unterstützt das Management von Naturkatastrophen. Der Digitale Dienst wird Notfallhelfern umsetzbare Erkenntnisse liefern, um das Situationsbewusstsein und die betriebliche Effizienz zu verbessern.",
+  "evm_label_sources": "Alle Quellen",
+  "evm_label_platform_x": "Soziales Netzwerk X",
+  "evm_label_satellite": "Copernicus-Satellitenbilder",
+  "evm_label_apply_filters": "Filter anwenden"
 }

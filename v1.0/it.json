@@ -265,5 +265,13 @@
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Un altro strumento equivalente",
 
-  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Il valore può essere un booleano, un elenco di codici di risposta HTTP con relativa percentuale di occorrenza o la percentuale di metriche corrette"
+  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Il valore può essere un booleano, un elenco di codici di risposta HTTP con relativa percentuale di occorrenza o la percentuale di metriche corrette",
+
+  "evm_title": "Pilota Attica: Scudo contro le catastrofi naturali per cittadini e ambiente",
+  "evm_description_1": "La regione dell'Attica affronta una sfida critica nel migliorare la gestione, il rilevamento e i meccanismi di risposta agli incendi boschivi a causa della crescente frequenza, gravità e impatto di questi eventi. Il cambiamento climatico aggrava il problema creando condizioni favorevoli all'innesco e alla propagazione degli incendi. La vicinanza degli incendi alle aree urbane minaccia la vita umana e le infrastrutture, mentre la distruzione degli ecosistemi e delle proprietà causa danni ambientali ed economici significativi. Questi fattori evidenziano l'urgente necessità di migliori strategie di rilevamento e allocazione delle risorse.",
+  "evm_description_2": "Il Servizio Digitale Attica mira ad affrontare queste sfide attraverso un rilevamento, una risposta e una gestione degli <b>incendi boschivi<b> più efficaci. Il servizio identifica gli <b>eventi di incendio boschivo<b> utilizzando <b>post geolocalizzati sui social media<b> e <b>dati satellitari<b> per rilevare schemi insoliti. Questi schemi includono gruppi di attività legate al fuoco, come un'elevata concentrazione di post che menzionano fumo, fuoco o emergenze, e anomalie nei parametri ambientali, come livelli elevati di NO₂ dovuti alla combustione della biomassa. Identificando questi indicatori, il servizio <b>consente alle squadre di emergenza di rispondere in modo più efficace agli incendi<b> e supporta la gestione delle catastrofi naturali. Il Servizio Digitale fornirà informazioni utili per i soccorritori, migliorando la consapevolezza situazionale e l'efficienza operativa.",
+  "evm_label_sources": "Tutte le fonti",
+  "evm_label_platform_x": "Social Network X",
+  "evm_label_satellite": "Immagini satellitari Copernicus",
+  "evm_label_apply_filters": "Applica filtri"
 }

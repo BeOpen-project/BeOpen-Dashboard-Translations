@@ -267,5 +267,13 @@
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Un autre outil équivalent",
 
-  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "La valeur peut être un booléen, une liste de codes de réponse HTTP avec le pourcentage relatif d'occurrence, ou le pourcentage de métriques correctes"
+  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "La valeur peut être un booléen, une liste de codes de réponse HTTP avec le pourcentage relatif d'occurrence, ou le pourcentage de métriques correctes",
+
+  "evm_title": "Pilote Attique : Bouclier contre les catastrophes naturelles pour les citoyens et l'environnement",
+  "evm_description_1": "La région de l'Attique est confrontée à un défi majeur pour améliorer la gestion, la détection et les mécanismes de réponse aux incendies de forêt, en raison de leur fréquence, de leur intensité et de leur impact croissants. Le changement climatique aggrave ce problème en créant des conditions favorables au déclenchement et à la propagation des incendies. La proximité des incendies avec les zones urbaines menace les vies humaines et les infrastructures, tandis que la destruction des écosystèmes et des biens entraîne d'importants dommages environnementaux et économiques. Ces facteurs soulignent l'urgence d'améliorer la détection et l'allocation des ressources.",
+  "evm_description_2": "Le Service Numérique Attique vise à relever ces défis grâce à une <b>détection<b>, une réponse et une gestion plus efficaces des incendies de forêt. Le service identifie les <b>incendies de forêt<b> en utilisant des <b>publications géolocalisées sur les réseaux sociaux<b> et des <b>données satellitaires<b> pour détecter des schémas inhabituels. Ces schémas incluent des regroupements d'activités liées aux incendies, comme des publications massives mentionnant de la fumée, du feu ou des incidents d'urgence, ainsi que des anomalies dans les paramètres environnementaux, comme des niveaux élevés de NO₂ dus à la combustion de biomasse. En détectant ces indicateurs, le service <b>permet aux équipes d'urgence de réagir plus efficacement aux incendies<b> et soutient la gestion des catastrophes naturelles. Le Service Numérique fournira des informations exploitables aux équipes d'intervention, améliorant la connaissance de la situation et l'efficacité opérationnelle.",
+  "evm_label_sources": "Toutes les sources",
+  "evm_label_platform_x": "Réseau social X",
+  "evm_label_satellite": "Images satellite Copernicus",
+  "evm_label_apply_filters": "Appliquer les filtres"
 }

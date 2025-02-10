@@ -266,5 +266,13 @@
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Outra ferramenta equivalente",
 
-  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "O valor pode ser um booleano, uma lista de códigos de resposta HTTP com a porcentagem relativa de ocorrência, ou a porcentagem de métricas corretas"
+  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "O valor pode ser um booleano, uma lista de códigos de resposta HTTP com a porcentagem relativa de ocorrência, ou a porcentagem de métricas corretas",
+
+  "evm_title": "Piloto Ática: Escudo contra desastres naturais para cidadãos e meio ambiente",
+  "evm_description_1": "A região da Ática enfrenta um desafio crítico para melhorar a gestão, a detecção e os mecanismos de resposta a incêndios florestais devido ao aumento da frequência, gravidade e impacto desses eventos. As mudanças climáticas agravam esse problema, criando condições favoráveis para a ignição e propagação do fogo. A proximidade dos incêndios a áreas urbanas ameaça vidas humanas e infraestruturas, enquanto a destruição de ecossistemas e propriedades causa danos ambientais e econômicos significativos. Esses fatores ressaltam a necessidade urgente de melhores estratégias de detecção e alocação de recursos.",
+  "evm_description_2": "O Serviço Digital Ática pretende enfrentar esses desafios por meio de uma <b>detecção<b>, resposta e gestão mais eficazes de incêndios florestais. O serviço identifica <b>eventos de incêndio florestal<b> usando <b>postagens geolocalizadas em redes sociais<b> e <b>dados de satélite<b> para detectar padrões incomuns. Esses padrões incluem aglomerações de atividades relacionadas a incêndios, como postagens frequentes mencionando fumaça, fogo ou incidentes de emergência, além de anomalias em parâmetros ambientais, como níveis elevados de NO₂ causados pela queima de biomassa. Ao detectar esses indicadores, o serviço <b>permite que as equipes de emergência respondam de forma mais eficaz aos incêndios<b> e apoia a gestão de desastres naturais. O Serviço Digital fornecerá informações acionáveis para os socorristas, melhorando a conscientização situacional e a eficiência operacional.",
+  "evm_label_sources": "Todas as fontes",
+  "evm_label_platform_x": "Rede Social X",
+  "evm_label_satellite": "Imagens de satélite Copernicus",
+  "evm_label_apply_filters": "Aplicar filtros"
 }

@@ -267,5 +267,13 @@
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Otra herramienta equivalente",
 
-  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "El valor puede ser un booleano, una lista de códigos de respuesta HTTP con el porcentaje relativo de ocurrencia o el porcentaje de métricas correctas"
+  "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "El valor puede ser un booleano, una lista de códigos de respuesta HTTP con el porcentaje relativo de ocurrencia o el porcentaje de métricas correctas",
+
+  "evm_title": "Piloto Ática: Escudo contra desastres naturales para ciudadanos y medio ambiente",
+  "evm_description_1": "La región de Ática enfrenta un desafío crítico para mejorar la gestión, detección y mecanismos de respuesta ante incendios forestales debido al aumento en la frecuencia, gravedad e impacto de estos eventos. El cambio climático agrava este problema al crear condiciones favorables para la ignición y propagación del fuego. La proximidad de los incendios a áreas urbanas amenaza la vida humana y la infraestructura, mientras que la destrucción de ecosistemas y propiedades causa importantes daños ambientales y económicos. Estos factores subrayan la urgente necesidad de mejorar la detección y asignación de recursos.",
+  "evm_description_2": "El Servicio Digital de Ática tiene como objetivo abordar estos desafíos mediante una <b>detección<b>, respuesta y gestión de incendios forestales más eficaces. El servicio identifica <b>eventos de incendios forestales<b> utilizando <b>publicaciones geolocalizadas en redes sociales<b> y <b>datos satelitales<b> para detectar patrones inusuales. Estos patrones incluyen acumulaciones de actividad relacionada con incendios, como numerosas publicaciones mencionando humo, fuego o emergencias, así como anomalías en parámetros ambientales, como niveles elevados de NO₂ causados por la quema de biomasa. Al detectar estos indicadores, el servicio <b>permite que los equipos de emergencia respondan de manera más efectiva a los incendios<b> y respalda la gestión de desastres naturales. El Servicio Digital proporcionará información útil a los equipos de respuesta, mejorando la conciencia situacional y la eficiencia operativa.",
+  "evm_label_sources": "Todas las fuentes",
+  "evm_label_platform_x": "Red Social X",
+  "evm_label_satellite": "Imágenes satelitales Copernicus",
+  "evm_label_apply_filters": "Aplicar filtros"
 }
