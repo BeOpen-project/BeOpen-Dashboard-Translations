@@ -124,21 +124,21 @@
   "deletingObject_Success": "Object deleted successfully!",
   "queryModeSelect": "Perform queries on your data (CSV, JSON or GeoJSON) by selecting the query mode:  <br><br>- select the <b>sqlQuery</b> mode if you want to perform a free SQL query <br><br>- select <b>keyValue</b> if you want to perform a key - value query specifying the name of the query with 'key' attribute of interest if it is a JSON or the name of the column of interest if it is a CSV and in 'value' the value you are looking for <br><br>- select the <b>freeSearch</b> mode if you want to perform a free search in all files, which searches for the value inserted in the entire file, without the need to filter on a specific key.<br><br><b>SQL Query</b> mode<br><br> CSV<br>    Column-value match search<br>    Row extraction<br><br> JSON Array<br>    Key-value pair search at any level of each object in the array (including nested arrays)<br>    Single object extraction from the main array or from nested arrays<br><br> JSON Object<br>    Key-value pair search (any level)<br>    Single object extraction from nested arrays<br><br> <b>Key-Value</b> mode<br><br> CSV<br>    Column-value match search<br><br> JSON Array<br>    Key-value pair search at the first level of each object in the array<br><br> JSON Object<br>    Key-value pair search (first level)<br><br> <b>Free Search</b> mode<br><br> CSV<br>    Column or value search<br><br> JSON Array<br>    Key or value search at any level of each object in the array (including nested arrays)<br><br> JSON Object<br>    Key or value search (any level)",
   "typeSelect": "Select the type of object to filter.",
-  "Query Mode Select" : "Query Mode Select",
+  "Query Mode Select": "Query Mode Select",
   "Query Mode Select info": "Select simple search for a slower search with a single value to search, advanced search for more options like filtering files by key-value pairs in json, sql search for sql based query",
-  "File type select info" : "Select the file type you want to filter. You can filter json, geojson and csv files",
-  "Value type select info" : "This is the tye of the value you are searching for. String for strings (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) and date for dates (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)",
-  "Query SQL tooltip" : "Type here your SQL query. Language sql docs here https://www.postgresql.org/docs/current/sql.html",
+  "File type select info": "Select the file type you want to filter. You can filter json, geojson and csv files",
+  "Value type select info": "This is the tye of the value you are searching for. String for strings (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) and date for dates (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)",
+  "Query SQL tooltip": "Type here your SQL query. Language sql docs here https://www.postgresql.org/docs/current/sql.html",
   "Simple search tooltip": "Just write the value that you want to use to filter files",
-  "Select the type of value to filter" : "Select the type of value to filter",
-  "Type the SQL query here" : "Type the SQL query here",
-  "Type the search key here" : "Type the search key here",
-  "Apply Query" : "Apply Query",
-  "Value (E.g. BikeLane)" : "Value (E.g. BikeLane)",
-  "Key (E.g. name)" : "Key (E.g. name)",
-  "Value (E.g. Geo data)" : "Value (E.g. Geo data)",
-  "From date" : "From date",
-  "To date" : "To date",
+  "Select the type of value to filter": "Select the type of value to filter",
+  "Type the SQL query here": "Type the SQL query here",
+  "Type the search key here": "Type the search key here",
+  "Apply Query": "Apply Query",
+  "Value (E.g. BikeLane)": "Value (E.g. BikeLane)",
+  "Key (E.g. name)": "Key (E.g. name)",
+  "Value (E.g. Geo data)": "Value (E.g. Geo data)",
+  "From date": "From date",
+  "To date": "To date",
   "queryEngine": "Query engine",
   "stepper": "Stepper",
   "step1": "HVD category",
@@ -276,6 +276,30 @@
   "evm_label_sources": "All Sources",
   "evm_label_platform_x": "Social Network X",
   "evm_label_satellite": "Copernicus Satellite Images",
-  "evm_label_apply_filters": "Apply Filters"
+  "evm_label_apply_filters": "Apply Filters",
 
+  "nst_label_title": "Mapping the Future: How Naples is redesigning urban life through analytics",
+  "nst_label_subtitle": "Naples takes bold steps to improve urban planning and climate adaptation by leveraging big data analytics.",
+  
+  "nts_tab_no1_title": "BDTI framework for Napoli public space",
+  
+  "nst_label_no1_accordion_title": "BDTI Digital service on Naples Municipality in a nutshell",
+  "nst_label_no1_accordion_label_1": "The Municipality of Naples (Comune di Napoli), Italy's third-largest metropolitan area, is a city faced with complex urban challenges, ranging from socio-economic disparities and climate change to overtourism and gaps in public services. Recognising the need to improve urban resilience, Naples sought to integrate data-driven strategies into its urban planning and mobility frameworks. Through a collaborative effort involving local expertise and European partnerships, the city has embarked on a data-centric journey, utilising the",
+  "nst_label_no1_accordion_label_2": "to create actionable insights for urban and environmental improvements.",
+  
+  "nst_label_no1_accordion_subtitle_1": "Pilot objective",
+  "nst_label_no1_accordion_label_3": "The primary objective of the Naples BDTI pilot is to enhance urban resilience and sustainability by leveraging data analytics to address climate change impacts, such as extreme heat and heavy rainfall, and improve public space utilisation. By integrating socio-environmental data and identifying high-risk areas, the project aims to support decision-making processes for urban planning, mobility, and public safety. The pilot also seeks to provide actionable insights into green capital metrics and socio-economic vulnerabilities, fostering a data-driven approach to urban management.",
+
+  "nst_label_no1_accordion_subtitle_2": "The data: where the process started",
+  "nst_label_no1_accordion_label_4": "<b>Geographic datasets</b> serve as a crucial foundation for spatial analysis and decision-making, particularly when addressing <b>urban planning</b> and <b>sustainability</b> goals. The datasets the Naples team are using include <b>public space data</b> to analyse its distribution across administrative subdivisions, assess functionality, and identify underutilised areas or spaces with critical features that could be targeted for regeneration or redefined in the city's masterplan. <b>Sustainable mobility data</b>, structured and ready for sharing, provides actionable insights into transport patterns, enabling the development of greener and more efficient mobility systems. <b>Heat exposure values</b> and <b>green index</b> calculations, derived from the",
+  "nst_label_no1_accordion_label_5": "platform, offer crucial indicators for identifying areas prone to overheating and prioritising interventions to enhance urban liveability and environmental resilience. <b>Statistical data</b> further complements these datasets, enabling detailed analysis to guide evidence-based decisions that align with the project’s goals of fostering sustainable mobility and improving the quality of urban environments in Naples.",
+
+  "nst_label_no1_accordion_subtitle_3": "Strategic data integration with innovative tools",
+  "nst_label_no1_accordion_label_6": "Naples is aiming to <b>enhance its urban planning</b> and <b>mobility strategies</b> by using <b>data analytics</b> to address the impacts of climate change, particularly extreme heat and heavy rainfall. A significant objective is to identify 'relief hubs' across the city—places where citizens can find protection during extreme weather events. The city is leveraging <b>NDVI (Normalised Difference Vegetation Index) analysis</b> to quantify <b>green capital</b>, an essential metric in mitigating urban heat island effects. Additionally, the municipality is linking <b>geospatial data</b> with <b>social parameters</b> such as family numbers and fragile populations, adopting a holistic approach to socio-environmental equity.",
+  "nst_label_no1_accordion_label_7": "Using the BDTI platform, <b>Naples is integrating datasets from multiple sources</b> to address critical urban planning gaps. Public space distribution, green index values, and heat exposure assessments are being harmonized using <b>cutting-edge tools</b> for geospatial data, for <b>centralized storage</b>, and for <b>visualization</b>. Other tools of the platform are also being employed for <b>efficient data processing and workflow automation</b>. ",
+
+  "nst_label_no2_accordion_title": "Guidelines for using data visualization dashboard",
+  "nst_label_no2_accordion_label_1": "These efforts culminated in the development of advanced data visualization dashboards using Apache Superset tool, enabling policymakers to <b>identify underutilized public spaces, assess socio-environmental vulnerabilities, and profile strategies for risk mitigation</b>. Preliminary insights are emerging, including identifying potential relief hubs and mapping areas requiring targeted interventions based on socio-environmental metrics. The page below shows all the data visualizations produced. To better navigate each individual analysis, you can <b>click on the 3 dots positioned at the top right</b> next to each individual chart and select the <b>Enter full screen</b> option. In addition, each chat provides a complete description of the analysis shown, viewable by selecting the <b>Show chart description</b> option. It is also possible to obtain a download of the chart data by selecting the <b>Download</b> option in CSV and Excel tabular format or as an image. As Naples progresses, it aims to document its journey comprehensively, providing a showcase for other public entities to adopt similar approaches. By embracing data as a tool for public good, <b>Naples is taking meaningful steps toward a more sustainable and resilient future</b>. For further details on the work carried out for the municipality of Naples, consult the",
+  "nst_label_no2_accordion_label_2": "published by the <b>Directorate-General for Digital Services (data.europa.eu)</b>."
+  
 }
