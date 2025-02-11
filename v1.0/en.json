@@ -12,7 +12,7 @@
   "edit": "Edit",
   "confirm": "Confirm",
 
-  "addToPrivateDataSpace": "Add files to your data space",
+  "addToPrivateDataSpace": "Add files to your data collaboration folder",
   "addToPrivateDataSpaceLabel1": "Browse your data from your personal folder in the MinIO bucket and select a file to preview it.",
   "addToPrivateDataSpaceLabel2": "The entire list of your files belonging to your personal folder is shown below.",
   "canSelectFileTypeListLabel": "You can select a text file, an image, a JSON file, a PDF file, a Zip file of a Shapefile (SHP) or a GeoJSON file. If the uploaded file is a Zip file but not a Shapefile, it will not be possible to preview it.",
@@ -23,7 +23,7 @@
   "fileSize": "File Size",
   "fileContent": "File Content",
   "addToBucket": "Upload file",
-  "privateDataSpace": "Personal Data Space",
+  "privateDataSpace": "Personal Data Collaboration",
   "privateDataSpaceLabel1": "Browse your data from your personal bucket and select a file to see a preview",
   "privateDataSpaceLabel2": "This is the list of items in your personal bucket",
   "objectName": "File Name",
@@ -36,12 +36,12 @@
   "privateBucket": "Personal Files",
   "pilotDataFolder": "Pilot Files",
   "publicDataFolder": "Public Files",
-  "pilotDataSpace": "Pilot Data Space",
+  "pilotDataSpace": "Pilot Data Collaboration",
   "pilotDataSpaceLabel1": "Browse files from the data folder shared by the Pilot and select a file to preview it.",
   "pilotDataSpaceLabel2": "The entire list of elements belonging to the MinIO folder shared by all users of your Pilot is shown below.",
   "addToGeneralSharedDataFolder": "Add to public files",
   "downloadFromPilotDataFolder": "Download",
-  "publicDataSpace": "Public Data Space",
+  "publicDataSpace": "Public Data Collaboration",
   "publicDataSpaceLabel1": "Browse the data from the Public shared data folder and select a file to see a preview",
   "publicDataSpaceLabel2": "This is the list of items in the Public bucket",
   "downloadFromPublicDataFolder": "Download",
@@ -282,7 +282,7 @@
   "nst_label_subtitle": "Naples takes bold steps to improve urban planning and climate adaptation by leveraging big data analytics.",
   
   "nts_tab_no1_title": "BDTI framework for Napoli public space",
-  
+
   "nst_label_no1_accordion_title": "BDTI Digital service on Naples Municipality in a nutshell",
   "nst_label_no1_accordion_label_1": "The Municipality of Naples (Comune di Napoli), Italy's third-largest metropolitan area, is a city faced with complex urban challenges, ranging from socio-economic disparities and climate change to overtourism and gaps in public services. Recognising the need to improve urban resilience, Naples sought to integrate data-driven strategies into its urban planning and mobility frameworks. Through a collaborative effort involving local expertise and European partnerships, the city has embarked on a data-centric journey, utilising the",
   "nst_label_no1_accordion_label_2": "to create actionable insights for urban and environmental improvements.",
