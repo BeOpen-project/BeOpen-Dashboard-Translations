@@ -299,6 +299,23 @@
 
   "nst_label_no2_accordion_title": "Directives pour l'utilisation du tableau de bord de visualisation des données",
   "nst_label_no2_accordion_label_1": "Ces efforts ont abouti à la création de tableaux de bord avancés de visualisation des données grâce à l'outil Apache Superset, permettant aux décideurs d’<b>identifier les espaces publics sous-utilisés, d'évaluer les vulnérabilités socio-environnementales et d'élaborer des stratégies d'atténuation des risques</b>. Les premières analyses révèlent l'existence de centres de secours potentiels et cartographient les zones nécessitant des interventions ciblées sur la base de métriques socio-environnementales. La page ci-dessous présente toutes les visualisations de données produites.<br> Pour mieux naviguer à travers chaque analyse individuelle, vous pouvez <b>cliquer sur les 3 points situés en haut à droite</b> de chaque graphique et sélectionner l’option <b>Entrer en plein écran</b>. De plus, chaque graphique fournit une description complète de l’analyse affichée, consultable en sélectionnant l’option <b>Afficher la description du graphique</b>. Il est également possible de télécharger les données du graphique en sélectionnant l’option <b>Télécharger</b> au format CSV et Excel tabulaire ou sous forme d’image.<br> Alors que Naples progresse, elle documente son parcours de manière exhaustive, offrant une vitrine pour d'autres entités publiques souhaitant adopter des approches similaires. En utilisant les données comme un outil pour le bien public, <b>Naples franchit des étapes significatives vers un avenir plus durable et résilient</b>. Pour plus de détails sur les travaux réalisés pour la municipalité de Naples, consultez le",
-  "nst_label_no2_accordion_label_2": "publié par la <b>Direction générale des services numériques (data.europa.eu)</b>."
+  
+  "nst_label_no2_accordion_label_2": "publié par la <b>Direction générale des services numériques (data.europa.eu)</b>.",
+
+  "nts_tab_no2_title": "Cartographie de la mobilité",
+    
+  "nst_label_no3_accordion_title": "Infrastructure de mobilité durable et surveillance de l’espace public",
+  "nst_label_no3_accordion_label_1": "La carte web suivante montre les ensembles de données créés pour surveiller les indicateurs de mobilité durable.",
+  
+  "nst_label_no3_accordion_label_2": "Le partage d’informations sur la mobilité et la surveillance continue des stratégies de mise en œuvre de la mobilité durable nécessitent des outils spécifiques.<br> Des techniques avancées de partage d’informations, utilisant une <b>infrastructure de données spatiales</b>, complètent les canaux d’information des sites officiels, à l’usage des agents municipaux impliqués dans la gestion de la ville et des citoyens, via des outils de visualisation web.",
+  
+  "nst_label_no3_accordion_label_3": "Les indicateurs proviennent du <b>Plan d’action pour la mobilité durable PUMS</b> adopté en 2021. Une mise à jour est prévue en 2025. La plupart des ensembles de données ont été intégrés à partir de multiples sources, standardisés et harmonisés pour la première fois dans cette activité pilote.<br> Grâce au projet européen BeOpen, la municipalité contribue avec des ensembles de données HVD au partage des données ouvertes dans le domaine de la mobilité.",
+  
+  "nst_label_no3_accordion_label_4": "L’<b>analyse SIG</b> et l’intégration avec le logiciel open-source QGIS, la cartographie des modèles de données, la gestion des licences et l’hébergement des données ont soutenu le processus de partage des données ouvertes dans le domaine de la mobilité.<br> Des logiciels open-source et des ensembles de données provenant de l’infrastructure de données spatiales de la municipalité ou spécifiquement préparés sont utilisés.",
+  
+  "nst_label_no4_accordion_label_1": "La <b>zone de détails</b> (en haut à gauche du visualiseur de cartes) affiche une légende pour la carte. Le <b>contenu</b> répertorie les ensembles de données qui peuvent être activés ou désactivés, visualisés avec un nouveau style ou en mode transparence.<br> L’utilisateur peut évaluer les informations contenues dans l’ensemble de données en ouvrant sa table d’attributs. Un <b>filtre</b> peut ensuite être appliqué pour sélectionner un contenu spécifique à partir du tableau.",
+  
+  "nst_label_no4_accordion_label_2": "Le contenu associé aux données cartographiques en un seul endroit peut être exploré en <b>cliquant sur la carte</b>.<br> <b>Une carte web personnalisée</b> peut être créée en ajoutant des données provenant d’autres sources.<br> La carte peut être <b>imprimée</b> ou <b>partagée</b> à l’aide des outils accessibles dans la barre supérieure, qui génèrent un lien pouvant être copié et partagé.<br> L’utilisateur peut <b>rechercher des lieux</b> ou des <b>points d’intérêt (POIs)</b> dans la partie supérieure droite du visualiseur de cartes."
+
 
 }

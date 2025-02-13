@@ -299,6 +299,21 @@
 
   "nst_label_no2_accordion_title": "Richtlinien zur Nutzung des Data-Visualization-Dashboards",
   "nst_label_no2_accordion_label_1": "Diese Bemühungen mündeten in der Entwicklung fortschrittlicher Datenvisualisierungs-Dashboards mit dem Apache-Superset-Tool, das Entscheidungsträgern ermöglicht, <b>ungenutzte öffentliche Räume zu identifizieren, sozioökologische Verwundbarkeiten zu bewerten und Strategien zur Risikominderung zu erstellen</b>. Erste Erkenntnisse zeigen potenzielle Schutzpunkte auf und kartieren Gebiete, die gezielte Maßnahmen basierend auf sozioökologischen Metriken benötigen. Die untenstehende Seite zeigt alle erstellten Datenvisualisierungen.<br> Zur besseren Navigation jeder einzelnen Analyse kann man auf die <b>3 Punkte oben rechts</b> neben jedem Diagramm klicken und die Option <b>Vollbildmodus</b> auswählen. Zudem bietet jedes Diagramm eine vollständige Beschreibung der gezeigten Analyse, die durch Auswahl der Option <b>Diagrammbeschreibung anzeigen</b> sichtbar wird. Es ist ebenfalls möglich, die Diagrammdaten im CSV- oder Excel-Tabellenformat oder als Bild herunterzuladen, indem die Option <b>Download</b> ausgewählt wird. <br>Während Neapel weiter voranschreitet, dokumentiert es seinen Fortschritt umfassend, um anderen öffentlichen Einrichtungen eine Orientierungshilfe zu bieten. Indem die Stadt Daten als Werkzeug für das Gemeinwohl nutzt, <b>geht Neapel bedeutende Schritte in Richtung einer nachhaltigeren und widerstandsfähigeren Zukunft</b>. Für weitere Informationen zu den Arbeiten für die Stadt Neapel konsultieren Sie die",
-  "nst_label_no2_accordion_label_2": "veröffentlicht von der <b>Generaldirektion für digitale Dienste (data.europa.eu)</b>."
+  "nst_label_no2_accordion_label_2": "veröffentlicht von der <b>Generaldirektion für digitale Dienste (data.europa.eu)</b>.",
+
+  "nts_tab_no2_title": "Mobilitätskartierung",
+
+  "nst_label_no3_accordion_title": "Nachhaltige Mobilitätsinfrastruktur und Überwachung öffentlicher Räume",
+  "nst_label_no3_accordion_label_1": "Die folgende Webkarte zeigt die erstellten Datensätze zur Überwachung nachhaltiger Mobilitätsindikatoren.",
+
+  "nst_label_no3_accordion_label_2": "Der Austausch von Mobilitätsinformationen und die kontinuierliche Überwachung nachhaltiger Mobilitätsstrategien erfordern spezifische Werkzeuge.<br> Erweiterte Techniken zur Informationsverbreitung, unter Verwendung einer <b>räumlichen Dateninfrastruktur</b>, ergänzen die üblichen offiziellen Webseitenkanäle, sowohl für die Stadtverwaltung als auch für Bürger über Web-Visualisierungstools.",
+
+  "nst_label_no3_accordion_label_3": "Indikatoren stammen aus dem <b>PUMS-Nachhaltige-Mobilitäts-Aktionsplan</b>, der 2021 verabschiedet wurde. Die Aktualisierung ist für 2025 geplant. Die meisten Datensätze wurden aus mehreren Quellen integriert, standardisiert und erstmals in dieser Pilotaktivität harmonisiert.<br> Dank des EU-BeOpen-Projekts trägt die Gemeinde mit HVD-Datensätzen zur offenen Datenfreigabe im Mobilitätsbereich bei.",
+
+  "nst_label_no3_accordion_label_4": "<b>GIS-Analyse</b> und die Integration mit der Open-Source-Software QGIS, Datenmodell-Mapping, Lizenzierung und Datenhosting haben den Weg zur offenen Datenfreigabe im Mobilitätsbereich unterstützt.<br> Open-Source-Software und Datensätze stammen aus der räumlichen Dateninfrastruktur der Gemeinde oder wurden speziell vorbereitet.",
+
+  "nst_label_no4_accordion_label_1": "Der <b>Detailbereich</b> (oben links im Kartenbetrachter) zeigt eine Legende für die Karte. Der <b>Inhalt</b> listet die Datensätze auf, die ein- oder ausgeschaltet, mit einem neuen Stil visualisiert oder in Transparenzmodus angezeigt werden können.<br> Der Benutzer kann die im Datensatz enthaltenen Informationen bewerten, indem er die Attributtabelle öffnet. Ein <b>Filter</b> kann dann angewendet werden, um spezifische Inhalte aus der Tabelle auszuwählen.",
+
+  "nst_label_no4_accordion_label_2": "Die mit den Kartendaten verknüpften Inhalte an einem bestimmten Ort können durch <b>Klicken auf die Karte</b> erkundet werden.<br> <b>Eine persönliche Webkarte</b> kann durch Hinzufügen von Daten aus anderen Quellen erstellt werden.<br> Die Karte kann <b>gedruckt</b> oder <b>geteilt</b> werden, mit den Werkzeugen in der oberen Leiste, die einen kopierbaren und teilbaren Link generieren.<br> Der Benutzer kann <b>Orte</b> oder <b>Sehenswürdigkeiten (POIs)</b> im oberen rechten Bereich des Kartenbetrachters suchen."
   
 }

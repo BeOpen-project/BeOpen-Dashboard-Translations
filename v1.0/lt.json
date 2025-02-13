@@ -298,6 +298,22 @@
 
   "nst_label_no2_accordion_title": "Duomenų vizualizacijos prietaisų skydelio naudojimo gairės",
   "nst_label_no2_accordion_label_1": "Šios pastangos lėmė pažangių duomenų vizualizacijos prietaisų skydelių kūrimą naudojant Apache Superset įrankį, kuris leidžia politikos formuotojams <b>identifikuoti neišnaudotas viešąsias erdves, vertinti socialines ir aplinkosaugines pažeidžiamumo sritis bei kurti rizikos mažinimo strategijas</b>. Atsiranda pradinės įžvalgos, įskaitant potencialių atokvėpio taškų nustatymą ir žemėlapių sudarymą vietovėms, kurioms reikalingos tikslingos intervencijos, remiantis socialiniais ir aplinkosaugos rodikliais.<br> Žemiau esantis puslapis rodo visas sukurtas duomenų vizualizacijas. Norėdami geriau naršyti kiekvieną analizę, galite <b>spustelėti 3 taškus viršutiniame dešiniajame kampe</b> šalia kiekvienos diagramos ir pasirinkti <b>Įjungti viso ekrano režimą</b>. Be to, kiekviena diagrama pateikia išsamų aprašymą, kurį galima peržiūrėti pasirinkus <b>Rodyti diagramos aprašymą</b>. Taip pat galima atsisiųsti diagramos duomenis pasirinkus <b>Atsisiųsti</b> CSV, Excel arba paveikslėlio formatu. <br>Tobulėjant projektui, Neapolis siekia išsamiai dokumentuoti savo patirtį, suteikdamas pavyzdį kitiems viešiesiems subjektams, norintiems taikyti panašius metodus. Pasitelkdamas duomenis kaip viešosios gerovės įrankį, <b>Neapolis žengia svarbius žingsnius link tvaresnės ir atsparesnės ateities</b>. Daugiau informacijos apie Neapolio savivaldybėje atliktus darbus rasite",
-  "nst_label_no2_accordion_label_2": "paskelbtuose <b>Europos duomenų portale (data.europa.eu)</b>."
+  "nst_label_no2_accordion_label_2": "paskelbtuose <b>Europos duomenų portale (data.europa.eu)</b>.",
+
+  "nts_tab_no2_title": "Mobilumo žemėlapis",
+    
+  "nst_label_no3_accordion_title": "Tvarios mobilumo infrastruktūros ir viešųjų erdvių stebėjimas",
+  "nst_label_no3_accordion_label_1": "Toliau pateiktas internetinis žemėlapis rodo duomenų rinkinius, sukurtus tvaraus mobilumo rodiklių stebėjimui.",
+  
+  "nst_label_no3_accordion_label_2": "Mobilumo informacijos dalijimasis ir nuolatinis tvaraus mobilumo įgyvendinimo strategijų stebėjimas reikalauja specialių įrankių.<br> Prie tradicinių oficialių svetainių informacijos kanalų pridedamos pažangios informacijos dalijimosi technologijos, naudojant <b>erdvinių duomenų infrastruktūrą (Spatial data infrastructure)</b>, skirtą tiek miesto valdymu užsiimantiems darbuotojams, tiek piliečiams, per internetinius vizualizavimo įrankius.",
+  
+  "nst_label_no3_accordion_label_3": "Rodikliai gaunami iš <b>2021 m. patvirtinto Tvaraus mobilumo veiksmų plano (PUMS)</b>. Atnaujinimas numatytas 2025 m. Daugelis duomenų rinkinių buvo integruoti iš įvairių šaltinių, standartizuoti ir suderinti pirmą kartą per šią bandomąją veiklą.<br> Dėka ES projekto BeOpen, savivaldybė prisideda prie atvirų duomenų dalijimosi su HVD duomenų rinkiniais mobilumo srityje.",
+  
+  "nst_label_no3_accordion_label_4": "<b>GIS analizė</b> ir integracija su atvirojo kodo QGIS programine įranga, duomenų modelių žemėlapiai, licencijavimas ir duomenų talpinimas prisidėjo prie atvirų duomenų dalijimosi mobilumo srityje.<br> Naudojama atvirojo kodo programinė įranga ir duomenų rinkiniai, gauti iš miesto erdvinių duomenų infrastruktūros arba specialiai paruošti.",
+  
+  "nst_label_no4_accordion_label_1": "<b>Detalės zona</b> (viršutiniame kairiajame žemėlapio peržiūros kampe) pateikia žemėlapio legendą. <b>Turinio</b> skyrius rodo duomenų rinkinius, kuriuos galima įjungti arba išjungti, peržiūrėti taikant naują stilių arba skaidrumo režimu.<br> Naudotojas gali įvertinti duomenų rinkinyje esančią informaciją, atidarydamas atributų lentelę. Galima pritaikyti <b>filtrą</b>, pasirenkant konkrečius duomenis iš lentelės.",
+  
+  "nst_label_no4_accordion_label_2": "Turinį, susijusį su žemėlapio duomenimis, galima tyrinėti <b>spustelėjus žemėlapį</b>.<br> Galima sukurti <b>asmeninį internetinį žemėlapį</b>, pridedant duomenis iš kitų šaltinių.<br> Žemėlapį galima <b>atspausdinti</b> arba <b>pasidalyti</b> naudojant įrankius viršutinėje juostoje, kurie sugeneruoja nuorodą, kurią galima kopijuoti ir dalytis.<br> Naudotojas gali <b>ieškoti vietų</b> arba <b>dominčių vietų (POI)</b> viršutiniame dešiniajame žemėlapio peržiūros kampe."
+
 
 }

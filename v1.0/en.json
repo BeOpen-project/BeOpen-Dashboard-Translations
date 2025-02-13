@@ -300,6 +300,20 @@
 
   "nst_label_no2_accordion_title": "Guidelines for using data visualization dashboard",
   "nst_label_no2_accordion_label_1": "These efforts culminated in the development of advanced data visualization dashboards using Apache Superset tool, enabling policymakers to <b>identify underutilized public spaces, assess socio-environmental vulnerabilities, and profile strategies for risk mitigation</b>. Preliminary insights are emerging, including identifying potential relief hubs and mapping areas requiring targeted interventions based on socio-environmental metrics. The page below shows all the data visualizations produced. <br> To better navigate each individual analysis, you can <b>click on the 3 dots positioned at the top right</b> next to each individual chart and select the <b>Enter full screen</b> option. In addition, each chat provides a complete description of the analysis shown, viewable by selecting the <b>Show chart description</b> option. It is also possible to obtain a download of the chart data by selecting the <b>Download</b> option in CSV and Excel tabular format or as an image. <br>As Naples progresses, it aims to document its journey comprehensively, providing a showcase for other public entities to adopt similar approaches. By embracing data as a tool for public good, <b>Naples is taking meaningful steps toward a more sustainable and resilient future</b>. For further details on the work carried out for the municipality of Naples, consult the",
-  "nst_label_no2_accordion_label_2": "published by the <b>Directorate-General for Digital Services (data.europa.eu)</b>."
+  "nst_label_no2_accordion_label_2": "published by the <b>Directorate-General for Digital Services (data.europa.eu)</b>.",
   
+  "nts_tab_no2_title": "Mobility Mapping",
+
+  "nst_label_no3_accordion_title": "Sustainable mobility infrastructure and public space monitoring",
+  "nst_label_no3_accordion_label_1": "The following web map shows the datasets built to monitor sustainable mobility indicators.",
+  
+  "nst_label_no3_accordion_label_2": "Mobility information sharing and constant monitoring of sustainable mobility implementation strategies need specific tools.<br> Advanced information sharing techniques, with the use of a <b>Spatial data infrastructure</b> are added to usual official website information canals, for the use of civil servants involved in the city management and citizens, via web visualization tools.",
+  
+  "nst_label_no3_accordion_label_3": "Indicators come from the <b>PUMS sustainable Mobility action plan</b> adopted in 2021. Updating is on the way in 2025. Most of the datasets have been integrated from multiple sources, standardized and harmonized for the first time in this pilot activity. <br>Thanks to EU BeOpen project, the Municipality contributes with HVD datasets to Open data sharing in the field of Mobility.",
+
+  "nst_label_no3_accordion_label_4": "<b>GIs analysis</b> and integration with open-source QGIS software, Data model mapping, licensing and data hosting have supported the path towards Open data sharing in the field of Mobility. <br>Open-source software and dataset coming from the Municipality spatial data infrastructure or specifically prepared. ",
+
+  "nst_label_no4_accordion_label_1": "The <b>Details area</b> (upper left of the Map viewer) reports a Legend for the Map. The <b>Content</b> lists the datasets that can be turned on or off, visualized applying a new style or in transparency mode.<br> The user can evaluate the information contained in the dataset, opening its attribute table.  A <b>Filter</b> can then be applied, selecting specific content from the table.",
+  "nst_label_no4_accordion_label_2": "The content associated to the map data in a single location can be explored by <b>clicking on the map</b>. <br> <b>A personal web map</b> can be composed adding data from other sources. <br>The map can be <b>printed</b> or <b>shared</b> with the tools accessible in the upper bar, as the system compiles a link that can be copied and shared. <br> The user can <b>search for places</b> or <b>points of interest (POIs)</b> in the upper right part of the Map viewer."
+
 }

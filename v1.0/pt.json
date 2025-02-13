@@ -298,6 +298,22 @@
 
   "nst_label_no2_accordion_title": "Diretrizes para o uso do painel de visualização de dados",
   "nst_label_no2_accordion_label_1": "Esses esforços resultaram no desenvolvimento de painéis avançados de visualização de dados utilizando a ferramenta Apache Superset, permitindo que formuladores de políticas <b>identifiquem espaços públicos subutilizados, avaliem vulnerabilidades socioambientais e elaborem estratégias para mitigação de riscos</b>. Já estão surgindo insights preliminares, incluindo a identificação de potenciais centros de alívio e o mapeamento de áreas que requerem intervenções direcionadas com base em métricas socioambientais.<br> A página abaixo exibe todas as visualizações de dados geradas. Para navegar melhor em cada análise individual, você pode <b>clicar nos três pontos no canto superior direito</b> ao lado de cada gráfico e selecionar a opção <b>Entrar no modo tela cheia</b>. Além disso, cada gráfico fornece uma descrição completa da análise exibida, que pode ser visualizada selecionando a opção <b>Exibir descrição do gráfico</b>. Também é possível fazer o download dos dados do gráfico selecionando a opção <b>Baixar</b> no formato tabular CSV, Excel ou como imagem.<br> À medida que Nápoles avança, a cidade pretende documentar sua jornada de forma abrangente, servindo como exemplo para outras entidades públicas adotarem abordagens semelhantes. Ao adotar os dados como uma ferramenta para o bem público, <b>Nápoles está dando passos significativos em direção a um futuro mais sustentável e resiliente</b>. Para mais detalhes sobre o trabalho realizado no município de Nápoles, consulte o",
-  "nst_label_no2_accordion_label_2": "publicado pela <b>Direção-Geral de Serviços Digitais (data.europa.eu)</b>."
+  "nst_label_no2_accordion_label_2": "publicado pela <b>Direção-Geral de Serviços Digitais (data.europa.eu)</b>.",
+
+  "nts_tab_no2_title": "Mapeamento da Mobilidade",
+    
+  "nst_label_no3_accordion_title": "Infraestrutura de mobilidade sustentável e monitoramento de espaços públicos",
+  "nst_label_no3_accordion_label_1": "O mapa web abaixo mostra os conjuntos de dados criados para monitorar indicadores de mobilidade sustentável.",
+  
+  "nst_label_no3_accordion_label_2": "O compartilhamento de informações de mobilidade e o monitoramento contínuo das estratégias de implementação de mobilidade sustentável exigem ferramentas específicas.<br> Técnicas avançadas de compartilhamento de informações, com o uso de uma <b>infraestrutura de dados espaciais (Spatial data infrastructure)</b>, complementam os canais informativos tradicionais dos sites oficiais, disponibilizando dados tanto para os gestores municipais quanto para os cidadãos, através de ferramentas de visualização web.",
+  
+  "nst_label_no3_accordion_label_3": "Os indicadores provêm do <b>Plano de Ação para Mobilidade Sustentável (PUMS)</b>, adotado em 2021. Uma atualização está prevista para 2025. A maioria dos conjuntos de dados foi integrada a partir de várias fontes, padronizada e harmonizada pela primeira vez nesta atividade piloto.<br> Graças ao projeto europeu BeOpen, o município contribui com conjuntos de dados HVD para o compartilhamento de dados abertos na área da mobilidade.",
+  
+  "nst_label_no3_accordion_label_4": "A <b>análise GIS</b> e a integração com o software de código aberto QGIS, o mapeamento de modelos de dados, o licenciamento e o armazenamento de dados apoiaram a transição para o compartilhamento de dados abertos no campo da mobilidade.<br> São utilizados software de código aberto e conjuntos de dados provenientes da infraestrutura de dados espaciais do município ou especialmente preparados.",
+  
+  "nst_label_no4_accordion_label_1": "A <b>área de detalhes</b> (canto superior esquerdo do visualizador de mapas) exibe a legenda do mapa. A seção <b>conteúdo</b> lista os conjuntos de dados que podem ser ativados ou desativados, visualizados com um novo estilo ou em modo de transparência.<br> O usuário pode avaliar as informações contidas no conjunto de dados abrindo sua tabela de atributos. Em seguida, pode ser aplicado um <b>filtro</b>, selecionando conteúdos específicos da tabela.",
+  
+  "nst_label_no4_accordion_label_2": "O conteúdo associado aos dados do mapa em uma localização única pode ser explorado ao <b>clicar no mapa</b>.<br> É possível compor um <b>mapa web pessoal</b> adicionando dados de outras fontes.<br> O mapa pode ser <b>impresso</b> ou <b>compartilhado</b> com as ferramentas acessíveis na barra superior, que geram um link copiável e compartilhável.<br> O usuário pode <b>pesquisar locais</b> ou <b>pontos de interesse (POIs)</b> no canto superior direito do visualizador de mapas."
+
 
 }
