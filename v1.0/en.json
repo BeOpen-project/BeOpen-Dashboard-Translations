@@ -272,7 +272,9 @@
 
   "evm_title": "Attica Wildfire Monitoring & Detection Map",
   "evm_description_1": "Wildfires in the Attica region are becoming more frequent and intense due to climate change, prolonged droughts, and rising temperatures. Their increasing proximity to urban areas threatens human lives, infrastructure, and biodiversity, leading to severe environmental and economic consequences. <br>Traditional fire detection methods, such as satellite and ground-based sensors, may be delayed or unavailable in remote areas. Social media posts can serve as an early alert system, providing insights into fire incidents. <br>This interactive tool demonstrates how social media can complement EO data for near real-time wildfire detection and early warning, and provide insights to improve wildfire response and management strategies in Attica.",
-  "evm_description_2": "&bull; This map displays clusters of <b>geolocated fire-related social media posts</b> (from the X-platform) as location-based pins. These clusters, collected between 2019 and 2021, within a 10 km radius over a 24-hour period, have been correlated with Sentinel-5 NO₂ air quality data to exclude falsely geolocated posts. <br>&bull; Burned area visualizations illustrate wildfires larger than 40 hectares, helping assess <b>fire spread and severity</b> in the Attica region between 2019 and 2021",
+  "evm_description_2": "This map displays clusters of <b>geolocated fire-related social media posts</b> (from the X-platform) as location-based pins. These clusters, collected between 2019 and 2021, within a 10 km radius over a 24-hour period, have been correlated with Sentinel-5 NO₂ air quality data to exclude falsely geolocated posts.",
+  "evm_description_3": "Burned area visualizations illustrate wildfires larger than 40 hectares, helping assess <b>fire spread and severity</b> in the Attica region between 2019 and 2021",
+  
   "evm_label_sources": "All Sources",
   "evm_label_platform_x": "Social Network X",
   "evm_label_satellite": "Copernicus Satellite Images",

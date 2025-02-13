@@ -268,9 +268,11 @@
 
   "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Reikšmė gali būti loginė, HTTP atsakymų kodų sąrašas su santykiniu pasikartojimo procentu arba teisingų metrikų procentas",
 
-  "evm_title": "Atikos pilotas: Natūralių katastrofų skydas piliečiams ir aplinkai",
-  "evm_description_1": "Atikos regionas susiduria su dideliu iššūkiu gerinant miškų gaisrų valdymą, aptikimą ir reagavimo mechanizmus dėl didėjančio šių gaisrų dažnio, intensyvumo ir poveikio. Klimato kaita dar labiau apsunkina šią problemą, sudarydama palankias sąlygas gaisrų užsidegimui ir plitimui. Gaisrų artumas miesto teritorijoms kelia pavojų žmonių gyvybei ir infrastruktūrai, o ekosistemų ir turto sunaikinimas sukelia didelę aplinkos ir ekonominę žalą. Šie veiksniai pabrėžia skubų poreikį geresniam gaisrų aptikimui ir išteklių paskirstymui.",
-  "evm_description_2": "Atikos skaitmeninė paslauga siekia spręsti šiuos iššūkius taikydama veiksmingesnį <b>miškų gaisrų aptikimą<b>, reagavimą ir valdymą. Paslauga identifikuoja <b>miškų gaisrų įvykius<b> naudodama <b>geolokalizuotus socialinių tinklų įrašus<b> ir <b>palydovinius duomenis<b>, kad aptiktų neįprastus modelius. Šie modeliai apima gaisrų veiklos sankaupas, pvz., intensyvų įrašų srautą, kuriuose minimas dūmas, ugnis ar ekstremalūs įvykiai, taip pat anomalijas aplinkos parametruose, pvz., padidėjusį NO₂ lygį dėl biomasės degimo. Aptikus šiuos rodiklius, paslauga <b>suteikia avarinėms tarnyboms galimybę efektyviau reaguoti į gaisrus<b> ir palaiko gamtinių katastrofų valdymą. Skaitmeninė paslauga suteiks naudingos informacijos gelbėtojams, pagerindama situacijos suvokimą ir veiklos efektyvumą.",
+  "evm_title": "Atikos Miško Gaisrų Stebėjimo ir Aptikimo Žemėlapis",
+  "evm_description_1": "Miško gaisrai Atikos regione tampa dažnesni ir intensyvesni dėl klimato kaitos, užsitęsusių sausrų ir kylančių temperatūrų. Jų didėjantis artumas miesto teritorijoms kelia grėsmę žmonių gyvybėms, infrastruktūrai ir biologinei įvairovei, sukeldami rimtų aplinkosauginių ir ekonominių pasekmių. <br>Tradiciniai gaisrų aptikimo metodai, tokie kaip palydoviniai ir antžeminiai jutikliai, atokiose vietovėse gali vėluoti arba būti neprieinami. Socialinių tinklų įrašai gali tarnauti kaip ankstyvojo perspėjimo sistema, teikdami informaciją apie gaisrų incidentus. <br>Šis interaktyvus įrankis parodo, kaip socialiniai tinklai gali papildyti EO duomenis beveik realiu laiku aptinkant ir anksti įspėjant apie miško gaisrus, bei teikti įžvalgas, kaip pagerinti gaisrų reagavimo ir valdymo strategijas Atikoje.",
+  "evm_description_2": "Šis žemėlapis rodo <b>geolokacinių su gaisrais susijusių socialinių tinklų įrašų</b> (iš X platformos) telkinius kaip vietovėmis pagrįstas žymeles. Šie telkiniai, surinkti tarp 2019 ir 2021 metų, 10 km spinduliu per 24 valandų laikotarpį, buvo susieti su Sentinel-5 NO₂ oro kokybės duomenimis, siekiant atmesti klaidingai geolokuotus įrašus.",
+  "evm_description_3": "Išdegusių plotų vizualizacijos iliustruoja didesnius nei 40 hektarų miško gaisrus, padedant įvertinti <b>gaisrų plitimą ir rimtumą</b> Atikos regione tarp 2019 ir 2021 metų",
+
   "evm_label_sources": "Visi šaltiniai",
   "evm_label_platform_x": "Socialinis tinklas X",
   "evm_label_satellite": "Copernicus palydovinės nuotraukos",
@@ -280,7 +282,7 @@
   "nst_label_subtitle": "Neapolis imasi drąsių žingsnių siekdamas patobulinti miestų planavimą ir prisitaikymą prie klimato kaitos, pasitelkdamas didžiųjų duomenų analizę",
 
   "nts_tab_no1_title": "BDTI sistema Neapolio viešajai erdvei",
-  
+
   "nst_label_no1_accordion_title": "BDTI skaitmeninė paslauga Neapolio savivaldybei trumpai",
   "nst_label_no1_accordion_label_1": "Neapolio savivaldybė – trečia pagal dydį Italijos metropolinė zona – susiduria su sudėtingais miesto iššūkiais, pradedant socialinėmis ir ekonominėmis nelygybėmis bei klimato kaita, baigiant pertekliniu turizmu ir viešųjų paslaugų trūkumais. Suprasdama, kad būtina stiprinti miesto atsparumą, Neapolis siekė integruoti duomenimis pagrįstas strategijas į miestų planavimą ir judumo sistemas. Bendradarbiaudamas su vietos ekspertais ir Europos partneriais, miestas pradėjo duomenų analizės kelionę, naudodamas",
   "nst_label_no1_accordion_label_2": "siekiant gauti naudingų įžvalgų miesto ir aplinkosaugos tobulinimui.",
@@ -301,19 +303,17 @@
   "nst_label_no2_accordion_label_2": "paskelbtuose <b>Europos duomenų portale (data.europa.eu)</b>.",
 
   "nts_tab_no2_title": "Mobilumo žemėlapis",
-    
+
   "nst_label_no3_accordion_title": "Tvarios mobilumo infrastruktūros ir viešųjų erdvių stebėjimas",
   "nst_label_no3_accordion_label_1": "Toliau pateiktas internetinis žemėlapis rodo duomenų rinkinius, sukurtus tvaraus mobilumo rodiklių stebėjimui.",
-  
+
   "nst_label_no3_accordion_label_2": "Mobilumo informacijos dalijimasis ir nuolatinis tvaraus mobilumo įgyvendinimo strategijų stebėjimas reikalauja specialių įrankių.<br> Prie tradicinių oficialių svetainių informacijos kanalų pridedamos pažangios informacijos dalijimosi technologijos, naudojant <b>erdvinių duomenų infrastruktūrą (Spatial data infrastructure)</b>, skirtą tiek miesto valdymu užsiimantiems darbuotojams, tiek piliečiams, per internetinius vizualizavimo įrankius.",
-  
+
   "nst_label_no3_accordion_label_3": "Rodikliai gaunami iš <b>2021 m. patvirtinto Tvaraus mobilumo veiksmų plano (PUMS)</b>. Atnaujinimas numatytas 2025 m. Daugelis duomenų rinkinių buvo integruoti iš įvairių šaltinių, standartizuoti ir suderinti pirmą kartą per šią bandomąją veiklą.<br> Dėka ES projekto BeOpen, savivaldybė prisideda prie atvirų duomenų dalijimosi su HVD duomenų rinkiniais mobilumo srityje.",
-  
+
   "nst_label_no3_accordion_label_4": "<b>GIS analizė</b> ir integracija su atvirojo kodo QGIS programine įranga, duomenų modelių žemėlapiai, licencijavimas ir duomenų talpinimas prisidėjo prie atvirų duomenų dalijimosi mobilumo srityje.<br> Naudojama atvirojo kodo programinė įranga ir duomenų rinkiniai, gauti iš miesto erdvinių duomenų infrastruktūros arba specialiai paruošti.",
-  
+
   "nst_label_no4_accordion_label_1": "<b>Detalės zona</b> (viršutiniame kairiajame žemėlapio peržiūros kampe) pateikia žemėlapio legendą. <b>Turinio</b> skyrius rodo duomenų rinkinius, kuriuos galima įjungti arba išjungti, peržiūrėti taikant naują stilių arba skaidrumo režimu.<br> Naudotojas gali įvertinti duomenų rinkinyje esančią informaciją, atidarydamas atributų lentelę. Galima pritaikyti <b>filtrą</b>, pasirenkant konkrečius duomenis iš lentelės.",
-  
+
   "nst_label_no4_accordion_label_2": "Turinį, susijusį su žemėlapio duomenimis, galima tyrinėti <b>spustelėjus žemėlapį</b>.<br> Galima sukurti <b>asmeninį internetinį žemėlapį</b>, pridedant duomenis iš kitų šaltinių.<br> Žemėlapį galima <b>atspausdinti</b> arba <b>pasidalyti</b> naudojant įrankius viršutinėje juostoje, kurie sugeneruoja nuorodą, kurią galima kopijuoti ir dalytis.<br> Naudotojas gali <b>ieškoti vietų</b> arba <b>dominčių vietų (POI)</b> viršutiniame dešiniajame žemėlapio peržiūros kampe."
-
-
 }

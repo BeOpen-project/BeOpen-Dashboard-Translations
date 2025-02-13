@@ -269,9 +269,11 @@
 
   "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "El valor puede ser un booleano, una lista de códigos de respuesta HTTP con el porcentaje relativo de ocurrencia o el porcentaje de métricas correctas",
 
-  "evm_title": "Piloto Ática: Escudo contra desastres naturales para ciudadanos y medio ambiente",
-  "evm_description_1": "La región de Ática enfrenta un desafío crítico para mejorar la gestión, detección y mecanismos de respuesta ante incendios forestales debido al aumento en la frecuencia, gravedad e impacto de estos eventos. El cambio climático agrava este problema al crear condiciones favorables para la ignición y propagación del fuego. La proximidad de los incendios a áreas urbanas amenaza la vida humana y la infraestructura, mientras que la destrucción de ecosistemas y propiedades causa importantes daños ambientales y económicos. Estos factores subrayan la urgente necesidad de mejorar la detección y asignación de recursos.",
-  "evm_description_2": "El Servicio Digital de Ática tiene como objetivo abordar estos desafíos mediante una <b>detección<b>, respuesta y gestión de incendios forestales más eficaces. El servicio identifica <b>eventos de incendios forestales<b> utilizando <b>publicaciones geolocalizadas en redes sociales<b> y <b>datos satelitales<b> para detectar patrones inusuales. Estos patrones incluyen acumulaciones de actividad relacionada con incendios, como numerosas publicaciones mencionando humo, fuego o emergencias, así como anomalías en parámetros ambientales, como niveles elevados de NO₂ causados por la quema de biomasa. Al detectar estos indicadores, el servicio <b>permite que los equipos de emergencia respondan de manera más efectiva a los incendios<b> y respalda la gestión de desastres naturales. El Servicio Digital proporcionará información útil a los equipos de respuesta, mejorando la conciencia situacional y la eficiencia operativa.",
+  "evm_title": "Mapa de Monitoreo y Detección de Incendios Forestales de Ática",
+  "evm_description_1": "Los incendios forestales en la región de Ática son cada vez más frecuentes e intensos debido al cambio climático, las sequías prolongadas y el aumento de las temperaturas. Su creciente proximidad a las áreas urbanas amenaza vidas humanas, infraestructuras y biodiversidad, lo que conlleva graves consecuencias ambientales y económicas. <br>Los métodos tradicionales de detección de incendios, como los sensores satelitales y terrestres, pueden retrasarse o no estar disponibles en áreas remotas. Las publicaciones en redes sociales pueden servir como sistema de alerta temprana, proporcionando información sobre incidentes de incendios. <br>Esta herramienta interactiva demuestra cómo las redes sociales pueden complementar los datos de OE para la detección temprana y alerta de incendios forestales en tiempo casi real, y proporcionar información para mejorar las estrategias de respuesta y gestión de incendios forestales en Ática.",
+  "evm_description_2": "Este mapa muestra grupos de <b>publicaciones geolocalizadas relacionadas con incendios en redes sociales</b> (de la plataforma X) como pines basados en ubicación. Estos grupos, recopilados entre 2019 y 2021, dentro de un radio de 10 km durante un período de 24 horas, se han correlacionado con datos de calidad del aire NO₂ de Sentinel-5 para excluir publicaciones geolocalizadas falsamente.",
+  "evm_description_3": "Las visualizaciones de áreas quemadas ilustran incendios forestales mayores de 40 hectáreas, ayudando a evaluar la <b>propagación y severidad de los incendios</b> en la región de Ática entre 2019 y 2021",
+
   "evm_label_sources": "Todas las fuentes",
   "evm_label_platform_x": "Red Social X",
   "evm_label_satellite": "Imágenes satelitales Copernicus",
@@ -281,7 +283,7 @@
   "nst_label_subtitle": "Nápoles da pasos audaces para mejorar la planificación urbana y la adaptación climática aprovechando el análisis de big data",
 
   "nts_tab_no1_title": "Marco BDTI para el espacio público de Nápoles",
-  
+
   "nst_label_no1_accordion_title": "Servicio Digital BDTI en el Municipio de Nápoles en resumen",
   "nst_label_no1_accordion_label_1": "El Municipio de Nápoles (Comune di Napoli), la tercera área metropolitana más grande de Italia, enfrenta desafíos urbanos complejos que van desde desigualdades socioeconómicas y cambio climático hasta el turismo excesivo y deficiencias en los servicios públicos. Reconociendo la necesidad de fortalecer la resiliencia urbana, Nápoles buscó integrar estrategias basadas en datos en su planificación urbana y sistemas de movilidad. A través de un esfuerzo colaborativo que involucra experiencia local y asociaciones europeas, la ciudad ha emprendido un camino basado en datos, utilizando la",
   "nst_label_no1_accordion_label_2": "para generar conocimientos prácticos para mejoras urbanas y ambientales.",
@@ -302,18 +304,17 @@
   "nst_label_no2_accordion_label_2": "publicado por la <b>Dirección General de Servicios Digitales (data.europa.eu)</b>.",
 
   "nts_tab_no2_title": "Mapeo de la Movilidad",
-    
+
   "nst_label_no3_accordion_title": "Infraestructura de movilidad sostenible y monitoreo del espacio público",
   "nst_label_no3_accordion_label_1": "El siguiente mapa web muestra los conjuntos de datos creados para monitorear indicadores de movilidad sostenible.",
-  
-  "nst_label_no3_accordion_label_2": "El intercambio de información sobre movilidad y el monitoreo constante de las estrategias de implementación de movilidad sostenible requieren herramientas específicas.<br> Las técnicas avanzadas de intercambio de información, mediante el uso de una <b>infraestructura de datos espaciales (Spatial data infrastructure)</b>, complementan los canales informativos habituales de los sitios web oficiales, y están disponibles tanto para los gestores municipales como para los ciudadanos a través de herramientas de visualización web.",
-  
-  "nst_label_no3_accordion_label_3": "Los indicadores provienen del <b>Plan de Acción para la Movilidad Sostenible (PUMS)</b>, adoptado en 2021. Su actualización está prevista para 2025. La mayoría de los conjuntos de datos se ha integrado desde múltiples fuentes, estandarizado y armonizado por primera vez en esta actividad piloto.<br> Gracias al proyecto europeo BeOpen, el municipio contribuye al intercambio de datos abiertos en el ámbito de la movilidad mediante conjuntos de datos HVD.",
-  
-  "nst_label_no3_accordion_label_4": "El <b>análisis GIS</b> y la integración con el software de código abierto QGIS, la cartografía de modelos de datos, la gestión de licencias y el almacenamiento de datos han facilitado el camino hacia el intercambio de datos abiertos en el ámbito de la movilidad.<br> Se utilizan software de código abierto y conjuntos de datos obtenidos de la infraestructura de datos espaciales del municipio o preparados específicamente.",
-  
-  "nst_label_no4_accordion_label_1": "El <b>área de detalles</b> (en la parte superior izquierda del visor de mapas) muestra una leyenda del mapa. La sección de <b>contenido</b> enumera los conjuntos de datos que pueden activarse o desactivarse, visualizarse con un nuevo estilo o en modo de transparencia.<br> El usuario puede evaluar la información contenida en el conjunto de datos abriendo su tabla de atributos. A continuación, se puede aplicar un <b>filtro</b>, seleccionando contenido específico de la tabla.",
-  
-  "nst_label_no4_accordion_label_2": "El contenido asociado a los datos del mapa en una única ubicación se puede explorar haciendo <b>clic en el mapa</b>.<br> Se puede crear un <b>mapa web personal</b> agregando datos de otras fuentes.<br> El mapa se puede <b>imprimir</b> o <b>compartir</b> mediante las herramientas accesibles en la barra superior, que generan un enlace que se puede copiar y compartir.<br> El usuario puede <b>buscar lugares</b> o <b>puntos de interés (POIs)</b> en la parte superior derecha del visor de mapas."
 
+  "nst_label_no3_accordion_label_2": "El intercambio de información sobre movilidad y el monitoreo constante de las estrategias de implementación de movilidad sostenible requieren herramientas específicas.<br> Las técnicas avanzadas de intercambio de información, mediante el uso de una <b>infraestructura de datos espaciales (Spatial data infrastructure)</b>, complementan los canales informativos habituales de los sitios web oficiales, y están disponibles tanto para los gestores municipales como para los ciudadanos a través de herramientas de visualización web.",
+
+  "nst_label_no3_accordion_label_3": "Los indicadores provienen del <b>Plan de Acción para la Movilidad Sostenible (PUMS)</b>, adoptado en 2021. Su actualización está prevista para 2025. La mayoría de los conjuntos de datos se ha integrado desde múltiples fuentes, estandarizado y armonizado por primera vez en esta actividad piloto.<br> Gracias al proyecto europeo BeOpen, el municipio contribuye al intercambio de datos abiertos en el ámbito de la movilidad mediante conjuntos de datos HVD.",
+
+  "nst_label_no3_accordion_label_4": "El <b>análisis GIS</b> y la integración con el software de código abierto QGIS, la cartografía de modelos de datos, la gestión de licencias y el almacenamiento de datos han facilitado el camino hacia el intercambio de datos abiertos en el ámbito de la movilidad.<br> Se utilizan software de código abierto y conjuntos de datos obtenidos de la infraestructura de datos espaciales del municipio o preparados específicamente.",
+
+  "nst_label_no4_accordion_label_1": "El <b>área de detalles</b> (en la parte superior izquierda del visor de mapas) muestra una leyenda del mapa. La sección de <b>contenido</b> enumera los conjuntos de datos que pueden activarse o desactivarse, visualizarse con un nuevo estilo o en modo de transparencia.<br> El usuario puede evaluar la información contenida en el conjunto de datos abriendo su tabla de atributos. A continuación, se puede aplicar un <b>filtro</b>, seleccionando contenido específico de la tabla.",
+
+  "nst_label_no4_accordion_label_2": "El contenido asociado a los datos del mapa en una única ubicación se puede explorar haciendo <b>clic en el mapa</b>.<br> Se puede crear un <b>mapa web personal</b> agregando datos de otras fuentes.<br> El mapa se puede <b>imprimir</b> o <b>compartir</b> mediante las herramientas accesibles en la barra superior, que generan un enlace que se puede copiar y compartir.<br> El usuario puede <b>buscar lugares</b> o <b>puntos de interés (POIs)</b> en la parte superior derecha del visor de mapas."
 }

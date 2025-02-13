@@ -268,9 +268,11 @@
 
   "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "O valor pode ser um booleano, uma lista de códigos de resposta HTTP com a porcentagem relativa de ocorrência, ou a porcentagem de métricas corretas",
 
-  "evm_title": "Piloto Ática: Escudo contra desastres naturais para cidadãos e meio ambiente",
-  "evm_description_1": "A região da Ática enfrenta um desafio crítico para melhorar a gestão, a detecção e os mecanismos de resposta a incêndios florestais devido ao aumento da frequência, gravidade e impacto desses eventos. As mudanças climáticas agravam esse problema, criando condições favoráveis para a ignição e propagação do fogo. A proximidade dos incêndios a áreas urbanas ameaça vidas humanas e infraestruturas, enquanto a destruição de ecossistemas e propriedades causa danos ambientais e econômicos significativos. Esses fatores ressaltam a necessidade urgente de melhores estratégias de detecção e alocação de recursos.",
-  "evm_description_2": "O Serviço Digital Ática pretende enfrentar esses desafios por meio de uma <b>detecção<b>, resposta e gestão mais eficazes de incêndios florestais. O serviço identifica <b>eventos de incêndio florestal<b> usando <b>postagens geolocalizadas em redes sociais<b> e <b>dados de satélite<b> para detectar padrões incomuns. Esses padrões incluem aglomerações de atividades relacionadas a incêndios, como postagens frequentes mencionando fumaça, fogo ou incidentes de emergência, além de anomalias em parâmetros ambientais, como níveis elevados de NO₂ causados pela queima de biomassa. Ao detectar esses indicadores, o serviço <b>permite que as equipes de emergência respondam de forma mais eficaz aos incêndios<b> e apoia a gestão de desastres naturais. O Serviço Digital fornecerá informações acionáveis para os socorristas, melhorando a conscientização situacional e a eficiência operacional.",
+  "evm_title": "Mapa de Monitoramento e Detecção de Incêndios Florestais da Ática",
+  "evm_description_1": "Os incêndios florestais na região da Ática estão se tornando mais frequentes e intensos devido às mudanças climáticas, secas prolongadas e aumento das temperaturas. Sua crescente proximidade com áreas urbanas ameaça vidas humanas, infraestrutura e biodiversidade, levando a graves consequências ambientais e econômicas. <br>Métodos tradicionais de detecção de incêndios, como sensores baseados em satélite e terrestres, podem estar atrasados ou indisponíveis em áreas remotas. Publicações em redes sociais podem servir como um sistema de alerta precoce, fornecendo insights sobre incidentes de incêndio. <br>Esta ferramenta interativa demonstra como as redes sociais podem complementar dados de OE para detecção e alerta precoce de incêndios florestais em tempo quase real, e fornecer insights para melhorar as estratégias de resposta e gestão de incêndios florestais na Ática.",
+  "evm_description_2": "Este mapa exibe clusters de <b>publicações geolocalizadas relacionadas a incêndios em redes sociais</b> (da plataforma X) como pinos baseados em localização. Esses clusters, coletados entre 2019 e 2021, dentro de um raio de 10 km ao longo de um período de 24 horas, foram correlacionados com dados de qualidade do ar NO₂ do Sentinel-5 para excluir publicações falsamente geolocalizadas.",
+  "evm_description_3": "As visualizações de áreas queimadas ilustram incêndios florestais maiores que 40 hectares, ajudando a avaliar a <b>propagação e severidade dos incêndios</b> na região da Ática entre 2019 e 2021",
+
   "evm_label_sources": "Todas as fontes",
   "evm_label_platform_x": "Rede Social X",
   "evm_label_satellite": "Imagens de satélite Copernicus",
@@ -280,7 +282,7 @@
   "nst_label_subtitle": "Nápoles dá passos ousados para melhorar o planejamento urbano e a adaptação climática ao aproveitar a análise de big data",
 
   "nts_tab_no1_title": "Estrutura BDTI para o espaço público de Nápoles",
-  
+
   "nst_label_no1_accordion_title": "Serviço Digital BDTI no Município de Nápoles em resumo",
   "nst_label_no1_accordion_label_1": "O Município de Nápoles (Comune di Napoli), a terceira maior área metropolitana da Itália, enfrenta desafios urbanos complexos, que vão desde disparidades socioeconômicas e mudanças climáticas até o turismo excessivo e deficiências nos serviços públicos. Reconhecendo a necessidade de fortalecer a resiliência urbana, Nápoles buscou integrar estratégias baseadas em dados em seu planejamento urbano e sistemas de mobilidade. Por meio de um esforço colaborativo envolvendo especialistas locais e parcerias europeias, a cidade embarcou em uma jornada centrada em dados, utilizando a",
   "nst_label_no1_accordion_label_2": "para gerar insights acionáveis para melhorias urbanas e ambientais.",
@@ -301,19 +303,17 @@
   "nst_label_no2_accordion_label_2": "publicado pela <b>Direção-Geral de Serviços Digitais (data.europa.eu)</b>.",
 
   "nts_tab_no2_title": "Mapeamento da Mobilidade",
-    
+
   "nst_label_no3_accordion_title": "Infraestrutura de mobilidade sustentável e monitoramento de espaços públicos",
   "nst_label_no3_accordion_label_1": "O mapa web abaixo mostra os conjuntos de dados criados para monitorar indicadores de mobilidade sustentável.",
-  
+
   "nst_label_no3_accordion_label_2": "O compartilhamento de informações de mobilidade e o monitoramento contínuo das estratégias de implementação de mobilidade sustentável exigem ferramentas específicas.<br> Técnicas avançadas de compartilhamento de informações, com o uso de uma <b>infraestrutura de dados espaciais (Spatial data infrastructure)</b>, complementam os canais informativos tradicionais dos sites oficiais, disponibilizando dados tanto para os gestores municipais quanto para os cidadãos, através de ferramentas de visualização web.",
-  
+
   "nst_label_no3_accordion_label_3": "Os indicadores provêm do <b>Plano de Ação para Mobilidade Sustentável (PUMS)</b>, adotado em 2021. Uma atualização está prevista para 2025. A maioria dos conjuntos de dados foi integrada a partir de várias fontes, padronizada e harmonizada pela primeira vez nesta atividade piloto.<br> Graças ao projeto europeu BeOpen, o município contribui com conjuntos de dados HVD para o compartilhamento de dados abertos na área da mobilidade.",
-  
+
   "nst_label_no3_accordion_label_4": "A <b>análise GIS</b> e a integração com o software de código aberto QGIS, o mapeamento de modelos de dados, o licenciamento e o armazenamento de dados apoiaram a transição para o compartilhamento de dados abertos no campo da mobilidade.<br> São utilizados software de código aberto e conjuntos de dados provenientes da infraestrutura de dados espaciais do município ou especialmente preparados.",
-  
+
   "nst_label_no4_accordion_label_1": "A <b>área de detalhes</b> (canto superior esquerdo do visualizador de mapas) exibe a legenda do mapa. A seção <b>conteúdo</b> lista os conjuntos de dados que podem ser ativados ou desativados, visualizados com um novo estilo ou em modo de transparência.<br> O usuário pode avaliar as informações contidas no conjunto de dados abrindo sua tabela de atributos. Em seguida, pode ser aplicado um <b>filtro</b>, selecionando conteúdos específicos da tabela.",
-  
+
   "nst_label_no4_accordion_label_2": "O conteúdo associado aos dados do mapa em uma localização única pode ser explorado ao <b>clicar no mapa</b>.<br> É possível compor um <b>mapa web pessoal</b> adicionando dados de outras fontes.<br> O mapa pode ser <b>impresso</b> ou <b>compartilhado</b> com as ferramentas acessíveis na barra superior, que geram um link copiável e compartilhável.<br> O usuário pode <b>pesquisar locais</b> ou <b>pontos de interesse (POIs)</b> no canto superior direito do visualizador de mapas."
-
-
 }
