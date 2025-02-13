@@ -314,5 +314,8 @@
 
   "nst_label_no4_accordion_label_1": "L’<b>area dei dettagli</b> (in alto a sinistra nel visualizzatore di mappe) mostra la legenda della mappa. La sezione <b>contenuti</b> elenca i dataset che possono essere attivati o disattivati, visualizzati con un nuovo stile o in modalità trasparenza.<br> L’utente può esaminare le informazioni contenute nel dataset aprendo la tabella degli attributi. Può quindi essere applicato un <b>filtro</b>, selezionando contenuti specifici dalla tabella.",
 
-  "nst_label_no4_accordion_label_2": "Il contenuto associato ai dati della mappa in una singola posizione può essere esplorato facendo <b>clic sulla mappa</b>.<br> È possibile creare una <b>mappa web personale</b> aggiungendo dati da altre fonti.<br> La mappa può essere <b>stampata</b> o <b>condivisa</b> tramite gli strumenti accessibili nella barra superiore, che generano un link copiabile e condivisibile.<br> L’utente può <b>cercare luoghi</b> o <b>punti di interesse (POI)</b> nella parte superiore destra del visualizzatore di mappe."
+  "nst_label_no4_accordion_label_2": "Il contenuto associato ai dati della mappa in una singola posizione può essere esplorato facendo <b>clic sulla mappa</b>.<br> È possibile creare una <b>mappa web personale</b> aggiungendo dati da altre fonti.<br> La mappa può essere <b>stampata</b> o <b>condivisa</b> tramite gli strumenti accessibili nella barra superiore, che generano un link copiabile e condivisibile.<br> L’utente può <b>cercare luoghi</b> o <b>punti di interesse (POI)</b> nella parte superiore destra del visualizzatore di mappe.",
+
+  "Napoli digital service": "Servizio digitale di Napoli",
+  "Attica digital service": "Servizio digitale di Attica"
 }

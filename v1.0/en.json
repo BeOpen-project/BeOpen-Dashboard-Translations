@@ -316,6 +316,9 @@
   "nst_label_no3_accordion_label_4": "<b>GIs analysis</b> and integration with open-source QGIS software, Data model mapping, licensing and data hosting have supported the path towards Open data sharing in the field of Mobility. <br>Open-source software and dataset coming from the Municipality spatial data infrastructure or specifically prepared. ",
 
   "nst_label_no4_accordion_label_1": "The <b>Details area</b> (upper left of the Map viewer) reports a Legend for the Map. The <b>Content</b> lists the datasets that can be turned on or off, visualized applying a new style or in transparency mode.<br> The user can evaluate the information contained in the dataset, opening its attribute table.  A <b>Filter</b> can then be applied, selecting specific content from the table.",
-  "nst_label_no4_accordion_label_2": "The content associated to the map data in a single location can be explored by <b>clicking on the map</b>. <br> <b>A personal web map</b> can be composed adding data from other sources. <br>The map can be <b>printed</b> or <b>shared</b> with the tools accessible in the upper bar, as the system compiles a link that can be copied and shared. <br> The user can <b>search for places</b> or <b>points of interest (POIs)</b> in the upper right part of the Map viewer."
+  "nst_label_no4_accordion_label_2": "The content associated to the map data in a single location can be explored by <b>clicking on the map</b>. <br> <b>A personal web map</b> can be composed adding data from other sources. <br>The map can be <b>printed</b> or <b>shared</b> with the tools accessible in the upper bar, as the system compiles a link that can be copied and shared. <br> The user can <b>search for places</b> or <b>points of interest (POIs)</b> in the upper right part of the Map viewer.",
+
+  "Napoli digital service": "Napoli digital service",
+  "Attica digital service":"Attica digital service"
 
 }

@@ -316,5 +316,8 @@
 
   "nst_label_no4_accordion_label_1": "El <b>área de detalles</b> (en la parte superior izquierda del visor de mapas) muestra una leyenda del mapa. La sección de <b>contenido</b> enumera los conjuntos de datos que pueden activarse o desactivarse, visualizarse con un nuevo estilo o en modo de transparencia.<br> El usuario puede evaluar la información contenida en el conjunto de datos abriendo su tabla de atributos. A continuación, se puede aplicar un <b>filtro</b>, seleccionando contenido específico de la tabla.",
 
-  "nst_label_no4_accordion_label_2": "El contenido asociado a los datos del mapa en una única ubicación se puede explorar haciendo <b>clic en el mapa</b>.<br> Se puede crear un <b>mapa web personal</b> agregando datos de otras fuentes.<br> El mapa se puede <b>imprimir</b> o <b>compartir</b> mediante las herramientas accesibles en la barra superior, que generan un enlace que se puede copiar y compartir.<br> El usuario puede <b>buscar lugares</b> o <b>puntos de interés (POIs)</b> en la parte superior derecha del visor de mapas."
+  "nst_label_no4_accordion_label_2": "El contenido asociado a los datos del mapa en una única ubicación se puede explorar haciendo <b>clic en el mapa</b>.<br> Se puede crear un <b>mapa web personal</b> agregando datos de otras fuentes.<br> El mapa se puede <b>imprimir</b> o <b>compartir</b> mediante las herramientas accesibles en la barra superior, que generan un enlace que se puede copiar y compartir.<br> El usuario puede <b>buscar lugares</b> o <b>puntos de interés (POIs)</b> en la parte superior derecha del visor de mapas.",
+
+  "Napoli digital service": "Servicio digital de Nápoles",
+  "Attica digital service": "Servicio digital de Ática"
 }

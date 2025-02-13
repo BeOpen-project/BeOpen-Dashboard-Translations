@@ -316,6 +316,8 @@
 
   "nst_label_no4_accordion_label_1": "Der <b>Detailbereich</b> (oben links im Kartenbetrachter) zeigt eine Legende für die Karte. Der <b>Inhalt</b> listet die Datensätze auf, die ein- oder ausgeschaltet, mit einem neuen Stil visualisiert oder in Transparenzmodus angezeigt werden können.<br> Der Benutzer kann die im Datensatz enthaltenen Informationen bewerten, indem er die Attributtabelle öffnet. Ein <b>Filter</b> kann dann angewendet werden, um spezifische Inhalte aus der Tabelle auszuwählen.",
 
-  "nst_label_no4_accordion_label_2": "Die mit den Kartendaten verknüpften Inhalte an einem bestimmten Ort können durch <b>Klicken auf die Karte</b> erkundet werden.<br> <b>Eine persönliche Webkarte</b> kann durch Hinzufügen von Daten aus anderen Quellen erstellt werden.<br> Die Karte kann <b>gedruckt</b> oder <b>geteilt</b> werden, mit den Werkzeugen in der oberen Leiste, die einen kopierbaren und teilbaren Link generieren.<br> Der Benutzer kann <b>Orte</b> oder <b>Sehenswürdigkeiten (POIs)</b> im oberen rechten Bereich des Kartenbetrachters suchen."
-  
+  "nst_label_no4_accordion_label_2": "Die mit den Kartendaten verknüpften Inhalte an einem bestimmten Ort können durch <b>Klicken auf die Karte</b> erkundet werden.<br> <b>Eine persönliche Webkarte</b> kann durch Hinzufügen von Daten aus anderen Quellen erstellt werden.<br> Die Karte kann <b>gedruckt</b> oder <b>geteilt</b> werden, mit den Werkzeugen in der oberen Leiste, die einen kopierbaren und teilbaren Link generieren.<br> Der Benutzer kann <b>Orte</b> oder <b>Sehenswürdigkeiten (POIs)</b> im oberen rechten Bereich des Kartenbetrachters suchen.",
+
+  "Napoli digital service": "Digitaler Service Neapel",
+  "Attica digital service": "Digitaler Service Attika"
 }
