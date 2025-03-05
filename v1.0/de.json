@@ -227,7 +227,7 @@
   "addDataset": "Neuen Datensatz hinzufügen",
   "datasetName": "Datensatzname",
   "datasetDescription": "Beschreibung",
-  "datasetCompletedSteps": "Abgeschlossene Schritte",
+  "datasetCompletedSteps": "Schritte",
   "datasetVersion": "Version",
   "datasetAction": "Aktionen",
   "saveDatasetVersion": "Speichere die aktuelle Version",

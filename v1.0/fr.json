@@ -227,7 +227,7 @@
   "addDataset": "Ajouter un nouveau jeu de données",
   "datasetName": "Nom du jeu de données",
   "datasetDescription": "Description",
-  "datasetCompletedSteps": "Étapes terminées",
+  "datasetCompletedSteps": "Étapes",
   "datasetVersion": "Version",
   "datasetAction": "Actions",
   "saveDatasetVersion": "Enregistrer la version actuelle",

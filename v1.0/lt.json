@@ -227,7 +227,7 @@
   "addDataset": "Pridėti naują duomenų rinkinį",
   "datasetName": "Duomenų rinkinio pavadinimas",
   "datasetDescription": "Aprašymas",
-  "datasetCompletedSteps": "Baigti veiksmai",
+  "datasetCompletedSteps": "Baigti",
   "datasetVersion": "Versija",
   "datasetAction": "Veiksmai",
   "saveDatasetVersion": "Išsaugoti dabartinę versiją",

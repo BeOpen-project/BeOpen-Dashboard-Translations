@@ -226,7 +226,7 @@
   "addDataset": "Προσθήκη νέου συνόλου δεδομένων",
   "datasetName": "Όνομα συνόλου δεδομένων",
   "datasetDescription": "Περιγραφή",
-  "datasetCompletedSteps": "Ολοκληρωμένα βήματα",
+  "datasetCompletedSteps": "βήματα",
   "datasetVersion": "Έκδοση",
   "datasetAction": "Ενέργειες",
   "saveDatasetVersion": "Αποθήκευσε την τρέχουσα έκδοση",
