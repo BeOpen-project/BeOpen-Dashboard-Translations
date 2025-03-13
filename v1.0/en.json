@@ -227,10 +227,14 @@
   "addDataset": "Add new Dataset",
   "datasetName": "Dataset Name",
   "datasetDescription": "Description",
+  "datasetCreationDate": "Creation Date",
   "datasetCompletedSteps": "Steps",
   "datasetVersion": "Version",
   "datasetAction": "Actions",
   "saveDatasetVersion": "Save the actual version",
+  
+  "lastModified": "Last Modified Date",
+  "createdBy": "Created By",
 
   "datasetDocumentLink": "Dataset URL",
   "modifyDatasetDescDialog": "Set or modify the description of the current version of Dataset",

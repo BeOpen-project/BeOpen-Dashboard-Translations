@@ -232,6 +232,9 @@
   "datasetAction": "Veiksmai",
   "saveDatasetVersion": "Išsaugoti dabartinę versiją",
 
+  "lastModified": "Paskutinio keitimo data",
+  "createdBy": "Sukūrė",
+
   "datasetDocumentLink": "Dokumento nuoroda",
   "modifyDatasetDescDialog": "Nustatykite arba pakeiskite dabartinės duomenų rinkinio versijos aprašymą",
   "modifyDatasetDescConfirm": "Išsaugoti naują aprašymą",

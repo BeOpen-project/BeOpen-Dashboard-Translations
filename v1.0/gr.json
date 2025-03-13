@@ -231,6 +231,9 @@
   "datasetAction": "Ενέργειες",
   "saveDatasetVersion": "Αποθήκευσε την τρέχουσα έκδοση",
 
+  "lastModified": "Ημερομηνία τελευταίας τροποποίησης",
+  "createdBy": "Δημιουργήθηκε από",
+
   "datasetDocumentLink": "Σύνδεσμος εγγράφου",
   "modifyDatasetDescDialog": "Ορίστε ή τροποποιήστε την περιγραφή της τρέχουσας έκδοσης του συνόλου δεδομένων",
   "modifyDatasetDescConfirm": "Αποθήκευση νέας περιγραφής",

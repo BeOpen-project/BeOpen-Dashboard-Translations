@@ -232,6 +232,9 @@
   "datasetAction": "Aktionen",
   "saveDatasetVersion": "Speichere die aktuelle Version",
 
+  "lastModified": "Letztes Änderungsdatum",
+  "createdBy": "Erstellt von",
+
   "datasetDocumentLink": "Dokumentenlink",
   "modifyDatasetDescDialog": "Legen Sie die Beschreibung der aktuellen Version des Datensatzes fest oder ändern Sie sie",
   "modifyDatasetDescConfirm": "Neue Beschreibung speichern",
