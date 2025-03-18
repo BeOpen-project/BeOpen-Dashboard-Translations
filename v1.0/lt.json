@@ -3,6 +3,9 @@
     "version": "1.0"
   },
 
+  "Active services" : "Aktīvie pakalpojumi",
+  "Inactive services" : "Neaktīvie pakalpojumi",
+
   "adminPage": "Administravimo Puslapis",
   "registredUsers": "Registruoti Vartotojai",
   "registrationDateLabel": "Registracijos Data: ",

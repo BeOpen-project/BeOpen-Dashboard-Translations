@@ -3,6 +3,9 @@
     "version": "1.0"
   },
 
+  "Active services" : "Services actifs",
+  "Inactive services" : "Services inactifs",
+
   "adminPage": "Page d'administration",
   "registredUsers": "Utilisateurs inscrits",
   "registrationDateLabel": "Date d'inscription : ",

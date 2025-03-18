@@ -3,6 +3,9 @@
     "version": "1.0"
   },
 
+  "Active services" : "Ενεργές υπηρεσίες",
+  "Inactive services" : "Ανενεργές υπηρεσίες",
+
   "adminPage": "Σελίδα Διαχείρισης",
   "registredUsers": "Εγγεγραμμένοι Χρήστες",
   "registrationDateLabel": "Ημερομηνία Εγγραφής: ",

@@ -2,6 +2,9 @@
   "fileVersion": {
     "version": "1.0"
   },
+  
+  "Active services" : "Servicios activos",
+  "Inactive services" : "Servicios inactivos",
 
   "adminPage": "Página de Administración",
   "registredUsers": "Usuarios Registrados",
