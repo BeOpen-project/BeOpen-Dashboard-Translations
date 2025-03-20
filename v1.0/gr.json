@@ -5,6 +5,10 @@
 
   "Active services" : "Ενεργές υπηρεσίες",
   "Inactive services" : "Ανενεργές υπηρεσίες",
+  "Enter a key that you want so search": "Εισαγάγετε ένα κλειδί που θέλετε να αναζητήσετε",
+  "Enter a value that you want so search": "Εισαγάγετε μια τιμή που θέλετε να αναζητήσετε",
+  "Select the start date for your search": "Επιλέξτε την ημερομηνία έναρξης της αναζήτησής σας",
+  "Select the end date for your search": "Επιλέξτε την ημερομηνία λήξης της αναζήτησής σας",
 
   "adminPage": "Σελίδα Διαχείρισης",
   "registredUsers": "Εγγεγραμμένοι Χρήστες",

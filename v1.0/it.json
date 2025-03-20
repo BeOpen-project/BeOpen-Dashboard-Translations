@@ -5,6 +5,10 @@
 
   "Active services" : "Servizi attivi",
   "Inactive services" : "servizi inattivi",
+  "Enter a key that you want so search":"Digita la chiave che vuoi cercare",
+  "Enter a value that you want so search":"Digita il valore che vuoi cercare", 
+  "Select the start date for your search":"Seleziona la data di inizio intervallo",
+  "Select the end date for your search":"Seleziona la data di fine intervallo",
 
   "adminPage": "Pagina di Amministrazione",
   "registredUsers": "Utenti Registrati",

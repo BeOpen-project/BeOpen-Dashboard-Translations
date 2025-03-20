@@ -5,7 +5,11 @@
 
   "Active services" : "Active services",
   "Inactive services" : "Inactive services",
-  
+  "Enter a key that you want so search":"Enter a key that you want so search",
+  "Enter a value that you want so search":"Enter a value that you want so search", 
+  "Select the start date for your search":"Select the start date for your search",
+  "Select the end date for your search":"Select the end date for your search",
+
   "adminPage": "Administration Page",
   "registredUsers": "Registred Users",
   "registrationDateLabel": "Registration Date: ",

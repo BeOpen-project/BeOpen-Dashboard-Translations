@@ -5,6 +5,10 @@
 
   "Active services" : "Aktīvie pakalpojumi",
   "Inactive services" : "Neaktīvie pakalpojumi",
+  "Enter a key that you want so search": "Ievadiet atslēgu, kuru vēlaties meklēt",
+  "Enter a value that you want so search": "Ievadiet vērtību, kuru vēlaties meklēt",
+  "Select the start date for your search": "Izvēlieties sākuma datumu savai meklēšanai",
+  "Select the end date for your search": "Izvēlieties beigu datumu savai meklēšanai",
 
   "adminPage": "Administravimo Puslapis",
   "registredUsers": "Registruoti Vartotojai",
