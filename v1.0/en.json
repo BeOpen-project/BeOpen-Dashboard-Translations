@@ -5,7 +5,7 @@
   "attica": {
     "Event Detection with Social media": "Event Detection with Social media",
     "Event detection description 1": "The charts evaluate the detection performance of fire-related events in the Attica region from 2019 to 2021.The first approach utilizes X-posts as input to detect groups of posts that are close in time and location (using the DBSCAN clustering method).",
-    "Event detection description 2": "The second approach uses daily mean NO₂ concentrations from satellite data (Sentinel-5P TROPOMI) as input to spot unusual pollution spikes linked to fire (using the Isolation Forest algorithm).",
+    "Event detection description 2": "The second approach uses daily mean NO₂ concentrations from satellite data (Sentinel-5P TROPOMI) as input to spot unusual pollution spikes linked to fires (using the Isolation Forest algorithm).",
     "Event detection description 1 bullet 1": "Out of 10 real events, 5 were correctly identified, while 5 were missed.",
     "Event detection description 1 bullet 2": "26 false alarms were triggered.",
     "Event detection description 2 bullet 1": "Out of 10 real events, 9 were correctly detected and 1 was missed.",
@@ -14,7 +14,7 @@
     "Event Detection with NO2": "Event Detection with NO2",
     "Daily Mean NO2 concentrations and detected anomalies": "Daily Mean NO2 concentrations and detected anomalies",
     "Daily Mean NO2 concentrations and detected anomalies description": "The chart illustrates the variability of daily mean NO₂ concentrations within a 10 km radius of the event’s post location over a 10-day period surrounding the event date. Anomalies (unusual spikes) are detected (using Isolation Forest), with red dots indicating their presence.",
-    "Event Detection with  Social Media and NO2": "Event Detection with  Social Media + NO2",
+    "Event Detection with Social Media + NO2": "Event Detection with  Social Media + NO2",
     "Number of posts published on Social Media X regarding fires in the Attica region from 2019 to 2021": "Number of posts published on Social Media X regarding fires in the Attica region from 2019 to 2021",
     "Event Detection with Social Media + NO2 description": "By combining Social Media (SM) events with NO₂ detected anomalies, the number of incorrect detections (false alarms) is reduced, and the accuracy of identifying real fire events improves. The chart illustrates detected events using Social Media (blue bars) and how many were confirmed when combined with NO₂ anomalies (red bars), based on actual fires.",
     "Scenarios and results": "Scenarios and results",
