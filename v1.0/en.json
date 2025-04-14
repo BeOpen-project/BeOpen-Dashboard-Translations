@@ -3,6 +3,10 @@
     "version": "1.0"
   },
 
+  "attica" : {
+    "Event Detection with Social media" : "Event Detection with Social media"
+  },
+
   "Active services" : "Active services",
   "Inactive services" : "Inactive services",
   "Enter a key that you want so search":"Enter a key that you want so search",
