@@ -2,7 +2,7 @@
   "fileVersion": {
     "version": "1.0"
   },
-  "attica" : {
+  "attica": {
     "Event Detection with Social media": "Deteção de eventos com redes sociais",
     "Event detection description 1": "Os gráficos avaliam o desempenho de deteção de eventos relacionados com incêndios na região da Ática de 2019 a 2021. A primeira abordagem utiliza X-posts como entrada para detetar grupos de postes que estão próximos em tempo e localização (utilizando o método de agrupamento DBSCAN).",
     "Event detection description 2": "A segunda abordagem utiliza concentrações médias diárias de NO₂ de dados de satélite (Sentinel-5P TROPOMI) como entrada para detetar picos incomuns de poluição relacionados com incêndios (utilizando o algoritmo Isolation Forest).",
@@ -41,15 +41,12 @@
     "All Fires : ": "Todos os incêndios: ",
     "Fires : ": "Incêndios: "
   },
-  
-
-  "Active services" : "Serviços ativos",
-  "Inactive services" : "Serviços inativos",
+  "Active services": "Serviços ativos",
+  "Inactive services": "Serviços inativos",
   "Enter a key that you want so search": "Digite uma chave que você deseja pesquisar",
   "Enter a value that you want so search": "Digite um valor que você deseja pesquisar",
   "Select the start date for your search": "Selecione a data de início para sua pesquisa",
   "Select the end date for your search": "Selecione a data de término para sua pesquisa",
-
   "adminPage": "Página de Administração",
   "registredUsers": "Utilizadores Registados",
   "registrationDateLabel": "Data de Registo: ",
@@ -58,7 +55,6 @@
   "close": "Fechar",
   "edit": "Editar",
   "confirm": "Confirmar",
-
   "addToPrivateDataSpace": "Adicionar Objetos ao Espaço de Dados Privado",
   "addToPrivateDataSpaceLabel1": "Navegue pelos seus dados e selecione um ficheiro para ver uma pré-visualização",
   "addToPrivateDataSpaceLabel2": "Pode adicionar o objeto carregado ao seu bucket pessoal usando o botão no final da página",
@@ -92,15 +88,12 @@
   "publicDataSpaceLabel1": "Navegue pelos dados da pasta de dados partilhados públicos e selecione um ficheiro para aceder à sua pré-visualização",
   "publicDataSpaceLabel2": "Esta é a lista de itens no bucket público",
   "downloadFromPublicDataFolder": "Descarregar este item da pasta de dados partilhados públicos",
-
   "homepageBeopenLabel": "O objetivo do BeOpen é apoiar administrações públicas a nível local, regional e nacional no aumento da disponibilidade e usabilidade das informações do setor público (conjuntos de dados de alto valor). Isto facilitará que organizações e entidades públicas reutilizem dados públicos abertos em toda a UE para o desenvolvimento de produtos e serviços de informação.",
   "homepageOpenDataLabel": "O BeOpen visa fornecer um quadro aberto para impulsionar os conjuntos de dados de alto valor da UE provenientes do setor público. O BeOpen pretende oferecer uma ferramenta económica e fácil de usar para a gestão de conjuntos de dados de alto valor adaptada à Administração Pública; para validar e avaliar as melhorias, acessibilidade e reutilização dos conjuntos de dados de alto valor através da execução de serviços piloto e aplicações de IA em toda a UE; para fornecer um quadro técnico para melhorar a interoperabilidade técnica dos dados, a semântica e a qualidade dos conjuntos de dados do setor público; para disponibilizar conjuntos de dados públicos abertos em formato legível por máquina através de API descobertas pelo Portal de Dados Europeu e portais nacionais de dados abertos e para fornecer diretrizes e recomendações que abordem a interoperabilidade jurídica no contexto da disseminação e reutilização de dados abertos públicos. <br> BeOpen permitirá o desenvolvimento de novos serviços digitais e de IA, facilitando o acesso e a utilização de conjuntos de dados de alto valor do setor público da UE. <br> <br> Espera-se que o quadro do projeto BeOpen aumente a disponibilidade e usabilidade dos dados abertos fornecidos pelo setor público. Oito pilotos abordarão desafios relacionados com a mobilidade urbana, segurança pública, meio ambiente e desastres naturais em várias regiões da UE.",
-
   "manuals": "Manuais",
   "manualsLabel": "Consulte os manuais e documentação para cada ferramenta do framework",
   "manualsDescription": "Tanto o manual do utilizador como a documentação para o uso correto das API REST expostas pelas ferramentas são fornecidos",
   "search": "Pesquisar",
-
   "mqvTitle": "Validador de Qualidade de Metadados",
   "mqvLabel1": "Selecione um Catálogo ou um Conjunto de Dados fazendo o upload como ficheiro RDF ou inserindo o URL que o identifica e obtenha a pontuação ou métricas de avaliação relacionadas a ele, de acordo com o",
   "mqvLabel2": "padrão DCAT-AP",
@@ -127,11 +120,9 @@
   "out_of": "de",
   "datasetMetrics": "Métricas do Conjunto de Dados",
   "catalogueScore": "Pontuação do Catálogo",
-
   "registration": "Registo",
   "registrationLabel": "Digite as suas informações para se registar na plataforma BeOpen",
   "registrationButton": "Registar Utilizador",
-
   "toolLabel": "Ferramentas",
   "toolDescription": "Aceda e navegue pelas ferramentas atualmente disponíveis no framework BeOpen",
   "nifiDescription": "Um sistema fácil de usar, poderoso e fiável para processar e distribuir dados. O NiFi automatiza a cibersegurança, a observabilidade, os fluxos de eventos e as canalizações de dados de IA generativa e distribuição para milhares de empresas em todo o mundo, em todos os setores. O NiFi foi construído para automatizar o fluxo de dados entre sistemas. Enquanto o termo fluxo de dados é usado em uma variedade de contextos, usamos aqui para significar o fluxo automatizado e gerido de informações entre sistemas. O Nifi também fornece uma interface de utilizador baseada em navegador que permite uma experiência perfeita para design, controlo, feedback e monitorização. A possibilidade de visualizar esses fluxos e expressá-los visualmente pode ajudar a reduzir a complexidade e identificar áreas que precisam ser simplificadas.",
@@ -152,7 +143,6 @@
   "dataCategory4": "Melhoria da qualidade dos dados",
   "dataCategory5": "Recolha de dados e acesso de segurança",
   "openrefineDescription": "OpenRefine é uma poderosa ferramenta gratuita e de código aberto para trabalhar com dados confusos: limpá-los; transformá-los de um formato em outro; e estendê-los com serviços web e dados externos. Ele opera em linhas de dados que possuem células em colunas, semelhante à maneira como as tabelas de bases de dados relacionais operam, os projetos OpenRefine consistem numa tabela, cujas linhas podem ser filtradas usando facetas que definem critérios (por exemplo, mostrando linhas onde uma determinada coluna não está vazia). as operações no OpenRefine são feitas em todas as linhas visíveis, por exemplo, a transformação de todas as células em todas as linhas numa coluna ou a criação de uma nova coluna com base nos dados existentes. As ações executadas em um conjunto de dados são armazenadas no projeto e podem ser '. reproduzidas' em outros conjuntos de dados As fórmulas não são armazenadas em células, mas são usadas para transformar os dados. A transformação é feita apenas uma vez. As expressões de fórmula podem ser escritas em General Refine Expression Language (GREL), em Jython (ou seja, Python). em Clojure.",
-
   "userInfo": "Informações do Utilizador",
   "Homepage": "Página Inicial",
   "My Account": "Minha Conta",
@@ -164,7 +154,6 @@
   "Release notes": "Notas de lançamento",
   "HVD Impact Assessment": "Avaliação de Impacto HVD",
   "toolUsed": "Ferramenta utilizada",
-
   "selectingObject_Success": "Objeto selecionado com sucesso!",
   "addingObject_Success": "Objeto adicionado com sucesso!",
   "addingObject_ShapeFileError": "O ficheiro zip não é um Shape File!",
@@ -270,7 +259,6 @@
   "satisfyRequirementTools": "Ferramentas BeOpen que podem ser usadas para satisfazer o requisito específico:",
   "datasetTitle": "Conjuntos de dados para melhorar",
   "datasetLabel": "Esta ferramenta gráfica permite-lhe monitorizar o progresso dos seus conjuntos de dados a melhorar, para que se tornem Conjuntos de Dados de Alto Valor em conformidade com a Diretiva Europeia sobre o assunto. Adicione facilmente um novo conjunto de dados à sua lista e comece a trabalhar nele. Pode continuar a trabalhar no seu conjunto de dados a qualquer momento, pois o progresso atual é guardado.",
-
   "addDataset": "Adicionar novo conjunto de dados",
   "datasetName": "Nome do conjunto de dados",
   "datasetDescription": "Descrição",
@@ -278,17 +266,14 @@
   "datasetVersion": "Versão",
   "datasetAction": "Ações",
   "saveDatasetVersion": "Salvar a versão atual",
-
   "lastModified": "Data da última modificação",
   "createdBy": "Criado por",
-
   "datasetDocumentLink": "Link do documento",
   "modifyDatasetDescDialog": "Definir ou modificar a descrição da versão atual do conjunto de dados",
   "modifyDatasetDescConfirm": "Salvar nova descrição",
   "modifyDatasetLinkDialog": "Defina ou modifique os detalhes da documentação da versão atual do conjunto de dados",
   "modifyDatasetLinkConfirm": "Salvar novo link para a documentação",
   "navigateToDocumentLink": "Navegar para a documentação",
-
   "addDatasetTitleLabel": "Adicionar um novo Conjunto de Dados",
   "addDatasetTextLabel": "Insira as informações do conjunto de dados que deseja melhorar, elas poderão ser modificadas posteriormente.",
   "addDatasetNameLabel": "Nome do Conjunto de Dados",
@@ -300,14 +285,12 @@
   "deleteObjectConfirmDialogLabel": "Você está prestes a excluir permanentemente o objeto neste repositório. Tem certeza?",
   "period": "Período",
   "dateField": "Campo de data",
-
   "deleteConfirmButton": "Confirmar Exclusão",
   "deleteConfirmButtonAbort": "Cancelar",
   "tableCol3Description": "Lista de Ferramentas Usadas por Categoria",
   "savingConfirmDialogLabel": "Você está prestes a sair da página de edição sem salvar as últimas alterações. Deseja salvar agora?",
   "savingConfirmButton": "Salvar e Sair",
   "savingConfirmButtonAbort": "Sair sem Salvar",
-
   "dataModelTitle": "Modelo de Dados",
   "dataModelTitleDescription1": "Além de usar um formato legível por máquina e aplicar uma licença aos conjuntos de dados, é necessário melhorar a interoperabilidade para incentivar a reutilização. Para alcançar isso, é necessário estar em conformidade com os <b>padrões internacionais</b> ou adotar <b>estruturas de dados comuns</b>. Um exemplo válido pode ser a adoção do padrão ETSI NGSI-LD, suportado pelos FIWARE Orion Context Brokers para a descrição de conjuntos de dados através de metadados específicos, o que, por sua vez, promove a interoperabilidade entre conjuntos de dados.",
   "dataModelTitleDescription2": "Além disso, a adoção de estruturas de dados comuns é um ponto crucial para promover a interoperabilidade, por exemplo, os Smart Data Models",
@@ -315,58 +298,40 @@
   "dataModelTitleDescription4": "A ferramenta Data Model Mapper permite mapear os dados do modelo de dados comum para o modelo de dados do FIWARE Orion Context Broker. É possível usar o FIWARE Orion Context Broker para armazenar os dados e recuperá-los usando o padrão NGSI-LD.",
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Outra ferramenta equivalente",
-
   "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "O valor pode ser um booleano, uma lista de códigos de resposta HTTP com a porcentagem relativa de ocorrência, ou a porcentagem de métricas corretas",
-
   "evm_title": "Mapa de Monitoramento e Detecção de Incêndios Florestais da Ática",
   "evm_description_1": "Os incêndios florestais na região da Ática estão se tornando mais frequentes e intensos devido às mudanças climáticas, secas prolongadas e aumento das temperaturas. Sua crescente proximidade com áreas urbanas ameaça vidas humanas, infraestrutura e biodiversidade, levando a graves consequências ambientais e econômicas. <br>Métodos tradicionais de detecção de incêndios, como sensores baseados em satélite e terrestres, podem estar atrasados ou indisponíveis em áreas remotas. Publicações em redes sociais podem servir como um sistema de alerta precoce, fornecendo insights sobre incidentes de incêndio. <br>Esta ferramenta interativa demonstra como as redes sociais podem complementar dados de OE para detecção e alerta precoce de incêndios florestais em tempo quase real, e fornecer insights para melhorar as estratégias de resposta e gestão de incêndios florestais na Ática.",
   "evm_description_2": "Este mapa exibe clusters de <b>publicações geolocalizadas relacionadas a incêndios em redes sociais</b> (da plataforma X) como pinos baseados em localização. Esses clusters, coletados entre 2019 e 2021, dentro de um raio de 10 km ao longo de um período de 24 horas, foram correlacionados com dados de qualidade do ar NO₂ do Sentinel-5 para excluir publicações falsamente geolocalizadas.",
   "evm_description_3": "As visualizações de áreas queimadas ilustram incêndios florestais maiores que 40 hectares, ajudando a avaliar a <b>propagação e severidade dos incêndios</b> na região da Ática entre 2019 e 2021",
-
   "evm_label_sources": "Todas as fontes",
   "evm_label_platform_x": "Rede Social X",
   "evm_label_satellite": "Imagens de satélite Copernicus",
   "evm_label_apply_filters": "Aplicar filtros",
-
   "nst_label_title": "Mapeando o Futuro: Como Nápoles está redesenhando a vida urbana por meio da análise de dados",
   "nst_label_subtitle": "Nápoles dá passos ousados para melhorar o planejamento urbano e a adaptação climática ao aproveitar a análise de big data",
-
   "nts_tab_no1_title": "Estrutura BDTI para o espaço público de Nápoles",
-
   "nst_label_no1_accordion_title": "Serviço Digital BDTI no Município de Nápoles em resumo",
   "nst_label_no1_accordion_label_1": "O Município de Nápoles (Comune di Napoli), a terceira maior área metropolitana da Itália, enfrenta desafios urbanos complexos, que vão desde disparidades socioeconômicas e mudanças climáticas até o turismo excessivo e deficiências nos serviços públicos. Reconhecendo a necessidade de fortalecer a resiliência urbana, Nápoles buscou integrar estratégias baseadas em dados em seu planejamento urbano e sistemas de mobilidade. Por meio de um esforço colaborativo envolvendo especialistas locais e parcerias europeias, a cidade embarcou em uma jornada centrada em dados, utilizando a",
   "nst_label_no1_accordion_label_2": "para gerar insights acionáveis para melhorias urbanas e ambientais.",
-
   "nst_label_no1_accordion_subtitle_1": "Objetivo do projeto piloto",
   "nst_label_no1_accordion_label_3": "O principal objetivo do piloto BDTI de Nápoles é fortalecer a resiliência e a sustentabilidade urbana, aproveitando a análise de dados para lidar com os impactos das mudanças climáticas, como calor extremo e chuvas intensas, além de melhorar o uso dos espaços públicos. Ao integrar dados socioambientais e identificar áreas de alto risco, o projeto visa apoiar a tomada de decisões no planejamento urbano, na mobilidade e na segurança pública. O piloto também busca fornecer insights sobre métricas de capital verde e vulnerabilidades socioeconômicas, promovendo uma abordagem baseada em dados para a gestão urbana.",
-
   "nst_label_no1_accordion_subtitle_2": "Os dados: onde o processo começou",
   "nst_label_no1_accordion_label_4": "Os <b>conjuntos de dados geográficos</b> desempenham um papel fundamental na análise espacial e na tomada de decisões, especialmente ao abordar objetivos de <b>planejamento urbano</b> e <b>sustentabilidade</b>. Os conjuntos de dados usados pela equipe de Nápoles incluem <b>dados de espaços públicos</b> para analisar sua distribuição nos distritos administrativos, avaliar sua funcionalidade e identificar áreas subutilizadas ou com características críticas que possam ser alvo de regeneração ou redefinição no plano diretor da cidade. Os <b>dados de mobilidade sustentável</b>, estruturados e prontos para compartilhamento, oferecem insights valiosos sobre padrões de transporte, permitindo o desenvolvimento de sistemas de mobilidade mais ecológicos e eficientes. <b>Valores de exposição ao calor</b> e cálculos do <b>índice verde</b>, derivados da",
   "nst_label_no1_accordion_label_5": "plataforma, fornecem indicadores essenciais para identificar áreas propensas a superaquecimento e priorizar intervenções para melhorar a habitabilidade e a resiliência ambiental da cidade. Os <b>dados estatísticos</b> complementam ainda mais esses conjuntos, permitindo análises detalhadas para orientar decisões baseadas em evidências que estejam alinhadas com os objetivos do projeto de promover a mobilidade sustentável e melhorar a qualidade do ambiente urbano em Nápoles.",
-
   "nst_label_no1_accordion_subtitle_3": "Integração estratégica de dados com ferramentas inovadoras",
   "nst_label_no1_accordion_label_6": "Nápoles pretende <b>aprimorar seu planejamento urbano</b> e <b>estratégias de mobilidade</b> utilizando <b>análises de dados</b> para enfrentar os impactos das mudanças climáticas, especialmente o calor extremo e as chuvas intensas. Um dos principais objetivos é identificar 'centros de alívio' em toda a cidade – locais onde os cidadãos possam encontrar abrigo durante eventos climáticos extremos. A cidade está utilizando a <b>análise NDVI (Índice de Diferença de Vegetação Normalizada)</b> para quantificar o <b>capital verde</b>, uma métrica essencial na mitigação do efeito de ilha de calor urbana. Além disso, o município está correlacionando <b>dados geoespaciais</b> com <b>parâmetros sociais</b>, como o número de famílias e populações vulneráveis, adotando uma abordagem holística para equidade socioambiental.",
   "nst_label_no1_accordion_label_7": "Com a plataforma BDTI, <b>Nápoles está integrando conjuntos de dados de diversas fontes</b> para abordar lacunas críticas no planejamento urbano. A distribuição dos espaços públicos, os valores do índice verde e as avaliações de exposição ao calor estão sendo harmonizados com <b>ferramentas avançadas</b> para dados geoespaciais, <b>armazenamento centralizado</b> e <b>visualização</b>. Outros recursos da plataforma também estão sendo utilizados para <b>processamento eficiente de dados e automação de fluxos de trabalho</b>.",
-
   "nst_label_no2_accordion_title": "Diretrizes para o uso do painel de visualização de dados",
   "nst_label_no2_accordion_label_1": "Esses esforços resultaram no desenvolvimento de painéis avançados de visualização de dados utilizando a ferramenta Apache Superset, permitindo que formuladores de políticas <b>identifiquem espaços públicos subutilizados, avaliem vulnerabilidades socioambientais e elaborem estratégias para mitigação de riscos</b>. Já estão surgindo insights preliminares, incluindo a identificação de potenciais centros de alívio e o mapeamento de áreas que requerem intervenções direcionadas com base em métricas socioambientais.<br> A página abaixo exibe todas as visualizações de dados geradas. Para navegar melhor em cada análise individual, você pode <b>clicar nos três pontos no canto superior direito</b> ao lado de cada gráfico e selecionar a opção <b>Entrar no modo tela cheia</b>. Além disso, cada gráfico fornece uma descrição completa da análise exibida, que pode ser visualizada selecionando a opção <b>Exibir descrição do gráfico</b>. Também é possível fazer o download dos dados do gráfico selecionando a opção <b>Baixar</b> no formato tabular CSV, Excel ou como imagem.<br> À medida que Nápoles avança, a cidade pretende documentar sua jornada de forma abrangente, servindo como exemplo para outras entidades públicas adotarem abordagens semelhantes. Ao adotar os dados como uma ferramenta para o bem público, <b>Nápoles está dando passos significativos em direção a um futuro mais sustentável e resiliente</b>. Para mais detalhes sobre o trabalho realizado no município de Nápoles, consulte o",
   "nst_label_no2_accordion_label_2": "publicado pela <b>Direção-Geral de Serviços Digitais (data.europa.eu)</b>.",
-
   "nts_tab_no2_title": "Mapeamento da Mobilidade",
-
   "nst_label_no3_accordion_title": "Infraestrutura de mobilidade sustentável e monitoramento de espaços públicos",
   "nst_label_no3_accordion_label_1": "O mapa web abaixo mostra os conjuntos de dados criados para monitorar indicadores de mobilidade sustentável.",
-
   "nst_label_no3_accordion_label_2": "O compartilhamento de informações de mobilidade e o monitoramento contínuo das estratégias de implementação de mobilidade sustentável exigem ferramentas específicas.<br> Técnicas avançadas de compartilhamento de informações, com o uso de uma <b>infraestrutura de dados espaciais (Spatial data infrastructure)</b>, complementam os canais informativos tradicionais dos sites oficiais, disponibilizando dados tanto para os gestores municipais quanto para os cidadãos, através de ferramentas de visualização web.",
-
   "nst_label_no3_accordion_label_3": "Os indicadores provêm do <b>Plano de Ação para Mobilidade Sustentável (PUMS)</b>, adotado em 2021. Uma atualização está prevista para 2025. A maioria dos conjuntos de dados foi integrada a partir de várias fontes, padronizada e harmonizada pela primeira vez nesta atividade piloto.<br> Graças ao projeto europeu BeOpen, o município contribui com conjuntos de dados HVD para o compartilhamento de dados abertos na área da mobilidade.",
-
   "nst_label_no3_accordion_label_4": "A <b>análise GIS</b> e a integração com o software de código aberto QGIS, o mapeamento de modelos de dados, o licenciamento e o armazenamento de dados apoiaram a transição para o compartilhamento de dados abertos no campo da mobilidade.<br> São utilizados software de código aberto e conjuntos de dados provenientes da infraestrutura de dados espaciais do município ou especialmente preparados.",
-
   "nst_label_no4_accordion_label_1": "A <b>área de detalhes</b> (canto superior esquerdo do visualizador de mapas) exibe a legenda do mapa. A seção <b>conteúdo</b> lista os conjuntos de dados que podem ser ativados ou desativados, visualizados com um novo estilo ou em modo de transparência.<br> O usuário pode avaliar as informações contidas no conjunto de dados abrindo sua tabela de atributos. Em seguida, pode ser aplicado um <b>filtro</b>, selecionando conteúdos específicos da tabela.",
-
   "nst_label_no4_accordion_label_2": "O conteúdo associado aos dados do mapa em uma localização única pode ser explorado ao <b>clicar no mapa</b>.<br> É possível compor um <b>mapa web pessoal</b> adicionando dados de outras fontes.<br> O mapa pode ser <b>impresso</b> ou <b>compartilhado</b> com as ferramentas acessíveis na barra superior, que geram um link copiável e compartilhável.<br> O usuário pode <b>pesquisar locais</b> ou <b>pontos de interesse (POIs)</b> no canto superior direito do visualizador de mapas.",
-
   "Napoli digital service": "Serviço digital de Nápoles",
   "Attica digital service": "Serviço digital da Ática"
 }

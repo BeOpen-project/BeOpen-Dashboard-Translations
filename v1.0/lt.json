@@ -2,8 +2,7 @@
   "fileVersion": {
     "version": "1.0"
   },
-
-  "attica" : {
+  "attica": {
     "Event Detection with Social media": "Notikumu noteikšana sociālajos saziņas līdzekļos",
     "Event detection description 1": "Diagrammas novērtē ar ugunsgrēku saistītu notikumu noteikšanas veiktspēju Atikas reģionā no 2019. līdz 2021. gadam. Pirmajā pieejā kā ievade tiek izmantoti X-stabi, lai noteiktu laika un atrašanās vietas ziņā tuvu posteņu grupas (izmantojot DBSCAN klasterizācijas metodi).",
     "Event detection description 2": "Otrā pieeja izmanto ikdienas vidējo NO₂ koncentrāciju no satelīta datiem (Sentinel-5P TROPOMI) kā ievadi, lai konstatētu neparastus piesārņojuma kāpumus, kas saistīti ar ugunsgrēkiem (izmantojot Izolācijas meža algoritmu).",
@@ -42,15 +41,12 @@
     "All Fires : ": "Visi Ugunsgrēki : ",
     "Fires : ": "Ugunsgrēki : "
   },
-  
-
-  "Active services" : "Aktīvie pakalpojumi",
-  "Inactive services" : "Neaktīvie pakalpojumi",
+  "Active services": "Aktīvie pakalpojumi",
+  "Inactive services": "Neaktīvie pakalpojumi",
   "Enter a key that you want so search": "Ievadiet atslēgu, kuru vēlaties meklēt",
   "Enter a value that you want so search": "Ievadiet vērtību, kuru vēlaties meklēt",
   "Select the start date for your search": "Izvēlieties sākuma datumu savai meklēšanai",
   "Select the end date for your search": "Izvēlieties beigu datumu savai meklēšanai",
-
   "adminPage": "Administravimo Puslapis",
   "registredUsers": "Registruoti Vartotojai",
   "registrationDateLabel": "Registracijos Data: ",
@@ -59,7 +55,6 @@
   "close": "Uždaryti",
   "edit": "Redaguoti",
   "confirm": "Patvirtinti",
-
   "addToPrivateDataSpace": "Pridėti Objektus prie Asmeninio Duomenų Saugyklos",
   "addToPrivateDataSpaceLabel1": "Naršykite savo duomenis ir pasirinkite failą, kad pamatytumėte peržiūrą",
   "addToPrivateDataSpaceLabel2": "Galite pridėti įkeltą objektą prie savo asmeninio segmento naudodami mygtuką puslapio pabaigoje",
@@ -93,15 +88,12 @@
   "publicDataSpaceLabel1": "Naršykite duomenis iš viešo bendro duomenų katalogo ir pasirinkite failą, kad pamatytumėte peržiūrą",
   "publicDataSpaceLabel2": "Tai yra elementų sąrašas viešame segmente",
   "downloadFromPublicDataFolder": "Atsisiųsti šį elementą iš viešo bendro duomenų katalogo",
-
   "homepageBeopenLabel": "BeOpen tikslas yra remti viešąsias administracijas vietos, regioniniu ir nacionaliniu lygiu didinant viešojo sektoriaus informacijos (aukštos vertės duomenų rinkinių) prieinamumą ir naudingumą. Tai palengvins organizacijoms ir viešosioms įstaigoms pakartotinai naudoti viešus duomenis ES informacijos produktų ir paslaugų kūrimui.",
   "homepageOpenDataLabel": "BeOpen siekia suteikti atvirą sistemą, skirtą skatinti ES aukštos vertės duomenų rinkinius iš viešojo sektoriaus. BeOpen nori pasiūlyti ekonomišką, lengvai naudojamą įrankį aukštos vertės duomenų rinkinių valdymui, pritaikytą viešajai administracijai; patvirtinti ir įvertinti aukštos vertės duomenų rinkinių patobulinimus, prieinamumą ir pakartotinį naudojimą per visoje ES vykdomų pilotinių paslaugų ir dirbtinio intelekto taikymų vykdymą; suteikti techninę sistemą, skirtą pagerinti viešojo sektoriaus duomenų rinkinių techninį suderinamumą, semantiką ir kokybę; padaryti viešus atvirus duomenų rinkinius prieinamus mašininiu būdu skaitomu formatu per API, kurie yra atrandami Europos duomenų portale ir nacionaliniuose atvirų duomenų portaluose, ir pateikti gaires ir rekomendacijas, susijusias su teisiniu suderinamumu viešų atvirų duomenų sklaidos ir pakartotinio naudojimo kontekste. <br> BeOpen leis kurti naujas skaitmenines ir dirbtinio intelekto paslaugas, palengvindama prieigą prie ES viešojo sektoriaus aukštos vertės duomenų rinkinių ir jų naudojimą. <br> <br> BeOpen projekto sistema turėtų padidinti viešojo sektoriaus teikiamų atvirų duomenų prieinamumą ir naudojimą. Aštuoni pilotiniai projektai spręs mobilumo, miesto saugumo, aplinkos ir gamtinių nelaimių iššūkius keliose ES regionuose. ",
-
   "manuals": "Vadovai",
   "manualsLabel": "Susipažinkite su kiekvieno sistemos įrankio vadovais ir dokumentacija",
   "manualsDescription": "Pateikiami tiek naudotojo vadovas, tiek ir dokumentacija, kaip teisingai naudoti įrankių atvertus REST API",
   "search": "Paieška",
-
   "mqvTitle": "Metaduomenų Kokybės Tikrintuvas",
   "mqvLabel1": "Pasirinkite Katalogą arba Duomenų rinkinį įkeldami jį kaip RDF failą arba įvesdami URL, kuris jį identifikuoja, ir gaukite su juo susijusią įvertinimo balą ar metrikas pagal",
   "mqvLabel2": "DCAT-AP standartą",
@@ -128,11 +120,9 @@
   "out_of": "iš",
   "datasetMetrics": "Duomenų rinkinio metrikos",
   "catalogueScore": "Katalogo Įvertinimas",
-
   "registration": "Registracija",
   "registrationLabel": "Įveskite savo informaciją, kad užsiregistruotumėte BeOpen platformoje",
   "registrationButton": "Registruoti Vartotoją",
-
   "toolLabel": "Įrankiai",
   "toolDescription": "Pasiekite ir naršykite šiuo metu BeOpen sistemoje prieinamus įrankius",
   "nifiDescription": "Lengvai naudojama, galinga ir patikima sistema duomenų apdorojimui ir paskirstymui. NiFi automatizuoja kibernetinį saugumą, stebėseną, įvykių srautus ir generatyvaus dirbtinio intelekto duomenų srautus ir paskirstymą tūkstančiams įmonių visame pasaulyje, visose pramonės šakose. NiFi buvo sukurtas automatizuoti duomenų srautą tarp sistemų. Nors duomenų srautų terminas vartojamas įvairiuose kontekstuose, čia jį suprantame kaip automatizuotą ir valdomą informacijos srautą tarp sistemų. Ši problema egzistuoja nuo to laiko, kai įmonės turėjo daugiau nei vieną sistemą, kur kai kurios sistemos sukūrė duomenis, o kitos juos vartojo. NiFi taip pat suteikia naršyklėje pagrįstą vartotojo sąsają, kuri leidžia sklandžią patirtį dizaino, valdymo, grįžtamojo ryšio ir stebėjimo srityse. Galimybė vizualizuoti šiuos srautus ir juos pateikti vizualiai gali padėti sumažinti sudėtingumą ir nustatyti sritis, kurias reikia supaprastinti.",
@@ -153,7 +143,6 @@
   "dataCategory4": "Duomenų kokybės gerinimas",
   "dataCategory5": "Duomenų rinkimas ir prieiga prie saugos",
   "openrefineDescription": "OpenRefine yra galingas nemokamas atvirojo kodo įrankis, skirtas dirbti su netvarkingais duomenimis: juos išvalyti; transformuoti iš vieno formato į kitą ir išplėsti žiniatinklio paslaugomis bei išoriniais duomenimis. Jis veikia duomenų eilutėse, kuriose yra langelių stulpeliais, panašiai kaip veikia reliacinės duomenų bazės lentelės, kurias sudaro viena lentelė, kurios eilutes galima filtruoti naudojant kriterijus, kurie apibrėžia (pavyzdžiui, rodomos eilutės, kuriose nurodytas stulpelis nėra tuščias, kitaip nei skaičiuoklėse). „OpenRefine“ operacijos atliekamos visose matomose eilutėse, pavyzdžiui, visų langelių transformavimas visose vieno stulpelio eilutėse arba naujo stulpelio sukūrimas pagal esamus duomenis. Veiksmai, atlikti su duomenų rinkiniu, yra saugomi projekte ir gali būti „. Formulės nėra saugomos langeliuose, bet naudojamos duomenims transformuoti. Klojūroje",
-
   "userInfo": "Vartotojo Informacija",
   "Homepage": "Pradinis Puslapis",
   "My Account": "Mano Paskyra",
@@ -165,7 +154,6 @@
   "Release notes": "Išleidimo pastabos",
   "HVD Impact Assessment": "HVD poveikio vertinimas",
   "toolUsed": "Naudotas įrankis",
-
   "selectingObject_Success": "Objektas pasirinktas sėkmingai!",
   "addingObject_Success": "Objektas pridėtas sėkmingai!",
   "addingObject_ShapeFileError": "ZIP failas nėra Shape failas!",
@@ -271,7 +259,6 @@
   "satisfyRequirementTools": "„BeOpen“ įrankiai, kurie gali būti naudojami specifiniam reikalavimui patenkinti:",
   "datasetTitle": "Patobulinti duomenų rinkiniai",
   "datasetLabel": "Šis grafinis įrankis leidžia stebėti jūsų patobulintinų duomenų rinkinių pažangą, kad jie taptų didelės vertės duomenų rinkiniais, atitinkančiais Europos direktyvą šiuo klausimu. Paprastai pridėkite naują duomenų rinkinį į savo sąrašą ir pradėkite dirbti su juo. Galite bet kada tęsti darbą su savo duomenų rinkiniu, nes dabartinė pažanga yra išsaugoma.",
-
   "addDataset": "Pridėti naują duomenų rinkinį",
   "datasetName": "Duomenų rinkinio pavadinimas",
   "datasetDescription": "Aprašymas",
@@ -279,17 +266,14 @@
   "datasetVersion": "Versija",
   "datasetAction": "Veiksmai",
   "saveDatasetVersion": "Išsaugoti dabartinę versiją",
-
   "lastModified": "Paskutinio keitimo data",
   "createdBy": "Sukūrė",
-
   "datasetDocumentLink": "Dokumento nuoroda",
   "modifyDatasetDescDialog": "Nustatykite arba pakeiskite dabartinės duomenų rinkinio versijos aprašymą",
   "modifyDatasetDescConfirm": "Išsaugoti naują aprašymą",
   "modifyDatasetLinkDialog": "Nustatyti arba keisti dabartinio duomenų rinkinys dokumentacijos detales",
   "modifyDatasetLinkConfirm": "Išsaugoti naują dokumentacijos nuorodą",
   "navigateToDocumentLink": "Eiti į dokumentaciją",
-
   "addDatasetTitleLabel": "Pridėti naują duomenų rinkinį",
   "addDatasetTextLabel": "Įveskite duomenų rinkinio informaciją, kurią norite patobulinti, ji gali būti pakeista vėliau.",
   "addDatasetNameLabel": "Duomenų rinkinio pavadinimas",
@@ -301,14 +285,12 @@
   "deleteObjectConfirmDialogLabel": "Jūs ketinate visam laikui ištrinti objektą šiame saugykloje. Ar tikrai norite tai padaryti?",
   "period": "Laikotarpis",
   "dateField": "Datos laukas",
-
   "deleteConfirmButton": "Patvirtinti ištrynimą",
   "deleteConfirmButtonAbort": "Atšaukti",
   "tableCol3Description": "Įrankių sąrašas pagal kategoriją",
   "savingConfirmDialogLabel": "Jūs ketinate išeiti iš redagavimo puslapio neišsaugoję naujausių pakeitimų. Ar norite išsaugoti dabar?",
   "savingConfirmButton": "Išsaugoti ir Išeiti",
   "savingConfirmButtonAbort": "Išeiti be Išsaugojimo",
-
   "dataModelTitle": "Duomenų Modelis",
   "dataModelTitleDescription1": "Be naudojimo mašinai skaitomu formatu ir licencijos taikymo duomenų rinkiniams, būtina pagerinti sąveikumą, siekiant paskatinti pakartotinį naudojimą. Norint tai pasiekti, būtina laikytis <b>tarptautinių standartų</b> arba priimti <b>bendras duomenų struktūras</b>. Tinkamas pavyzdys galėtų būti ETSI NGSI-LD standarto, kurį palaiko FIWARE Orion Context Brokers, priėmimas duomenų rinkinių aprašymui per specifinius metaduomenis, kuris savo ruožtu skatina sąveikumą tarp duomenų rinkinių.",
   "dataModelTitleDescription2": "Be to, bendrų duomenų struktūrų priėmimas yra esminis punktas skatinant sąveikumą, pavyzdžiui, Smart Data Models",
@@ -316,58 +298,40 @@
   "dataModelTitleDescription4": "Data Model Mapper įrankis leidžia susieti duomenis iš bendro duomenų modelio su FIWARE Orion Context Broker duomenų modeliu. Galima naudoti FIWARE Orion Context Broker saugoti duomenims ir juos gauti naudojant NGSI-LD standartą.",
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Kitas lygiavertis įrankis",
-
   "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Reikšmė gali būti loginė, HTTP atsakymų kodų sąrašas su santykiniu pasikartojimo procentu arba teisingų metrikų procentas",
-
   "evm_title": "Atikos Miško Gaisrų Stebėjimo ir Aptikimo Žemėlapis",
   "evm_description_1": "Miško gaisrai Atikos regione tampa dažnesni ir intensyvesni dėl klimato kaitos, užsitęsusių sausrų ir kylančių temperatūrų. Jų didėjantis artumas miesto teritorijoms kelia grėsmę žmonių gyvybėms, infrastruktūrai ir biologinei įvairovei, sukeldami rimtų aplinkosauginių ir ekonominių pasekmių. <br>Tradiciniai gaisrų aptikimo metodai, tokie kaip palydoviniai ir antžeminiai jutikliai, atokiose vietovėse gali vėluoti arba būti neprieinami. Socialinių tinklų įrašai gali tarnauti kaip ankstyvojo perspėjimo sistema, teikdami informaciją apie gaisrų incidentus. <br>Šis interaktyvus įrankis parodo, kaip socialiniai tinklai gali papildyti EO duomenis beveik realiu laiku aptinkant ir anksti įspėjant apie miško gaisrus, bei teikti įžvalgas, kaip pagerinti gaisrų reagavimo ir valdymo strategijas Atikoje.",
   "evm_description_2": "Šis žemėlapis rodo <b>geolokacinių su gaisrais susijusių socialinių tinklų įrašų</b> (iš X platformos) telkinius kaip vietovėmis pagrįstas žymeles. Šie telkiniai, surinkti tarp 2019 ir 2021 metų, 10 km spinduliu per 24 valandų laikotarpį, buvo susieti su Sentinel-5 NO₂ oro kokybės duomenimis, siekiant atmesti klaidingai geolokuotus įrašus.",
   "evm_description_3": "Išdegusių plotų vizualizacijos iliustruoja didesnius nei 40 hektarų miško gaisrus, padedant įvertinti <b>gaisrų plitimą ir rimtumą</b> Atikos regione tarp 2019 ir 2021 metų",
-
   "evm_label_sources": "Visi šaltiniai",
   "evm_label_platform_x": "Socialinis tinklas X",
   "evm_label_satellite": "Copernicus palydovinės nuotraukos",
   "evm_label_apply_filters": "Taikyti filtrus",
-
   "nst_label_title": "Ateities žemėlapis: kaip Neapolis pertvarko miesto gyvenimą naudodamas analitiką",
   "nst_label_subtitle": "Neapolis imasi drąsių žingsnių siekdamas patobulinti miestų planavimą ir prisitaikymą prie klimato kaitos, pasitelkdamas didžiųjų duomenų analizę",
-
   "nts_tab_no1_title": "BDTI sistema Neapolio viešajai erdvei",
-
   "nst_label_no1_accordion_title": "BDTI skaitmeninė paslauga Neapolio savivaldybei trumpai",
   "nst_label_no1_accordion_label_1": "Neapolio savivaldybė – trečia pagal dydį Italijos metropolinė zona – susiduria su sudėtingais miesto iššūkiais, pradedant socialinėmis ir ekonominėmis nelygybėmis bei klimato kaita, baigiant pertekliniu turizmu ir viešųjų paslaugų trūkumais. Suprasdama, kad būtina stiprinti miesto atsparumą, Neapolis siekė integruoti duomenimis pagrįstas strategijas į miestų planavimą ir judumo sistemas. Bendradarbiaudamas su vietos ekspertais ir Europos partneriais, miestas pradėjo duomenų analizės kelionę, naudodamas",
   "nst_label_no1_accordion_label_2": "siekiant gauti naudingų įžvalgų miesto ir aplinkosaugos tobulinimui.",
-
   "nst_label_no1_accordion_subtitle_1": "Bandomojo projekto tikslas",
   "nst_label_no1_accordion_label_3": "Pagrindinis Neapolio BDTI bandomojo projekto tikslas – stiprinti miesto atsparumą ir tvarumą, pasitelkiant duomenų analizę, siekiant įveikti klimato kaitos poveikį, pavyzdžiui, ekstremalų karštį ir stiprias liūtis, bei geriau išnaudoti viešąsias erdves. Integruojant socialinius ir aplinkosauginius duomenis bei identifikuojant aukštos rizikos zonas, projektas siekia remti sprendimų priėmimo procesus miestų planavime, judumo sistemose ir visuomenės saugumo srityse. Bandomasis projektas taip pat siekia pateikti naudingas įžvalgas apie žaliąjį kapitalą ir socialines-ekonomines pažeidžiamumo sritis, skatinant duomenimis pagrįstą miesto valdymo požiūrį.",
-
   "nst_label_no1_accordion_subtitle_2": "Duomenys: nuo ko viskas prasidėjo",
   "nst_label_no1_accordion_label_4": "<b>Geografiniai duomenų rinkiniai</b> yra pagrindinė erdvinės analizės ir sprendimų priėmimo dalis, ypač sprendžiant <b>miestų planavimo</b> ir <b>tvarumo</b> tikslus. Neapolio komanda naudoja <b>viešųjų erdvių duomenis</b>, siekdama analizuoti jų pasiskirstymą administraciniuose padaliniuose, įvertinti funkcionalumą ir nustatyti neišnaudotas zonas ar teritorijas, kurias būtų galima atgaivinti arba pertvarkyti miesto generaliniame plane. <b>Tvaraus judumo duomenys</b>, struktūrizuoti ir paruošti dalijimuisi, suteikia vertingų įžvalgų apie transporto modelius, padedančius kurti ekologiškesnes ir efektyvesnes judumo sistemas. <b>Karščio poveikio rodikliai</b> ir <b>žaliojo indekso</b> skaičiavimai, gauti iš",
   "nst_label_no1_accordion_label_5": "platformos, siūlo esminius rodiklius, padedančius nustatyti karščio bangoms jautrias vietoves ir skirti prioritetą intervencijoms, kurios pagerintų miesto gyvenamąją aplinką ir atsparumą aplinkos veiksniams. <b>Statistiniai duomenys</b> dar labiau papildo šiuos rinkinius, leidžiant išsamiai analizuoti ir priimti duomenimis pagrįstus sprendimus, kurie atitinka projekto tikslus – skatinti tvarų judumą ir gerinti miesto aplinkos kokybę Neapolyje.",
-
   "nst_label_no1_accordion_subtitle_3": "Strateginė duomenų integracija naudojant inovatyvius įrankius",
   "nst_label_no1_accordion_label_6": "Neapolis siekia <b>patobulinti miestų planavimą</b> ir <b>judumo strategijas</b>, naudodamas <b>duomenų analizę</b>, kad įveiktų klimato kaitos padarinius, ypač ekstremalų karštį ir stiprius kritulius. Vienas iš pagrindinių tikslų yra nustatyti „atokvėpio taškus“ visame mieste – vietas, kur gyventojai galėtų rasti prieglobstį ekstremalių oro sąlygų metu. Miestas pasitelkia <b>NDVI (Normalizuoto augalijos skirtumo indekso) analizę</b>, kad įvertintų <b>žaliąjį kapitalą</b>, kuris yra esminis rodiklis mažinant miesto šiluminės salos efektą. Be to, savivaldybė jungia <b>geoduomenis</b> su <b>socialiniais parametrais</b>, tokiais kaip šeimų skaičius ir pažeidžiamos gyventojų grupės, siekdama užtikrinti visapusišką požiūrį į socialinį ir aplinkosauginį teisingumą.",
   "nst_label_no1_accordion_label_7": "Naudodamas BDTI platformą, <b>Neapolis integruoja duomenų rinkinius iš įvairių šaltinių</b>, siekdamas spręsti esminius miestų planavimo trūkumus. Viešųjų erdvių pasiskirstymas, žaliojo indekso rodikliai ir karščio poveikio vertinimai yra suderinami naudojant <b>moderniausius geoduomenų įrankius</b> skirtus <b>centralizuotam saugojimui</b> ir <b>vizualizacijai</b>. Taip pat naudojami kiti platformos įrankiai, skirti <b>efektyviam duomenų apdorojimui ir darbo eigos automatizavimui</b>.",
-
   "nst_label_no2_accordion_title": "Duomenų vizualizacijos prietaisų skydelio naudojimo gairės",
   "nst_label_no2_accordion_label_1": "Šios pastangos lėmė pažangių duomenų vizualizacijos prietaisų skydelių kūrimą naudojant Apache Superset įrankį, kuris leidžia politikos formuotojams <b>identifikuoti neišnaudotas viešąsias erdves, vertinti socialines ir aplinkosaugines pažeidžiamumo sritis bei kurti rizikos mažinimo strategijas</b>. Atsiranda pradinės įžvalgos, įskaitant potencialių atokvėpio taškų nustatymą ir žemėlapių sudarymą vietovėms, kurioms reikalingos tikslingos intervencijos, remiantis socialiniais ir aplinkosaugos rodikliais.<br> Žemiau esantis puslapis rodo visas sukurtas duomenų vizualizacijas. Norėdami geriau naršyti kiekvieną analizę, galite <b>spustelėti 3 taškus viršutiniame dešiniajame kampe</b> šalia kiekvienos diagramos ir pasirinkti <b>Įjungti viso ekrano režimą</b>. Be to, kiekviena diagrama pateikia išsamų aprašymą, kurį galima peržiūrėti pasirinkus <b>Rodyti diagramos aprašymą</b>. Taip pat galima atsisiųsti diagramos duomenis pasirinkus <b>Atsisiųsti</b> CSV, Excel arba paveikslėlio formatu. <br>Tobulėjant projektui, Neapolis siekia išsamiai dokumentuoti savo patirtį, suteikdamas pavyzdį kitiems viešiesiems subjektams, norintiems taikyti panašius metodus. Pasitelkdamas duomenis kaip viešosios gerovės įrankį, <b>Neapolis žengia svarbius žingsnius link tvaresnės ir atsparesnės ateities</b>. Daugiau informacijos apie Neapolio savivaldybėje atliktus darbus rasite",
   "nst_label_no2_accordion_label_2": "paskelbtuose <b>Europos duomenų portale (data.europa.eu)</b>.",
-
   "nts_tab_no2_title": "Mobilumo žemėlapis",
-
   "nst_label_no3_accordion_title": "Tvarios mobilumo infrastruktūros ir viešųjų erdvių stebėjimas",
   "nst_label_no3_accordion_label_1": "Toliau pateiktas internetinis žemėlapis rodo duomenų rinkinius, sukurtus tvaraus mobilumo rodiklių stebėjimui.",
-
   "nst_label_no3_accordion_label_2": "Mobilumo informacijos dalijimasis ir nuolatinis tvaraus mobilumo įgyvendinimo strategijų stebėjimas reikalauja specialių įrankių.<br> Prie tradicinių oficialių svetainių informacijos kanalų pridedamos pažangios informacijos dalijimosi technologijos, naudojant <b>erdvinių duomenų infrastruktūrą (Spatial data infrastructure)</b>, skirtą tiek miesto valdymu užsiimantiems darbuotojams, tiek piliečiams, per internetinius vizualizavimo įrankius.",
-
   "nst_label_no3_accordion_label_3": "Rodikliai gaunami iš <b>2021 m. patvirtinto Tvaraus mobilumo veiksmų plano (PUMS)</b>. Atnaujinimas numatytas 2025 m. Daugelis duomenų rinkinių buvo integruoti iš įvairių šaltinių, standartizuoti ir suderinti pirmą kartą per šią bandomąją veiklą.<br> Dėka ES projekto BeOpen, savivaldybė prisideda prie atvirų duomenų dalijimosi su HVD duomenų rinkiniais mobilumo srityje.",
-
   "nst_label_no3_accordion_label_4": "<b>GIS analizė</b> ir integracija su atvirojo kodo QGIS programine įranga, duomenų modelių žemėlapiai, licencijavimas ir duomenų talpinimas prisidėjo prie atvirų duomenų dalijimosi mobilumo srityje.<br> Naudojama atvirojo kodo programinė įranga ir duomenų rinkiniai, gauti iš miesto erdvinių duomenų infrastruktūros arba specialiai paruošti.",
-
   "nst_label_no4_accordion_label_1": "<b>Detalės zona</b> (viršutiniame kairiajame žemėlapio peržiūros kampe) pateikia žemėlapio legendą. <b>Turinio</b> skyrius rodo duomenų rinkinius, kuriuos galima įjungti arba išjungti, peržiūrėti taikant naują stilių arba skaidrumo režimu.<br> Naudotojas gali įvertinti duomenų rinkinyje esančią informaciją, atidarydamas atributų lentelę. Galima pritaikyti <b>filtrą</b>, pasirenkant konkrečius duomenis iš lentelės.",
-
   "nst_label_no4_accordion_label_2": "Turinį, susijusį su žemėlapio duomenimis, galima tyrinėti <b>spustelėjus žemėlapį</b>.<br> Galima sukurti <b>asmeninį internetinį žemėlapį</b>, pridedant duomenis iš kitų šaltinių.<br> Žemėlapį galima <b>atspausdinti</b> arba <b>pasidalyti</b> naudojant įrankius viršutinėje juostoje, kurie sugeneruoja nuorodą, kurią galima kopijuoti ir dalytis.<br> Naudotojas gali <b>ieškoti vietų</b> arba <b>dominčių vietų (POI)</b> viršutiniame dešiniajame žemėlapio peržiūros kampe.",
-
   "Napoli digital service": "Neapolio skaitmeninė paslauga",
   "Attica digital service": "Atikos skaitmeninė paslauga"
 }

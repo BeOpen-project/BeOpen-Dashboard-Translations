@@ -2,8 +2,8 @@
   "fileVersion": {
     "version": "1.0"
   },
-  "attica" : {
-    "Event detection using social media": "Ereigniserkennung mit sozialen Medien",
+  "attica": {
+    "Event Detection with Social media": "Ereigniserkennung mit sozialen Medien",
     "Event detection description 1": "Die Diagramme bewerten die Erkennungsleistung von Brandereignissen in der Region Attika von 2019 bis 2021. Der erste Ansatz nutzt X-Posts als Input, um zeitlich und örtlich nahe beieinanderliegende Postgruppen zu erkennen (mithilfe der DBSCAN-Clustering-Methode).",
     "Event detection description 2": "Der zweite Ansatz nutzt die täglichen mittleren NO₂-Konzentrationen aus Satellitendaten (Sentinel-5P TROPOMI) als Input, um ungewöhnliche Schadstoffspitzen im Zusammenhang mit Bränden zu erkennen (mithilfe des Isolation-Forest-Algorithmus).",
     "Event detection description 1 bullet 1": "Von 10 realen Ereignissen wurden 5 korrekt erkannt, 5 wurden übersehen.",
@@ -11,45 +11,42 @@
     "Event detection description 2 bullet 1": "Von 10 realen Ereignissen wurden 9 korrekt erkannt, 1 wurde übersehen.",
     "Event detection description 2 bullet 2": "Es wurden 308 Fehlalarme ausgelöst.",
     "Event detection result": "Die Ergebnisse deuten darauf hin, dass viele der erkannten Ereignisse tatsächlich nichts miteinander zu tun hatten und wahrscheinlich durch Lärm oder irrelevante Beiträge beeinflusst wurden.",
-    "Event detection using NO2": "Ereigniserkennung mit NO2",
-    "Daily average NO2 concentrations and detected anomalies": "Tägliche mittlere NO2-Konzentrationen und erkannte Anomalien",
-    "Description of daily average NO2 concentrations and detected anomalies": "Das Diagramm veranschaulicht die Variabilität der täglichen mittleren NO₂-Konzentrationen in einem Umkreis von 10 km um den Ereignisposten über einen Zeitraum von 10 Tagen um das Ereignisdatum. Anomalien (ungewöhnliche Spitzen) werden mithilfe von Isolation Forest erkannt und durch rote Punkte angezeigt.",
-    "Event detection with social media + NO2": "Ereigniserkennung mit Social Media + NO₂",
-    "Number of X social media posts about fires in Attica region from 2019 to 2021": "Anzahl der in Social Media X veröffentlichten Beiträge zu Bränden in der Region Attika von 2019 bis 2021",
-    "Description of event detection with social media + NO2": "Durch die Kombination von Social-Media-Ereignissen (SM) mit durch NO₂ erkannten Anomalien wird die Anzahl von Fehlalarmen reduziert und die Genauigkeit der Identifizierung realer Brandereignisse verbessert. Das Diagramm veranschaulicht die mithilfe von Social Media erkannten Ereignisse (blaue Balken) und wie viele in Kombination mit NO₂-Anomalien (rote Balken) bestätigt wurden, basierend auf tatsächlichen Bränden.",
+    "Event Detection with NO2": "Ereigniserkennung mit NO2",
+    "Daily Mean NO2 concentrations and detected anomalies": "Tägliche mittlere NO2-Konzentrationen und erkannte Anomalien",
+    "Daily Mean NO2 concentrations and detected anomalies description": "Das Diagramm veranschaulicht die Variabilität der täglichen mittleren NO₂-Konzentrationen in einem Umkreis von 10 km um den Ereignisposten über einen Zeitraum von 10 Tagen um das Ereignisdatum. Anomalien (ungewöhnliche Spitzen) werden mithilfe von Isolation Forest erkannt und durch rote Punkte angezeigt.",
+    "Event Detection with Social Media + NO2": "Ereigniserkennung mit Social Media + NO₂",
+    "Number of posts published on Social Media X regarding fires in the Attica region from 2019 to 2021": "Anzahl der in Social Media X veröffentlichten Beiträge zu Bränden in der Region Attika von 2019 bis 2021",
+    "Event Detection with Social Media + NO2 description": "Durch die Kombination von Social-Media-Ereignissen (SM) mit durch NO₂ erkannten Anomalien wird die Anzahl von Fehlalarmen reduziert und die Genauigkeit der Identifizierung realer Brandereignisse verbessert. Das Diagramm veranschaulicht die mithilfe von Social Media erkannten Ereignisse (blaue Balken) und wie viele in Kombination mit NO₂-Anomalien (rote Balken) bestätigt wurden, basierend auf tatsächlichen Bränden.",
     "Scenarios and results": "Szenarien und Ergebnisse",
-    "Description of scenarios and results": "Die Diagramme zeigen, wie die Kombination von SM-Ereignissen mit NO₂-Anomalien zur Identifizierung von Brandereignissen beiträgt, getestet in drei verschiedenen Szenarien. Die Verzögerungen geben an, wie schnell Satellitendaten in der Praxis verfügbar sein können.",
+    "Scenario and results description": "Die Diagramme zeigen, wie die Kombination von SM-Ereignissen mit NO₂-Anomalien zur Identifizierung von Brandereignissen beiträgt, getestet in drei verschiedenen Szenarien. Die Verzögerungen geben an, wie schnell Satellitendaten in der Praxis verfügbar sein können.",
     "Scenario 1:": "Szenario 1:",
-    "Description scenario 1": "NO₂-Anomalie am selben Tag wie der Brand erkannt.",
-    "Description scenario 1 bullet 1": "3 von 10 Bränden wurden korrekt erkannt.",
-    "Description scenario 1 bullet 2": "0 Fehlalarme.",
+    "Scenario 1 description": "NO₂-Anomalie am selben Tag wie der Brand erkannt.",
+    "Scenario 1 description bullet 1": "3 von 10 Bränden wurden korrekt erkannt.",
+    "Scenario 1 description bullet 2": "0 Fehlalarme.",
     "Scenario 2:": "Szenario 2:",
-    "Description scenario 2": "NO₂-Anomalie mit 1-tägiger Verzögerung erkannt.",
-    "Description scenario 2 bullet 1": "2 von 10 Bränden wurden korrekt erkannt.",
-    "Description scenario 2 bullet 2": "0 Fehlalarme.",
+    "Scenario 2 description": "NO₂-Anomalie mit 1-tägiger Verzögerung erkannt.",
+    "Scenario 2 description bullet 1": "2 von 10 Bränden wurden korrekt erkannt.",
+    "Scenario 2 description bullet 2": "0 Fehlalarme.",
     "Scenario 3:": "Szenario 3:",
-    "Description scenario 3": "NO₂-Anomalie mit 2-tägiger Verzögerung erkannt.",
-    "Description scenario 3 bullet 1": "4 von 10 Bränden wurden korrekt erkannt.",
-    "Description scenario 3 bullet 2": "Keine Fehlalarme.",
+    "Scenario 3 description": "NO₂-Anomalie mit 2-tägiger Verzögerung erkannt.",
+    "Scenario 3 description bullet 1": "4 von 10 Bränden wurden korrekt erkannt.",
+    "Scenario 3 description bullet 2": "Keine Fehlalarme.",
     "Conclusion": "Fazit",
     "Conclusion bullet 1": "NO₂ allein ist aufgrund vieler Fehlalarme unzuverlässig.",
     "Conclusion bullet 2": "SM allein ist präziser als NO₂, übersieht aber dennoch Brände.",
     "Conclusion bullet 3": "SM + NO₂-Fusion reduziert Fehlalarme.",
     "Conclusion bullet 4": "SM ermöglicht frühzeitige Brandwarnungen, während NO₂ die Erkennungszuverlässigkeit erhöht.",
-    "Wildfire incidents and burned areas": "Waldbrandvorfälle und Brandflächen",
-    "Description of wildfire incidents and burned areas": "Vergleich der Anzahl der Waldbrände und der Brandflächen (in Hektar) in der Region Attika zwischen 2019 und 2021.",
-    "All fires: ": "Alle Brände: ",
-    "Fires: ": "Brände: "
+    "Wildfire Incidents and Burned Areas": "Waldbrandvorfälle und Brandflächen",
+    "Wildfire Incidents and Burned Areas description": "Vergleich der Anzahl der Waldbrände und der Brandflächen (in Hektar) in der Region Attika zwischen 2019 und 2021.",
+    "All Fires : ": "Alle Brände: ",
+    "Fires : ": "Brände: "
   },
-  
-
-  "Active services" : "Aktive Dienste",
-  "Inactive services" : "Inaktive Dienste",
+  "Active services": "Aktive Dienste",
+  "Inactive services": "Inaktive Dienste",
   "Enter a key that you want so search": "Geben Sie einen Schlüssel ein, nach dem Sie suchen möchten",
   "Enter a value that you want so search": "Geben Sie einen Wert ein, nach dem Sie suchen möchten",
   "Select the start date for your search": "Wählen Sie das Startdatum für Ihre Suche",
   "Select the end date for your search": "Wählen Sie das Enddatum für Ihre Suche",
-
   "adminPage": "Administrationsseite",
   "registredUsers": "Registrierte Benutzer",
   "registrationDateLabel": "Registrierungsdatum: ",
@@ -58,7 +55,6 @@
   "close": "Schließen",
   "edit": "Bearbeiten",
   "confirm": "Bestätigen",
-
   "addToPrivateDataSpace": "Objekte zum privaten Datenspeicher hinzufügen",
   "addToPrivateDataSpaceLabel1": "Durchsuchen Sie Ihre Daten und wählen Sie eine Datei aus, um eine Vorschau anzuzeigen",
   "addToPrivateDataSpaceLabel2": "Sie können das hochgeladene Objekt mithilfe der Schaltfläche am Ende der Seite Ihrem persönlichen Eimer hinzufügen",
@@ -92,15 +88,12 @@
   "publicDataSpaceLabel1": "Durchsuchen Sie die Daten aus dem öffentlichen freigegebenen Datenordner und wählen Sie eine Datei aus, um eine Vorschau anzuzeigen",
   "publicDataSpaceLabel2": "Dies ist die Liste der Elemente im öffentlichen Eimer",
   "downloadFromPublicDataFolder": "Dieses Element aus dem öffentlichen freigegebenen Datenordner herunterladen",
-
   "homepageBeopenLabel": "Das Ziel von BeOpen ist es, öffentliche Verwaltungen auf lokaler, regionaler und nationaler Ebene bei der Erhöhung der Verfügbarkeit und Benutzerfreundlichkeit von Informationen des öffentlichen Sektors (High-Value-Datensätze) zu unterstützen. Dies erleichtert Organisationen und öffentlichen Einrichtungen die Wiederverwendung offener öffentlicher Daten in der gesamten EU für die Entwicklung von Informationsprodukten und -diensten.",
   "homepageOpenDataLabel": "BeOpen zielt darauf ab, ein offenes Framework zur Förderung von EU-High-Value-Datasets aus dem öffentlichen Sektor bereitzustellen. BeOpen möchte ein kostensparendes, benutzerfreundliches Tool für das Management von High-Value-Datasets anbieten, das speziell für die öffentliche Verwaltung entwickelt wurde; um die Verbesserungen, Zugänglichkeit und Wiederverwendbarkeit der High-Value-Datasets durch die Durchführung von EU-weiten Pilotdiensten und KI-Anwendungen zu validieren und zu bewerten; um ein technisches Framework bereitzustellen, das die technische Dateninteroperabilität, Semantik und Qualität der Datensätze des öffentlichen Sektors verbessert; um öffentliche offene Datensätze in maschinenlesbarem Format über APIs verfügbar zu machen, die über das Europäische Datenportal und nationale Open-Data-Portale auffindbar sind, und um Leitlinien und Empfehlungen bereitzustellen, die die rechtliche Interoperabilität im Kontext der Verbreitung und Wiederverwendung öffentlicher Open Data ansprechen. <br> BeOpen wird die Entwicklung neuer digitaler und KI-Dienste ermöglichen, indem der Zugang zu und die Nutzung von High-Value-Datasets des öffentlichen Sektors der EU erleichtert wird. <br> <br> Es wird erwartet, dass das BeOpen-Projekt-Framework die Verfügbarkeit und Nutzbarkeit von Open Data, die vom öffentlichen Sektor bereitgestellt werden, erhöht. Acht Piloten werden Herausforderungen in den Bereichen Mobilität, urbane Sicherheit, Umwelt und Naturkatastrophen in mehreren EU-Regionen angehen.",
-
   "manuals": "Handbücher",
   "manualsLabel": "Konsultieren Sie die Handbücher und Dokumentationen für jedes Tool des Frameworks",
   "manualsDescription": "Sowohl das Benutzerhandbuch als auch die Dokumentation für die korrekte Verwendung der von den Tools bereitgestellten REST-APIs werden bereitgestellt",
   "search": "Suche",
-
   "mqvTitle": "Metadatenqualitätsprüfer",
   "mqvLabel1": "Wählen Sie einen Katalog oder ein Dataset aus, indem Sie es als RDF-Datei hochladen oder die URL eingeben, die es identifiziert, und erhalten Sie die Punktzahl oder Bewertungsmetriken dafür, gemäß dem",
   "mqvLabel2": "DCAT-AP-Standard",
@@ -127,11 +120,9 @@
   "out_of": "von",
   "datasetMetrics": "Metriken des Datensatzes",
   "catalogueScore": "Katalogpunktzahl",
-
   "registration": "Registrierung",
   "registrationLabel": "Geben Sie Ihre Informationen ein, um sich auf der BeOpen-Plattform zu registrieren",
   "registrationButton": "Benutzer registrieren",
-
   "toolLabel": "Werkzeuge",
   "toolDescription": "Zugriff auf die aktuell verfügbaren Tools im BeOpen-Framework erhalten und navigieren",
   "nifiDescription": "Ein einfach zu bedienendes, leistungsstarkes und zuverlässiges System zur Verarbeitung und Verteilung von Daten. NiFi automatisiert Cybersicherheit, Beobachtbarkeit, Ereignisströme und generative KI-Datenpipelines und -verteilung für Tausende von Unternehmen weltweit in jeder Branche. NiFi wurde entwickelt, um den Datenfluss zwischen Systemen zu automatisieren. Während der Begriff Datenfluss in verschiedenen Kontexten verwendet wird, verwenden wir ihn hier, um den automatisierten und verwalteten Informationsfluss zwischen Systemen zu bezeichnen. Dieses Problem existiert schon seit Unternehmen mehr als ein System hatten, bei dem einige Systeme Daten erzeugten und einige Systeme Daten verbrauchten. Nifi bietet auch eine browserbasierte Benutzeroberfläche, die ein nahtloses Erlebnis für Design, Steuerung, Feedback und Überwachung ermöglicht. Die Möglichkeit, diese Flüsse zu visualisieren und visuell darzustellen, kann dazu beitragen, die Komplexität zu reduzieren und Bereiche zu identifizieren, die vereinfacht werden müssen.",
@@ -152,7 +143,6 @@
   "dataCategory4": "Verbesserung der Datenqualität",
   "dataCategory5": "Datenerfassung und Sicherheitszugriff",
   "openrefineDescription": "OpenRefine ist ein leistungsstarkes kostenloses Open-Source-Tool für die Arbeit mit unordentlichen Daten: Bereinigen, Umwandeln von einem Format in ein anderes und Erweitern mit Webdiensten und externen Daten. Es arbeitet mit Datenzeilen, die Zellen haben unter Spalten, ähnlich wie relationale Datenbanktabellen aus einer Tabelle bestehen, deren Zeilen mithilfe von Facetten gefiltert werden können, die Kriterien definieren (z. B. Anzeigen von Zeilen, bei denen eine bestimmte Spalte im Gegensatz zu Tabellenkalkulationen nicht leer ist). Vorgänge in OpenRefine werden für alle sichtbaren Zeilen ausgeführt, beispielsweise die Transformation aller Zellen in allen Zeilen unter einer Spalte oder die Erstellung einer neuen Spalte basierend auf vorhandenen Daten. Aktionen, die an einem Datensatz ausgeführt werden, werden im Projekt gespeichert und können '. Formeln werden nicht in Zellen gespeichert, sondern nur einmal zur Transformation der Daten verwendet. Die Transformation kann in der General Refine Expression Language (GREL) und in Jython erfolgen in Clojure.",
-
   "userInfo": "Benutzerinformationen",
   "Homepage": "Homepage",
   "My Account": "Mein Konto",
@@ -164,7 +154,6 @@
   "Release notes": "Release-opmerkingen",
   "HVD Impact Assessment": "HVD-Impact-Bewertung",
   "toolUsed": "Verwendetes Werkzeug",
-
   "selectingObject_Success": "Objekt erfolgreich ausgewählt!",
   "addingObject_Success": "Objekt erfolgreich hinzugefügt!",
   "addingObject_ShapeFileError": "Die Zip-Datei ist keine Shape-Datei!",
@@ -270,7 +259,6 @@
   "satisfyRequirementTools": "BeOpen-Tools, die zur Erfüllung der spezifischen Anforderung verwendet werden können:",
   "datasetTitle": "Datensätze zur Verbesserung",
   "datasetLabel": "Dieses grafische Tool ermöglicht es Ihnen, den Fortschritt Ihrer zu verbessernden Datensätze zu überwachen, damit sie zu Datensätzen mit hohem Wert werden, die mit der europäischen Richtlinie in dieser Angelegenheit übereinstimmen. Fügen Sie Ihrer Liste einfach einen neuen Datensatz hinzu und beginnen Sie damit zu arbeiten. Sie können jederzeit an Ihrem Datensatz weiterarbeiten, da der aktuelle Fortschritt gespeichert wird.",
-
   "addDataset": "Neuen Datensatz hinzufügen",
   "datasetName": "Datensatzname",
   "datasetDescription": "Beschreibung",
@@ -278,17 +266,14 @@
   "datasetVersion": "Version",
   "datasetAction": "Aktionen",
   "saveDatasetVersion": "Speichere die aktuelle Version",
-
   "lastModified": "Letztes Änderungsdatum",
   "createdBy": "Erstellt von",
-
   "datasetDocumentLink": "Dokumentenlink",
   "modifyDatasetDescDialog": "Legen Sie die Beschreibung der aktuellen Version des Datensatzes fest oder ändern Sie sie",
   "modifyDatasetDescConfirm": "Neue Beschreibung speichern",
   "modifyDatasetLinkDialog": "Setze oder ändere die Details der Dokumentation der aktuellen Version des Datensatzes",
   "modifyDatasetLinkConfirm": "Neuen Link zur Dokumentation speichern",
   "navigateToDocumentLink": "Zur Dokumentation navigieren",
-
   "addDatasetTitleLabel": "Fügen Sie ein neues Dataset hinzu",
   "addDatasetTextLabel": "Geben Sie die Informationen des Datasets ein, das Sie verbessern möchten. Diese können später geändert werden.",
   "addDatasetNameLabel": "Name des Datasets",
@@ -300,15 +285,12 @@
   "deleteObjectConfirmDialogLabel": "Sie sind dabei, das Objekt in diesem Repository dauerhaft zu löschen. Sind Sie sicher?",
   "period": "Zeitraum",
   "dateField": "Datumsfeld",
-
   "deleteConfirmButton": "Löschung bestätigen",
   "deleteConfirmButtonAbort": "Abbrechen",
   "tableCol3Description": "Liste der verwendeten Werkzeuge nach Kategorie",
-
   "savingConfirmDialogLabel": "Du bist dabei, die Bearbeitungsseite zu verlassen, ohne die letzten Änderungen zu speichern. Möchtest du jetzt speichern?",
   "savingConfirmButton": "Speichern und Beenden",
   "savingConfirmButtonAbort": "Beenden ohne zu speichern",
-
   "dataModelTitle": "Datenmodell",
   "dataModelTitleDescription1": "Zusätzlich zur Nutzung eines maschinenlesbaren Formats und zur Anwendung einer Lizenz auf Datensätze muss die Interoperabilität verbessert werden, um die Wiederverwendung zu fördern. Um dies zu erreichen, ist es erforderlich, die <b>internationalen Standards</b> einzuhalten oder <b>gemeinsame Datenstrukturen</b> zu übernehmen. Ein gültiges Beispiel könnte die Übernahme des ETSI-NGSI-LD-Standards sein, der von den FIWARE-Orion-Context-Brokern für die Beschreibung von Datensätzen durch spezifische Metadaten unterstützt wird und wiederum die Interoperabilität zwischen Datensätzen fördert.",
   "dataModelTitleDescription2": "Darüber hinaus ist die Übernahme gemeinsamer Datenstrukturen ein entscheidender Punkt zur Förderung der Interoperabilität, zum Beispiel die Smart Data Models",
@@ -316,58 +298,40 @@
   "dataModelTitleDescription4": "Das Data Model Mapper Tool ermöglicht es, die Daten aus dem gemeinsamen Datenmodell auf das Datenmodell des FIWARE Orion Context Broker zu mappen. Es ist möglich, den FIWARE Orion Context Broker zu verwenden, um die Daten zu speichern und sie mit dem NGSI-LD-Standard abzurufen.",
   "dataModelMapperTitle": "Data Model Mapper",
   "anotherEquivalentTool": "Ein weiteres gleichwertiges Tool",
-
   "MQA_DATASET_TABLE_INFO_TOOLTIP_VALUE": "Der Wert kann ein Boolescher Wert sein, eine Liste von HTTP-Antwortcodes mit relativer Auftretenshäufigkeit oder der Prozentsatz korrekter Metriken",
-
   "evm_title": "Überwachungs- und Erkennungskarte für Waldbrände in Attika",
   "evm_description_1": "Waldbrände in der Region Attika werden aufgrund des Klimawandels, anhaltender Dürren und steigender Temperaturen häufiger und intensiver. Ihre zunehmende Nähe zu städtischen Gebieten bedroht Menschenleben, Infrastruktur und Biodiversität und führt zu schwerwiegenden Umwelt- und wirtschaftlichen Folgen. <br>Traditionelle Branderkennungsmethoden wie Satelliten- und bodengestützte Sensoren können in abgelegenen Gebieten verzögert oder nicht verfügbar sein. Social-Media-Beiträge können als Frühwarnsystem dienen und Einblicke in Brandereignisse geben. <br>Dieses interaktive Tool zeigt, wie Social Media EO-Daten für die Waldbranderkennung und Frühwarnung in Echtzeit ergänzen und Einblicke zur Verbesserung der Waldbrandbekämpfung und Managementstrategien in Attika liefern kann.",
   "evm_description_2": "Diese Karte zeigt Cluster von <b>georeferenzierten brandbezogenen Social-Media-Beiträgen</b> (von der X-Plattform) als standortbasierte Pins. Diese Cluster, die zwischen 2019 und 2021 innerhalb eines Radius von 10 km über einen Zeitraum von 24 Stunden gesammelt wurden, wurden mit Sentinel-5 NO₂-Luftqualitätsdaten korreliert, um falsch georeferenzierte Beiträge auszuschließen.",
   "evm_description_3": "Brandflächenvisualisierungen zeigen Waldbrände größer als 40 Hektar und helfen bei der Bewertung der <b>Brandausbreitung und -schwere</b> in der Region Attika zwischen 2019 und 2021",
-
   "evm_label_sources": "Alle Quellen",
   "evm_label_platform_x": "Soziales Netzwerk X",
   "evm_label_satellite": "Copernicus-Satellitenbilder",
   "evm_label_apply_filters": "Filter anwenden",
-
   "nst_label_title": "Die Zukunft kartieren: Wie Neapel das städtische Leben durch Analytik neu gestaltet",
   "nst_label_subtitle": "Neapel ergreift mutige Maßnahmen zur Verbesserung der Stadtplanung und Klimaanpassung durch die Nutzung von Big-Data-Analysen",
-
   "nts_tab_no1_title": "BDTI-Rahmen für den öffentlichen Raum in Neapel",
-
   "nst_label_no1_accordion_title": "BDTI-Digitaldienst für die Stadt Neapel auf einen Blick",
   "nst_label_no1_accordion_label_1": "Die Stadt Neapel (Comune di Napoli), Italiens drittgrößtes Ballungsgebiet, steht vor komplexen urbanen Herausforderungen, die von sozioökonomischen Ungleichheiten und Klimawandel bis hin zu Overtourismus und Defiziten in öffentlichen Dienstleistungen reichen. Angesichts der Notwendigkeit, die urbane Resilienz zu verbessern, strebt Neapel danach, datengestützte Strategien in die Stadtplanung und Mobilitätskonzepte zu integrieren. Durch eine Zusammenarbeit mit lokalen Experten und europäischen Partnerschaften hat die Stadt eine datenzentrierte Initiative gestartet, die",
   "nst_label_no1_accordion_label_2": "nutzt, um umsetzbare Erkenntnisse für städtische und ökologische Verbesserungen zu gewinnen.",
-
   "nst_label_no1_accordion_subtitle_1": "Pilotziel",
   "nst_label_no1_accordion_label_3": "Das Hauptziel des BDTI-Pilotprojekts in Neapel ist es, die städtische Resilienz und Nachhaltigkeit zu stärken, indem Datenanalysen zur Bewältigung der Auswirkungen des Klimawandels wie extreme Hitze und starke Regenfälle eingesetzt werden und die Nutzung öffentlicher Räume verbessert wird. Durch die Integration sozio-ökologischer Daten und die Identifizierung von Hochrisikogebieten soll das Projekt Entscheidungsprozesse in der Stadtplanung, Mobilität und öffentlichen Sicherheit unterstützen. Der Pilotversuch soll zudem verwertbare Erkenntnisse zu grünen Kapitalmetriken und sozioökonomischen Verwundbarkeiten liefern und eine datengestützte Stadtverwaltung fördern.",
-
   "nst_label_no1_accordion_subtitle_2": "Die Daten: Wo der Prozess begann",
   "nst_label_no1_accordion_label_4": "<b>Geografische Datensätze</b> sind eine wesentliche Grundlage für räumliche Analysen und Entscheidungsprozesse, insbesondere im Hinblick auf <b>Stadtplanung</b> und <b>Nachhaltigkeit</b>. Die von Neapel genutzten Datensätze umfassen <b>öffentliche Raumdaten</b>, um deren Verteilung in Verwaltungsgebieten zu analysieren, Funktionalitäten zu bewerten und ungenutzte oder kritische Bereiche für eine mögliche Neugestaltung im städtischen Masterplan zu identifizieren. <b>Daten zur nachhaltigen Mobilität</b>, strukturiert und teilbar, liefern umsetzbare Erkenntnisse zu Verkehrsverhalten, um grünere und effizientere Mobilitätssysteme zu entwickeln. <b>Werte zur Hitzebelastung</b> und <b>Grünflächenindex</b>, abgeleitet aus der",
   "nst_label_no1_accordion_label_5": "Plattform, bieten wichtige Indikatoren zur Identifizierung von Überhitzungszonen und zur Priorisierung von Maßnahmen zur Verbesserung der städtischen Lebensqualität und Umweltresilienz. <b>Statistische Daten</b> ergänzen diese Datensätze zusätzlich und ermöglichen detaillierte Analysen, um faktenbasierte Entscheidungen zu treffen, die mit den Projektzielen zur Förderung nachhaltiger Mobilität und Verbesserung der städtischen Umweltqualität übereinstimmen.",
-
   "nst_label_no1_accordion_subtitle_3": "Strategische Datenintegration mit innovativen Tools",
   "nst_label_no1_accordion_label_6": "Neapel zielt darauf ab, <b>seine Stadtplanung</b> und <b>Mobilitätsstrategien</b> zu verbessern, indem es <b>Datenanalysen</b> nutzt, um die Auswirkungen des Klimawandels, insbesondere extreme Hitze und starke Regenfälle, anzugehen. Ein zentrales Ziel ist die Identifizierung von 'Schutzpunkten' in der Stadt – Orte, an denen Bürger während extremer Wetterereignisse Schutz finden können. Die Stadt nutzt <b>NDVI-Analysen (Normalized Difference Vegetation Index)</b>, um das <b>grüne Kapital</b> zu quantifizieren, eine entscheidende Metrik zur Minderung des städtischen Wärmeinseleffekts. Zudem verknüpft die Stadt <b>geospatiale Daten</b> mit <b>sozialen Parametern</b> wie Haushaltszahlen und gefährdeten Bevölkerungsgruppen und verfolgt damit einen ganzheitlichen Ansatz zur sozioökologischen Gerechtigkeit.",
   "nst_label_no1_accordion_label_7": "Durch die BDTI-Plattform <b>integriert Neapel Datensätze aus verschiedenen Quellen</b>, um kritische Lücken in der Stadtplanung zu schließen. Die Verteilung öffentlicher Räume, Grünflächenindex-Werte und Hitzebelastungsanalysen werden mit <b>modernsten Tools</b> für geospatiale Daten, <b>zentrale Speicherung</b> und <b>Visualisierung</b> harmonisiert. Weitere Tools der Plattform kommen zudem für <b>effiziente Datenverarbeitung und Workflow-Automatisierung</b> zum Einsatz.",
-
   "nst_label_no2_accordion_title": "Richtlinien zur Nutzung des Data-Visualization-Dashboards",
   "nst_label_no2_accordion_label_1": "Diese Bemühungen mündeten in der Entwicklung fortschrittlicher Datenvisualisierungs-Dashboards mit dem Apache-Superset-Tool, das Entscheidungsträgern ermöglicht, <b>ungenutzte öffentliche Räume zu identifizieren, sozioökologische Verwundbarkeiten zu bewerten und Strategien zur Risikominderung zu erstellen</b>. Erste Erkenntnisse zeigen potenzielle Schutzpunkte auf und kartieren Gebiete, die gezielte Maßnahmen basierend auf sozioökologischen Metriken benötigen. Die untenstehende Seite zeigt alle erstellten Datenvisualisierungen.<br> Zur besseren Navigation jeder einzelnen Analyse kann man auf die <b>3 Punkte oben rechts</b> neben jedem Diagramm klicken und die Option <b>Vollbildmodus</b> auswählen. Zudem bietet jedes Diagramm eine vollständige Beschreibung der gezeigten Analyse, die durch Auswahl der Option <b>Diagrammbeschreibung anzeigen</b> sichtbar wird. Es ist ebenfalls möglich, die Diagrammdaten im CSV- oder Excel-Tabellenformat oder als Bild herunterzuladen, indem die Option <b>Download</b> ausgewählt wird. <br>Während Neapel weiter voranschreitet, dokumentiert es seinen Fortschritt umfassend, um anderen öffentlichen Einrichtungen eine Orientierungshilfe zu bieten. Indem die Stadt Daten als Werkzeug für das Gemeinwohl nutzt, <b>geht Neapel bedeutende Schritte in Richtung einer nachhaltigeren und widerstandsfähigeren Zukunft</b>. Für weitere Informationen zu den Arbeiten für die Stadt Neapel konsultieren Sie die",
   "nst_label_no2_accordion_label_2": "veröffentlicht von der <b>Generaldirektion für digitale Dienste (data.europa.eu)</b>.",
-
   "nts_tab_no2_title": "Mobilitätskartierung",
-
   "nst_label_no3_accordion_title": "Nachhaltige Mobilitätsinfrastruktur und Überwachung öffentlicher Räume",
   "nst_label_no3_accordion_label_1": "Die folgende Webkarte zeigt die erstellten Datensätze zur Überwachung nachhaltiger Mobilitätsindikatoren.",
-
   "nst_label_no3_accordion_label_2": "Der Austausch von Mobilitätsinformationen und die kontinuierliche Überwachung nachhaltiger Mobilitätsstrategien erfordern spezifische Werkzeuge.<br> Erweiterte Techniken zur Informationsverbreitung, unter Verwendung einer <b>räumlichen Dateninfrastruktur</b>, ergänzen die üblichen offiziellen Webseitenkanäle, sowohl für die Stadtverwaltung als auch für Bürger über Web-Visualisierungstools.",
-
   "nst_label_no3_accordion_label_3": "Indikatoren stammen aus dem <b>PUMS-Nachhaltige-Mobilitäts-Aktionsplan</b>, der 2021 verabschiedet wurde. Die Aktualisierung ist für 2025 geplant. Die meisten Datensätze wurden aus mehreren Quellen integriert, standardisiert und erstmals in dieser Pilotaktivität harmonisiert.<br> Dank des EU-BeOpen-Projekts trägt die Gemeinde mit HVD-Datensätzen zur offenen Datenfreigabe im Mobilitätsbereich bei.",
-
   "nst_label_no3_accordion_label_4": "<b>GIS-Analyse</b> und die Integration mit der Open-Source-Software QGIS, Datenmodell-Mapping, Lizenzierung und Datenhosting haben den Weg zur offenen Datenfreigabe im Mobilitätsbereich unterstützt.<br> Open-Source-Software und Datensätze stammen aus der räumlichen Dateninfrastruktur der Gemeinde oder wurden speziell vorbereitet.",
-
   "nst_label_no4_accordion_label_1": "Der <b>Detailbereich</b> (oben links im Kartenbetrachter) zeigt eine Legende für die Karte. Der <b>Inhalt</b> listet die Datensätze auf, die ein- oder ausgeschaltet, mit einem neuen Stil visualisiert oder in Transparenzmodus angezeigt werden können.<br> Der Benutzer kann die im Datensatz enthaltenen Informationen bewerten, indem er die Attributtabelle öffnet. Ein <b>Filter</b> kann dann angewendet werden, um spezifische Inhalte aus der Tabelle auszuwählen.",
-
   "nst_label_no4_accordion_label_2": "Die mit den Kartendaten verknüpften Inhalte an einem bestimmten Ort können durch <b>Klicken auf die Karte</b> erkundet werden.<br> <b>Eine persönliche Webkarte</b> kann durch Hinzufügen von Daten aus anderen Quellen erstellt werden.<br> Die Karte kann <b>gedruckt</b> oder <b>geteilt</b> werden, mit den Werkzeugen in der oberen Leiste, die einen kopierbaren und teilbaren Link generieren.<br> Der Benutzer kann <b>Orte</b> oder <b>Sehenswürdigkeiten (POIs)</b> im oberen rechten Bereich des Kartenbetrachters suchen.",
-
   "Napoli digital service": "Digitaler Service Neapel",
   "Attica digital service": "Digitaler Service Attika"
 }
