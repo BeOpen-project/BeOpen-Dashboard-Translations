@@ -157,6 +157,8 @@
   "Tools": "Tools",
   "Manuals": "Manuals",
   "Data-Collaboration": "Data-Collaboration",
+  "HVD Operating Guide": "HVD Operating Guide",
+  "Public Tools": "Public Tools",
   "Settings": "Settings",
   "Release notes": "Release notes",
   "HVD Impact Assessment": "HVD Impact Assessment",
@@ -276,7 +278,7 @@
   "datasetVersion": "Version",
   "datasetAction": "Actions",
   "saveDatasetVersion": "Save the actual version",
-  
+
   "lastModified": "Last Modified Date",
   "createdBy": "Created By",
 
@@ -323,7 +325,7 @@
   "evm_description_2": "The map displays clusters of <b>geolocated fire-related social media posts</b> (from the X-platform) as location-based pins. These clusters, collected between 2019 and 2021, within a 10 km radius over a 24-hour period, have been correlated with Sentinel-5 NO₂ air quality data to exclude falsely geolocated posts.",
   "evm_description_3": "The map displays Sentinel-5 <b>NO₂ air quality anomalies</b>, detected using the Isolation Forest method, a data anomaly detection algorithm. The EO data are analyzed around the event’s post location and date.",
   "evm_description_4": "Burned area visualizations illustrate <b>wildfires larger than 40 hectares</b>, helping assess fire spread and severity in the Attica region between 2019 and 2021.",
-  
+
   "evm_label_sources": "All Sources",
   "evm_label_platform_x": "Social Network X",
   "evm_label_satellite": "Copernicus Satellite Images",
@@ -331,13 +333,13 @@
 
   "nst_label_title": "Mapping the Future: How Naples is redesigning urban life through analytics",
   "nst_label_subtitle": "Naples takes bold steps to improve urban planning and climate adaptation by leveraging big data analytics",
-  
+
   "nts_tab_no1_title": "BDTI framework for Napoli public space",
 
   "nst_label_no1_accordion_title": "BDTI Digital service on Naples Municipality in a nutshell",
   "nst_label_no1_accordion_label_1": "The Municipality of Naples (Comune di Napoli), Italy's third-largest metropolitan area, is a city faced with complex urban challenges, ranging from socio-economic disparities and climate change to overtourism and gaps in public services. Recognising the need to improve urban resilience, Naples sought to integrate data-driven strategies into its urban planning and mobility frameworks. Through a collaborative effort involving local expertise and European partnerships, the city has embarked on a data-centric journey, utilising the",
   "nst_label_no1_accordion_label_2": "to create actionable insights for urban and environmental improvements.",
-  
+
   "nst_label_no1_accordion_subtitle_1": "Pilot objective",
   "nst_label_no1_accordion_label_3": "The primary objective of the Naples BDTI pilot is to enhance urban resilience and sustainability by leveraging data analytics to address climate change impacts, such as extreme heat and heavy rainfall, and improve public space utilisation. By integrating socio-environmental data and identifying high-risk areas, the project aims to support decision-making processes for urban planning, mobility, and public safety. The pilot also seeks to provide actionable insights into green capital metrics and socio-economic vulnerabilities, fostering a data-driven approach to urban management.",
 
@@ -352,14 +354,14 @@
   "nst_label_no2_accordion_title": "Guidelines for using data visualization dashboard",
   "nst_label_no2_accordion_label_1": "These efforts culminated in the development of advanced data visualization dashboards using Apache Superset tool, enabling policymakers to <b>identify underutilized public spaces, assess socio-environmental vulnerabilities, and profile strategies for risk mitigation</b>. Preliminary insights are emerging, including identifying potential relief hubs and mapping areas requiring targeted interventions based on socio-environmental metrics. The page below shows all the data visualizations produced. <br> To better navigate each individual analysis, you can <b>click on the 3 dots positioned at the top right</b> next to each individual chart and select the <b>Enter full screen</b> option. In addition, each chat provides a complete description of the analysis shown, viewable by selecting the <b>Show chart description</b> option. It is also possible to obtain a download of the chart data by selecting the <b>Download</b> option in CSV and Excel tabular format or as an image. <br>As Naples progresses, it aims to document its journey comprehensively, providing a showcase for other public entities to adopt similar approaches. By embracing data as a tool for public good, <b>Naples is taking meaningful steps toward a more sustainable and resilient future</b>. For further details on the work carried out for the municipality of Naples, consult the",
   "nst_label_no2_accordion_label_2": "published by the <b>Directorate-General for Digital Services (data.europa.eu)</b>.",
-  
+
   "nts_tab_no2_title": "Mobility Mapping",
 
   "nst_label_no3_accordion_title": "Sustainable mobility infrastructure and public space monitoring",
   "nst_label_no3_accordion_label_1": "The following web map shows the datasets built to monitor sustainable mobility indicators.",
-  
+
   "nst_label_no3_accordion_label_2": "Mobility information sharing and constant monitoring of sustainable mobility implementation strategies need specific tools.<br> Advanced information sharing techniques, with the use of a <b>Spatial data infrastructure</b> are added to usual official website information canals, for the use of civil servants involved in the city management and citizens, via web visualization tools.",
-  
+
   "nst_label_no3_accordion_label_3": "Indicators come from the <b>PUMS sustainable Mobility action plan</b> adopted in 2021. Updating is on the way in 2025. Most of the datasets have been integrated from multiple sources, standardized and harmonized for the first time in this pilot activity. <br>Thanks to EU BeOpen project, the Municipality contributes with HVD datasets to Open data sharing in the field of Mobility.",
 
   "nst_label_no3_accordion_label_4": "<b>GIs analysis</b> and integration with open-source QGIS software, Data model mapping, licensing and data hosting have supported the path towards Open data sharing in the field of Mobility. <br>Open-source software and dataset coming from the Municipality spatial data infrastructure or specifically prepared. ",
@@ -368,9 +370,8 @@
   "nst_label_no4_accordion_label_2": "The content associated to the map data in a single location can be explored by <b>clicking on the map</b>. <br> <b>A personal web map</b> can be composed adding data from other sources. <br>The map can be <b>printed</b> or <b>shared</b> with the tools accessible in the upper bar, as the system compiles a link that can be copied and shared. <br> The user can <b>search for places</b> or <b>points of interest (POIs)</b> in the upper right part of the Map viewer.",
 
   "Napoli digital service": "Napoli digital service",
-  "Attica digital service":"Attica digital service",
+  "Attica digital service": "Attica digital service",
 
   "public_tool_Description": "Explore the BeOpen High Value Datasets Published Across the EU",
   "public_tool_Content": "To support public administrations at local, regional, and national levels in enhancing the availability and usability of public sector information, the <b>BeOpen</b> project has developed a set of <b>High Value Datasets (HVDs)</b>. <br>The publication of these datasets enables organizations and public bodies across the EU to reuse open data for the development of innovative products and information services. <br>The tools on this page allow users to access and browse these HVDs, which served as input for the <b>eight pilot services</b> implemented during the project. These pilots address challenges in the areas of <b>mobility</b>, <b>urban security</b>, <b>environment</b> and <b>natural disaster management</b> across various EU regions. <br>All datasets are <b>open</b>, provided in <b>machine-readable formats</b> and accessible via <b>APIs</b>, through both the <b>European Data Portal</b> and national open data portals."
-
 }
