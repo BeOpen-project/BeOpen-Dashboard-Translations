@@ -368,6 +368,9 @@
   "nst_label_no4_accordion_label_2": "The content associated to the map data in a single location can be explored by <b>clicking on the map</b>. <br> <b>A personal web map</b> can be composed adding data from other sources. <br>The map can be <b>printed</b> or <b>shared</b> with the tools accessible in the upper bar, as the system compiles a link that can be copied and shared. <br> The user can <b>search for places</b> or <b>points of interest (POIs)</b> in the upper right part of the Map viewer.",
 
   "Napoli digital service": "Napoli digital service",
-  "Attica digital service":"Attica digital service"
+  "Attica digital service":"Attica digital service",
+
+  "public_tool_Description": "Explore the BeOpen High Value Datasets Published Across the EU",
+  "public_tool_Content": "To support public administrations at local, regional, and national levels in enhancing the availability and usability of public sector information, the <b>BeOpen</b> project has developed a set of <b>High Value Datasets (HVDs)</b>. <br>The publication of these datasets enables organizations and public bodies across the EU to reuse open data for the development of innovative products and information services. <br>The tools on this page allow users to access and browse these HVDs, which served as input for the <b>eight pilot services</b> implemented during the project. These pilots address challenges in the areas of <b>mobility</b>, <b>urban security</b>, <b>environment</b> and <b>natural disaster management</b> across various EU regions. <br>All datasets are <b>open</b>, provided in <b>machine-readable formats</b> and accessible via <b>APIs</b>, through both the <b>European Data Portal</b> and national open data portals."
 
 }
