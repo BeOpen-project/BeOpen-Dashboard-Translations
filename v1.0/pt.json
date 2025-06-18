@@ -339,6 +339,8 @@
 
   "public_tool_Description": "Explore os Conjuntos de Dados de Alto Valor publicados pelo BeOpen em toda a UE",
   "public_tool_Content": "Para apoiar as administrações públicas a nível local, regional e nacional na melhoria da disponibilidade e usabilidade da informação do setor público, o projeto <b>BeOpen</b> desenvolveu um conjunto de <b>Conjuntos de Dados de Alto Valor (HVDs)</b>. <br>A publicação destes conjuntos de dados permite que organizações e entidades públicas em toda a UE reutilizem dados abertos para o desenvolvimento de produtos inovadores e serviços de informação. <br>As ferramentas nesta página permitem aos utilizadores aceder e navegar por estes HVDs, que serviram como input para os <b>oito serviços piloto</b> implementados durante o projeto. Estes pilotos abordam desafios nas áreas de <b>mobilidade</b>, <b>segurança urbana</b>, <b>ambiente</b> e <b>gestão de desastres naturais</b> em várias regiões da UE. <br>Todos os conjuntos de dados são <b>abertos</b>, fornecidos em <b>formatos legíveis por máquina</b> e acessíveis através de <b>APIs</b>, tanto através do <b>Portal Europeu de Dados</b> como dos portais nacionais de dados abertos.",
-  
-  "itemsPerPage": "Itens por Página"
+
+  "itemsPerPage": "Itens por Página",
+  "selectPilot": "Selecionar um piloto",
+  "allPilots": "Todos os pilotos"
 }

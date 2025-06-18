@@ -339,6 +339,8 @@
 
   "public_tool_Description": "Erkunden Sie die von BeOpen veröffentlichten High-Value-Datensätze in der gesamten EU",
   "public_tool_Content": "Um öffentliche Verwaltungen auf lokaler, regionaler und nationaler Ebene bei der Verbesserung der Verfügbarkeit und Nutzbarkeit von Informationen des öffentlichen Sektors zu unterstützen, hat das <b>BeOpen</b>-Projekt eine Reihe von <b>High-Value-Datensätzen (HVDs)</b> entwickelt. <br>Die Veröffentlichung dieser Datensätze ermöglicht es Organisationen und öffentlichen Stellen in der gesamten EU, offene Daten für die Entwicklung innovativer Produkte und Informationsdienste wiederzuverwenden. <br>Die Tools auf dieser Seite ermöglichen es den Nutzern, auf diese HVDs zuzugreifen und sie zu durchsuchen, die als Input für die <b>acht Pilotdienste</b> dienten, die während des Projekts implementiert wurden. Diese Pilotprojekte befassen sich mit Herausforderungen in den Bereichen <b>Mobilität</b>, <b>städtische Sicherheit</b>, <b>Umwelt</b> und <b>Management von Naturkatastrophen</b> in verschiedenen EU-Regionen. <br>Alle Datensätze sind <b>offen</b>, werden in <b>maschinenlesbaren Formaten</b> bereitgestellt und sind über <b>APIs</b> sowohl über das <b>Europäische Datenportal</b> als auch über nationale Open-Data-Portale zugänglich.",
-  
-  "itemsPerPage": "Artikel pro Seite"
+
+  "itemsPerPage": "Artikel pro Seite",
+  "selectPilot": "Wählen Sie einen Piloten aus",
+  "allPilots": "Alle Piloten"
 }
